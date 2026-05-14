@@ -1,0 +1,12 @@
+{
+  "schema_version": 1,
+  "engine_version": "0.1.0",
+  "last_updated_at": "2026-05-14 00:58:15.966772+00",
+  "license": "CC-BY-4.0",
+  "parameters": {
+    "tau": 0.5,
+    "initial_rating": 1500.0,
+    "initial_rd": 350.0,
+    "initial_volatility": 0.06
+  }
+}
