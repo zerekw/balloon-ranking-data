@@ -1,0 +1,118 @@
+{
+  "event_id": "bb08d6f7-a2eb-4224-8fa8-b8c094ec69a4",
+  "name": "The Great Reno Balloon Race 2024",
+  "event_date": "2024-09-06",
+  "end_date": null,
+  "country": null,
+  "location": "Reno, NV, United States",
+  "source": "watchmefly",
+  "source_event_id": "reno2024",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "61022527-d51f-4767-a216-3fe29070398a",
+      "task_number": 1,
+      "task_type": "Judge Declared Goal",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 143.0
+        }
+      ]
+    },
+    {
+      "task_id": "5a7b6363-7ab2-4e1b-abd6-700a3826a6c8",
+      "task_number": 3,
+      "task_type": "Hesitation Waltz",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 171.0
+        }
+      ]
+    },
+    {
+      "task_id": "eeb21843-ecf2-4e68-82c2-4ef6ceace897",
+      "task_number": 4,
+      "task_type": "Judge Declared Goal",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 186.0
+        }
+      ]
+    },
+    {
+      "task_id": "5cabfa04-ba63-4175-844d-968fc46f9b3f",
+      "task_number": 5,
+      "task_type": "Calculated Rate of Approach Task",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 741.0
+        }
+      ]
+    },
+    {
+      "task_id": "6236791c-8c60-4ea7-8bbe-e21410d05a76",
+      "task_number": 6,
+      "task_type": "Hesitation Waltz",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 229.0
+        }
+      ]
+    },
+    {
+      "task_id": "c3d03253-614c-4ab8-9068-9a1de59c2a2f",
+      "task_number": 7,
+      "task_type": "Judge Declared Goal",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 371.0
+        }
+      ]
+    },
+    {
+      "task_id": "7589dd88-e300-4214-b055-b6b1c2f49c85",
+      "task_number": 8,
+      "task_type": "Gordon Bennett Memorial",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 714.0
+        }
+      ]
+    },
+    {
+      "task_id": "48fb5731-317e-47a1-8023-397da4f8a6c1",
+      "task_number": 9,
+      "task_type": "Pilot Declared Goal",
+      "results": [
+        {
+          "pilot_id": "d2b70600-dd48-4d9b-81f3-5f1d18db3d80",
+          "position": null,
+          "no_result": true,
+          "raw_points": 511.0
+        }
+      ]
+    }
+  ]
+}

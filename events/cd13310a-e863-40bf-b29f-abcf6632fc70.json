@@ -1,0 +1,32 @@
+{
+  "event_id": "cd13310a-e863-40bf-b29f-abcf6632fc70",
+  "name": "Hot Air for Hope - Carson Valley Balloon Festival 2024",
+  "event_date": "2024-05-17",
+  "end_date": null,
+  "country": null,
+  "location": "Gardnerville, NV, United States",
+  "source": "watchmefly",
+  "source_event_id": "hafh2024",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "ce6ad831-54ec-4f72-abee-d2a402cd36fe",
+      "task_number": 1,
+      "task_type": "Judge Declared Goal",
+      "results": []
+    },
+    {
+      "task_id": "4132222e-24af-4974-8777-0d9913726830",
+      "task_number": 2,
+      "task_type": "Gordon Bennett Memorial",
+      "results": []
+    },
+    {
+      "task_id": "22259cb0-1e4d-46ed-99c3-348f3b298434",
+      "task_number": 3,
+      "task_type": "Hesitation Waltz",
+      "results": []
+    }
+  ]
+}
