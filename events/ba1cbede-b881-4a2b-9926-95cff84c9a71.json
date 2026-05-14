@@ -1,17 +1,17 @@
 {
   "event_id": "ba1cbede-b881-4a2b-9926-95cff84c9a71",
   "name": "Balloons Over Wadsworth 2025",
-  "event_date": "2025-01-01",
+  "event_date": "2025-08-08",
   "end_date": null,
   "country": null,
   "location": "Wadsworth, OH, United States",
   "source": "watchmefly",
   "source_event_id": "wadsworth2025",
-  "sof": 1617.47543440457,
+  "sof": 1604.20400051954,
   "included": true,
   "tasks": [
     {
-      "task_id": "8a42bae8-bdae-4de4-9f64-307420694d38",
+      "task_id": "1e088f75-8488-47a6-a733-c1d399fa7ae5",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "task_id": "ac2a607c-c2cb-49e8-8fd5-4fc2ae3bec7d",
+      "task_id": "f81b997e-aa80-4603-a4b9-dfa518607ac5",
       "task_number": 2,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "task_id": "232c3ac4-3c12-4378-9f63-9d34d0c021b3",
+      "task_id": "83bafff0-0a4c-4b84-b411-4ce88933b61f",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "task_id": "ad4e1917-607d-47d4-95dd-8e89529b73f6",
+      "task_id": "e3d8f758-9a20-4406-967f-d4d16777e4fa",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -471,7 +471,7 @@
       ]
     },
     {
-      "task_id": "33923792-4c2e-4b30-ac9a-cdc7b6fcd0f1",
+      "task_id": "1cae5ede-1fcf-474f-92c3-602c90db1bfe",
       "task_number": 5,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -586,7 +586,7 @@
       ]
     },
     {
-      "task_id": "80f0a653-7d0f-4e40-914b-be9f05e1c788",
+      "task_id": "1d751200-23b0-4f21-8786-f4b0432d91ac",
       "task_number": 6,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "task_id": "1cedcda8-01ec-41cc-88f5-89b88fe24c73",
+      "task_id": "4833842b-be3f-46fb-8796-fb3e7d72aed7",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [

@@ -1,17 +1,17 @@
 {
   "event_id": "7a816c58-6f57-4c8b-ba67-2762842b69ab",
   "name": "Balloons Over Bavarian Inn 2025",
-  "event_date": "2025-01-01",
+  "event_date": "2025-05-23",
   "end_date": null,
   "country": null,
   "location": "Frankenmuth, MI, United States",
   "source": "watchmefly",
   "source_event_id": "bobi2025",
-  "sof": 1515.2631009486724,
+  "sof": 1500.0,
   "included": true,
   "tasks": [
     {
-      "task_id": "5aef37ce-4e1e-49eb-a9d1-2431733116c8",
+      "task_id": "6f82f221-6e9c-45c9-98ab-aea5c5a821f0",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -162,7 +162,7 @@
       ]
     },
     {
-      "task_id": "090cea8e-a8d4-44ed-b697-26e07b3df26b",
+      "task_id": "d1d3cf46-ad1f-4f60-b1c5-96e196f891bc",
       "task_number": 2,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "task_id": "3532c033-63d1-4c1e-9b1d-9b740fadc5de",
+      "task_id": "b733334c-86a7-4a5c-b778-caac72c37e2a",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -464,7 +464,7 @@
       ]
     },
     {
-      "task_id": "dc562a0f-6df3-4cef-8a1f-e7d0a5f5dd5e",
+      "task_id": "dd28f2da-888b-465f-bdab-0dde0d71df42",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "task_id": "68c79b14-9e03-4211-945c-1766906fcb03",
+      "task_id": "9a32524c-b63a-4cb0-a163-6d3be888f69c",
       "task_number": 5,
       "task_type": "Fly In",
       "results": [
@@ -766,7 +766,7 @@
       ]
     },
     {
-      "task_id": "7e8bc981-8cc4-4e3e-9c31-db27ae6e9093",
+      "task_id": "fdee571e-1d1c-453a-8ea4-90f0aa9183e4",
       "task_number": 6,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -917,7 +917,7 @@
       ]
     },
     {
-      "task_id": "8a63680e-6f77-4808-8230-a467cccefeb1",
+      "task_id": "cfbe51bf-9172-45f0-9061-199ece1c524f",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [

@@ -1,17 +1,17 @@
 {
   "event_id": "c32b1cb4-6267-419f-b899-fb50f9854061",
   "name": "Council Bluffs Field of Flight 2025",
-  "event_date": "2025-01-01",
+  "event_date": "2025-09-05",
   "end_date": null,
   "country": null,
   "location": "Council Bluffs, IA, United States",
   "source": "watchmefly",
   "source_event_id": "cbfof2025",
-  "sof": 1500.0,
+  "sof": 1589.0939598897626,
   "included": true,
   "tasks": [
     {
-      "task_id": "ec8dc940-9271-4734-9752-1ad4d3c650fc",
+      "task_id": "dc0ee7ac-0813-496e-b73c-3ecd5c0ed9cf",
       "task_number": 1,
       "task_type": "Maximum Distance",
       "results": [
@@ -144,7 +144,7 @@
       ]
     },
     {
-      "task_id": "d005b92e-5403-4f69-8c24-ca740c2a45c2",
+      "task_id": "df1fba9c-ffb4-4931-9359-3175bd77d588",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "task_id": "71ff6b93-7284-4067-b67d-86aecfedf9d1",
+      "task_id": "594e5e41-12b6-407e-9469-65736ce476ac",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "task_id": "90f32b13-a136-4340-bcce-ce4312af271c",
+      "task_id": "dd2b0fc5-1281-4090-92c7-9a5a0775273f",
       "task_number": 4,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -543,7 +543,7 @@
       ]
     },
     {
-      "task_id": "0245050d-f560-4e3a-8525-aa660e147956",
+      "task_id": "a94e6732-a54c-4faa-a75c-37cc36ea04b4",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -676,7 +676,7 @@
       ]
     },
     {
-      "task_id": "7f8637ba-87ec-467d-9fab-0b655a6ac261",
+      "task_id": "b617c394-4fd2-472b-b787-1c27677f2738",
       "task_number": 6,
       "task_type": "Judge Declared Goal",
       "results": [

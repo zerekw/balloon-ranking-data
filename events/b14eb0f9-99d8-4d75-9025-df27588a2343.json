@@ -1,17 +1,17 @@
 {
   "event_id": "b14eb0f9-99d8-4d75-9025-df27588a2343",
   "name": "2025 BFA US National Championship",
-  "event_date": "2025-01-01",
+  "event_date": "2025-06-09",
   "end_date": null,
   "country": null,
   "location": "Longview, TX, United States",
   "source": "watchmefly",
   "source_event_id": "usnationals2025",
-  "sof": 1636.015356322082,
+  "sof": 1503.13863191764,
   "included": true,
   "tasks": [
     {
-      "task_id": "44fab0e1-f75b-429c-b6c6-da40e79c9e26",
+      "task_id": "b9727dc9-2e9f-46d6-a375-4b96f8e242be",
       "task_number": 1,
       "task_type": "Maximum Distance",
       "results": [
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "task_id": "13b1dee2-7f27-49b9-9d8c-7f91a2278032",
+      "task_id": "7016009f-01dd-497a-9b49-20d81650c2bf",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "task_id": "b2c6a74b-f339-4a05-b506-0da162ad5177",
+      "task_id": "5fe1a27c-b5ab-4bcc-ac81-7b22b0c69727",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1040,7 +1040,7 @@
       ]
     },
     {
-      "task_id": "234ed6fb-9e4e-4508-b481-2d558042d5d5",
+      "task_id": "865b482f-45fb-44a0-a5bb-0b9b8bb6795a",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "task_id": "083147d5-e4e7-4cb8-ac21-769fff7e7e40",
+      "task_id": "f50aaded-6d74-4ed3-abab-df99bc78ede9",
       "task_number": 5,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1726,7 +1726,7 @@
       ]
     },
     {
-      "task_id": "9e83d56c-3a9f-4a16-8846-c20183834807",
+      "task_id": "7dc23968-9551-4ca8-adb3-180d94676fe0",
       "task_number": 6,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -2069,7 +2069,7 @@
       ]
     },
     {
-      "task_id": "25168b79-c2d6-4225-b76c-15f55e113642",
+      "task_id": "8be9283a-9650-421c-99a7-4eafa176cdff",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2412,7 +2412,7 @@
       ]
     },
     {
-      "task_id": "83215b98-86e9-408f-8e84-cfadf444abfb",
+      "task_id": "262b3122-495b-4036-a10e-e531f23475c4",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -2755,7 +2755,7 @@
       ]
     },
     {
-      "task_id": "9b6a2976-e7c4-4483-b8c7-5c59740f729b",
+      "task_id": "1b1ad56a-91d2-434c-b824-8b478bda14df",
       "task_number": 9,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -3098,7 +3098,7 @@
       ]
     },
     {
-      "task_id": "d9c1f618-1e42-43f2-b4d8-f302f8de6e2c",
+      "task_id": "e0e46281-6b47-465f-a88e-17332a14ee04",
       "task_number": 10,
       "task_type": "Fly In",
       "results": [
@@ -3441,7 +3441,7 @@
       ]
     },
     {
-      "task_id": "6bcea3b9-a016-45e1-9bf2-e2f63fa10149",
+      "task_id": "3e850b83-6fea-426d-9762-9a48ca7547e6",
       "task_number": 11,
       "task_type": "Judge Declared Goal",
       "results": [

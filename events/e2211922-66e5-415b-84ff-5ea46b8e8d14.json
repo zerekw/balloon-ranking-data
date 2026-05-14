@@ -1,17 +1,17 @@
 {
   "event_id": "e2211922-66e5-415b-84ff-5ea46b8e8d14",
   "name": "2025 Young Guns",
-  "event_date": "2025-01-01",
+  "event_date": "2025-06-13",
   "end_date": null,
   "country": null,
   "location": "Longview, TX, United States",
   "source": "watchmefly",
   "source_event_id": "youngguns2025",
-  "sof": 1450.5939891631022,
+  "sof": 1500.0,
   "included": true,
   "tasks": [
     {
-      "task_id": "fca36a15-c5f0-4d7e-8ee5-facae705a6c7",
+      "task_id": "f3f0c8cd-0bcb-48c2-b718-110bf1b48f59",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -54,7 +54,7 @@
       ]
     },
     {
-      "task_id": "dc52c468-037e-49e9-b51c-26e9d6ed90dc",
+      "task_id": "dde12995-4ef9-47e0-83cc-e53bb0f9d746",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -97,7 +97,7 @@
       ]
     },
     {
-      "task_id": "dc92a94f-1c70-4d98-8489-6c46a5d17703",
+      "task_id": "a6d7f8cc-4bdf-4741-9a7b-28f008a02bfc",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -140,7 +140,7 @@
       ]
     },
     {
-      "task_id": "60dd9b21-b980-414c-9ec6-2cbb027ad43c",
+      "task_id": "dcb5ad75-a459-41ab-a2cd-6fb0cbed4bf7",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -183,7 +183,7 @@
       ]
     },
     {
-      "task_id": "45da1325-24bf-4b10-9dc4-a9bbdea2e36a",
+      "task_id": "9522231f-cbd0-4d43-8f2b-314b571d699a",
       "task_number": 5,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -226,7 +226,7 @@
       ]
     },
     {
-      "task_id": "4b6cae08-0b79-4470-8b6e-15575a87a351",
+      "task_id": "c31ff5c5-5567-4153-a47f-4fd6d21e3fc5",
       "task_number": 6,
       "task_type": "Fly In",
       "results": [

@@ -1,17 +1,17 @@
 {
   "event_id": "ab2e31ac-6e68-4e2b-a189-e4a3488785d1",
   "name": "Angola Balloons Aloft",
-  "event_date": "2025-01-01",
+  "event_date": "2025-07-11",
   "end_date": null,
   "country": null,
   "location": "Angola, IN, United States",
   "source": "watchmefly",
   "source_event_id": "angola2025",
-  "sof": 1500.0,
+  "sof": 1504.7575150403059,
   "included": true,
   "tasks": [
     {
-      "task_id": "36566234-ad7e-4406-a166-0b0b98e58f5a",
+      "task_id": "24735f69-79d4-40ba-947a-90383aef523b",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -180,7 +180,7 @@
       ]
     },
     {
-      "task_id": "9c67664b-d8cc-4bea-a44a-8745d9fa9144",
+      "task_id": "6e09f388-e247-46ea-a09f-7685b5e79d6f",
       "task_number": 2,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -349,7 +349,7 @@
       ]
     },
     {
-      "task_id": "5a977121-9b86-4297-9da1-e2d29e8efca0",
+      "task_id": "fc575da2-7bb5-4ea3-a0ab-724b186b467e",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
