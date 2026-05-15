@@ -11,7 +11,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "886938cc-5269-421f-b09b-f93c2f92c7f6",
+      "task_id": "50587b30-9bae-45f3-98e0-de097f30c82a",
       "task_number": 1,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -106,6 +106,12 @@
           "raw_points": 444.0
         },
         {
+          "pilot_id": "9d7656be-1fc3-467d-bbac-af04d50cad5c",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 623.0
+        },
+        {
           "pilot_id": "a5851e9f-fac2-49d0-b85d-c4cbebae0c1b",
           "position": 17,
           "no_result": false,
@@ -174,7 +180,7 @@
       ]
     },
     {
-      "task_id": "d07988a7-1ecf-46c7-815a-2149b6fc15e8",
+      "task_id": "09da9cc2-fd87-4a21-90ea-d7eaf457dc25",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -333,11 +339,17 @@
           "position": null,
           "no_result": true,
           "raw_points": 74.0
+        },
+        {
+          "pilot_id": "9d7656be-1fc3-467d-bbac-af04d50cad5c",
+          "position": null,
+          "no_result": true,
+          "raw_points": 74.0
         }
       ]
     },
     {
-      "task_id": "9fe357fd-ccf4-4328-accc-4158db43c909",
+      "task_id": "852495d6-af5e-418d-99b4-d505495d2a57",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -412,6 +424,12 @@
           "position": 12,
           "no_result": false,
           "raw_points": 856.0
+        },
+        {
+          "pilot_id": "9d7656be-1fc3-467d-bbac-af04d50cad5c",
+          "position": 13,
+          "no_result": false,
+          "raw_points": 792.0
         },
         {
           "pilot_id": "385a009e-de2d-4867-9ea6-77528e23c91b",
@@ -500,7 +518,7 @@
       ]
     },
     {
-      "task_id": "b2d808c9-6266-407a-827d-ccbe45099332",
+      "task_id": "67e6ea5d-a1da-49c0-b5bc-d55584af08e1",
       "task_number": 4,
       "task_type": "Fly In",
       "results": [
@@ -545,6 +563,12 @@
           "position": 6,
           "no_result": false,
           "raw_points": 829.0
+        },
+        {
+          "pilot_id": "9d7656be-1fc3-467d-bbac-af04d50cad5c",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 819.0
         },
         {
           "pilot_id": "7bc33f9d-216a-4da6-abcc-518e3ea84dca",

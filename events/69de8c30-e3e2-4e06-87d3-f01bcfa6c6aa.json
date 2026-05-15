@@ -11,7 +11,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "5d0b01be-d890-4740-a143-9ce68d645d36",
+      "task_id": "4747d890-c96a-4450-b762-3fd6b339e2bf",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -50,6 +50,24 @@
           "position": 6,
           "no_result": false,
           "raw_points": 167.0
+        },
+        {
+          "pilot_id": "4f7c986f-c943-4f60-929f-7a5cc238dff2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "93b78c73-ad3f-4c6d-9c36-ecc709d6f441",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "95d1631f-78db-4dbe-b020-12903ab82833",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
         },
         {
           "pilot_id": "fb629be6-90d7-4ad9-b57d-2137576fbe19",
