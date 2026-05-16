@@ -11,7 +11,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "eca9dc30-432b-45ff-ba4e-850f83bc3a28",
+      "task_id": "af14f829-587d-49dc-bd06-7b6e5dd49e92",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -90,7 +90,7 @@
       ]
     },
     {
-      "task_id": "02b732b9-d02c-4fba-9f7c-e650758b6f51",
+      "task_id": "2723585c-bbbe-470f-86ad-1418aa6fe797",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "task_id": "0bbd9356-18e4-4159-8799-628144257f81",
+      "task_id": "f53b3fd9-af38-407c-a6a2-0d11340e92ed",
       "task_number": 3,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -248,7 +248,7 @@
       ]
     },
     {
-      "task_id": "fba0df45-24fd-4d93-b1a0-ab144ba3ba7c",
+      "task_id": "efd68248-5e50-41b2-834f-940951640ce1",
       "task_number": 4,
       "task_type": "Fly In",
       "results": [
@@ -257,6 +257,30 @@
           "position": 1,
           "no_result": false,
           "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "0e199a9a-e9fc-406b-bb90-7c912ee35a6e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 800.0
+        },
+        {
+          "pilot_id": "2d8b7673-58c9-4673-8e44-dc5ca9c62d53",
+          "position": null,
+          "no_result": true,
+          "raw_points": 800.0
+        },
+        {
+          "pilot_id": "95b2a780-09db-49de-8a44-bf0c852a921b",
+          "position": null,
+          "no_result": true,
+          "raw_points": 800.0
+        },
+        {
+          "pilot_id": "0a03d3eb-0ac2-45c6-bafb-51bc2196e741",
+          "position": null,
+          "no_result": true,
+          "raw_points": 800.0
         },
         {
           "pilot_id": "d07b3543-c243-45a4-b290-34d1adb7e00e",
@@ -289,37 +313,13 @@
           "raw_points": 800.0
         },
         {
-          "pilot_id": "359a4376-d57f-4dc7-a9d6-fc49be9968b0",
-          "position": null,
-          "no_result": true,
-          "raw_points": 800.0
-        },
-        {
           "pilot_id": "405c5ffd-2ad6-40a1-b1af-3baf820fa6cd",
           "position": null,
           "no_result": true,
           "raw_points": 800.0
         },
         {
-          "pilot_id": "0e199a9a-e9fc-406b-bb90-7c912ee35a6e",
-          "position": null,
-          "no_result": true,
-          "raw_points": 800.0
-        },
-        {
-          "pilot_id": "2d8b7673-58c9-4673-8e44-dc5ca9c62d53",
-          "position": null,
-          "no_result": true,
-          "raw_points": 800.0
-        },
-        {
-          "pilot_id": "95b2a780-09db-49de-8a44-bf0c852a921b",
-          "position": null,
-          "no_result": true,
-          "raw_points": 800.0
-        },
-        {
-          "pilot_id": "0a03d3eb-0ac2-45c6-bafb-51bc2196e741",
+          "pilot_id": "359a4376-d57f-4dc7-a9d6-fc49be9968b0",
           "position": null,
           "no_result": true,
           "raw_points": 800.0
@@ -327,7 +327,7 @@
       ]
     },
     {
-      "task_id": "85d5ace4-c647-43a3-b0ff-f21494ef2c9b",
+      "task_id": "d70c6cb6-a667-47f8-ad21-8f044cb82cce",
       "task_number": 5,
       "task_type": "Fly In",
       "results": [
