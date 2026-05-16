@@ -7,11 +7,11 @@
   "location": "Longview, TX, United States",
   "source": "watchmefly",
   "source_event_id": "usnationals2025",
-  "sof": 1625.197753612251,
+  "sof": 1625.1977536121894,
   "included": true,
   "tasks": [
     {
-      "task_id": "c50f460b-e2c1-4c70-a964-6446601d83e7",
+      "task_id": "cc83400c-b5ae-470a-b881-5f1f908d1aab",
       "task_number": 1,
       "task_type": "Maximum Distance",
       "results": [
@@ -354,7 +354,7 @@
       ]
     },
     {
-      "task_id": "d77f05c4-5c72-4292-ba5f-a3d398fb235f",
+      "task_id": "3934ea31-698f-4759-95ea-759d9c4da652",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "task_id": "d6217de1-956e-4484-8c91-93002787852e",
+      "task_id": "8f68ecbc-85f5-4b58-b9d8-ca0214bdfd43",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1040,7 +1040,7 @@
       ]
     },
     {
-      "task_id": "46f98e0a-d729-49ba-8e75-20c71acc9d3a",
+      "task_id": "5477b2b5-a5c3-4252-9294-879d7b0b4bbf",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -1383,7 +1383,7 @@
       ]
     },
     {
-      "task_id": "0ae2b186-6269-485f-88b7-3b4d51ed152f",
+      "task_id": "cd1eb2ca-173c-4a32-8131-ef49b82bd3fd",
       "task_number": 5,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1726,7 +1726,7 @@
       ]
     },
     {
-      "task_id": "de0ff227-0660-47bc-8352-cf95f0b359f3",
+      "task_id": "3ef53c87-87e1-43c5-8974-ebf07befdc9f",
       "task_number": 6,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -2069,7 +2069,7 @@
       ]
     },
     {
-      "task_id": "a5f2dfe5-46ac-44b5-8da6-6f075bfddda4",
+      "task_id": "2c87f8c3-c014-4f85-b8d6-4a897d27e2d1",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2412,7 +2412,7 @@
       ]
     },
     {
-      "task_id": "34274bf6-3ccd-4a3b-8da0-64c3e00ff58b",
+      "task_id": "07645f86-4237-487b-ae7e-fccabbd38674",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -2561,7 +2561,7 @@
           "raw_points": 548.0
         },
         {
-          "pilot_id": "76cd6492-1314-4078-b6fb-d87dcaa2d342",
+          "pilot_id": "af5bca5f-d888-4e48-8de1-e3a838238604",
           "position": 25,
           "no_result": false,
           "raw_points": 512.0
@@ -2573,7 +2573,7 @@
           "raw_points": 512.0
         },
         {
-          "pilot_id": "af5bca5f-d888-4e48-8de1-e3a838238604",
+          "pilot_id": "76cd6492-1314-4078-b6fb-d87dcaa2d342",
           "position": 25,
           "no_result": false,
           "raw_points": 512.0
@@ -2723,19 +2723,19 @@
           "raw_points": 71.0
         },
         {
-          "pilot_id": "56aa4ce0-f8ff-44b8-83fe-dc3322c171df",
-          "position": 52,
-          "no_result": false,
-          "raw_points": 375.0
-        },
-        {
           "pilot_id": "d064b1a6-650a-4f97-b717-2119d078d8ef",
           "position": 52,
           "no_result": false,
           "raw_points": 348.0
         },
         {
-          "pilot_id": "410c1427-52bf-413f-afb7-32c53a00b961",
+          "pilot_id": "56aa4ce0-f8ff-44b8-83fe-dc3322c171df",
+          "position": 52,
+          "no_result": false,
+          "raw_points": 375.0
+        },
+        {
+          "pilot_id": "476b97d0-c115-4770-b133-d70a3e4037b3",
           "position": null,
           "no_result": true,
           "raw_points": 36.0
@@ -2747,7 +2747,7 @@
           "raw_points": 36.0
         },
         {
-          "pilot_id": "476b97d0-c115-4770-b133-d70a3e4037b3",
+          "pilot_id": "410c1427-52bf-413f-afb7-32c53a00b961",
           "position": null,
           "no_result": true,
           "raw_points": 36.0
@@ -2755,7 +2755,7 @@
       ]
     },
     {
-      "task_id": "3238148c-719f-42ee-9d40-25d1b15b9b4b",
+      "task_id": "9b349940-22e7-4c13-8ca0-f4f61904c379",
       "task_number": 9,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -3098,7 +3098,7 @@
       ]
     },
     {
-      "task_id": "2ac140a1-1893-4d5a-8137-1f1acf310cd1",
+      "task_id": "e3e9c623-b9d3-435c-9c92-22ebc1ed873f",
       "task_number": 10,
       "task_type": "Fly In",
       "results": [
@@ -3441,7 +3441,7 @@
       ]
     },
     {
-      "task_id": "82ef8f7a-f81b-4ee0-bed4-9ed6358cec9f",
+      "task_id": "809ba35c-7496-4182-a039-37659eb62381",
       "task_number": 11,
       "task_type": "Judge Declared Goal",
       "results": [
