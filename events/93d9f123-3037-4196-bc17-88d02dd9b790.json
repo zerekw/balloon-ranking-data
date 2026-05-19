@@ -1,0 +1,221 @@
+{
+  "event_id": "93d9f123-3037-4196-bc17-88d02dd9b790",
+  "name": "Svenska Cupen 2025",
+  "event_date": "2025-02-14",
+  "end_date": null,
+  "country": null,
+  "location": "Multiple Locations, Sweden",
+  "source": "watchmefly",
+  "source_event_id": "svenska2025",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "483554b0-aceb-4d0d-a246-a0062f91435d",
+      "task_number": 1,
+      "task_type": "Hesitation Waltz",
+      "results": [
+        {
+          "pilot_id": "239414d4-e896-4d71-a515-e0dfa3f4b365",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "218cdfc4-9acf-4aee-bf7e-2f6021cf6c69",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 969.0
+        },
+        {
+          "pilot_id": "ad7c1466-09cd-41f0-b289-eef6efc29724",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 808.0
+        },
+        {
+          "pilot_id": "449ff94e-b6c8-464e-8e62-b88249b24cfc",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 571.0
+        },
+        {
+          "pilot_id": "0ba8cefc-15af-4387-aa1d-c57e3f890038",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 429.0
+        },
+        {
+          "pilot_id": "a5535f40-1aba-4367-96db-098cfa40f5f9",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 286.0
+        },
+        {
+          "pilot_id": "5690377e-dfaa-4cfc-98e1-9c035c9b5dec",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 143.0
+        },
+        {
+          "pilot_id": "a587eed2-3e64-47c2-8ded-761f64d7973e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "8c42c2ac-3cd4-4e73-bba1-7add55bd1620",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "a899f995-0a3a-402e-991e-4e0ca959bd9a",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    },
+    {
+      "task_id": "bbc6a930-1c14-40bb-9ce3-edb3081642d6",
+      "task_number": 2,
+      "task_type": "Fly On",
+      "results": [
+        {
+          "pilot_id": "218cdfc4-9acf-4aee-bf7e-2f6021cf6c69",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "239414d4-e896-4d71-a515-e0dfa3f4b365",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 919.0
+        },
+        {
+          "pilot_id": "449ff94e-b6c8-464e-8e62-b88249b24cfc",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 889.0
+        },
+        {
+          "pilot_id": "ad7c1466-09cd-41f0-b289-eef6efc29724",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 571.0
+        },
+        {
+          "pilot_id": "a5535f40-1aba-4367-96db-098cfa40f5f9",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 429.0
+        },
+        {
+          "pilot_id": "0ba8cefc-15af-4387-aa1d-c57e3f890038",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 286.0
+        },
+        {
+          "pilot_id": "5690377e-dfaa-4cfc-98e1-9c035c9b5dec",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 143.0
+        },
+        {
+          "pilot_id": "a587eed2-3e64-47c2-8ded-761f64d7973e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "8c42c2ac-3cd4-4e73-bba1-7add55bd1620",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "a899f995-0a3a-402e-991e-4e0ca959bd9a",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    },
+    {
+      "task_id": "02dfa1cf-c4df-4766-ad57-e49f0b414ac3",
+      "task_number": 3,
+      "task_type": "Pilot Declared Goal",
+      "results": [
+        {
+          "pilot_id": "449ff94e-b6c8-464e-8e62-b88249b24cfc",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "218cdfc4-9acf-4aee-bf7e-2f6021cf6c69",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 667.0
+        },
+        {
+          "pilot_id": "239414d4-e896-4d71-a515-e0dfa3f4b365",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 333.0
+        },
+        {
+          "pilot_id": "4b8f11aa-be37-42f8-a82b-17b82d477ef5",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "ad7c1466-09cd-41f0-b289-eef6efc29724",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "a587eed2-3e64-47c2-8ded-761f64d7973e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "0ba8cefc-15af-4387-aa1d-c57e3f890038",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "5690377e-dfaa-4cfc-98e1-9c035c9b5dec",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "8c42c2ac-3cd4-4e73-bba1-7add55bd1620",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "a5535f40-1aba-4367-96db-098cfa40f5f9",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "a899f995-0a3a-402e-991e-4e0ca959bd9a",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    }
+  ]
+}

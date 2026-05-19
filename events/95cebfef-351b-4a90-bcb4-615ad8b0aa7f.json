@@ -1,0 +1,287 @@
+{
+  "event_id": "95cebfef-351b-4a90-bcb4-615ad8b0aa7f",
+  "name": "Lovers Aloft Balloon Festival 2025",
+  "event_date": "2025-02-14",
+  "end_date": null,
+  "country": null,
+  "location": "Lovelock, Nevada, United States",
+  "source": "watchmefly",
+  "source_event_id": "lovers2025",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "4bece666-898d-4220-8a1d-1100de7d60c8",
+      "task_number": 2,
+      "task_type": "Gordon Bennett Memorial",
+      "results": [
+        {
+          "pilot_id": "324cf782-3241-4da2-b48b-4feed1d0c5b3",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "ce4d2f74-cf97-438e-8881-f9a27b241a96",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 923.0
+        },
+        {
+          "pilot_id": "b2501257-ceca-47fd-93c2-b5024c03999d",
+          "position": 14,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "d603366c-72fe-459d-afb6-fa78941cd556",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "c37d9ca5-a995-414b-b3db-db5123e13ed1",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "55c82ba3-1afd-4bba-a82b-8262ffe324d7",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "994e9b55-9a53-46bf-82ef-869663568ee1",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "913c321b-6ad6-4c95-b116-57a53fbdf1f2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "074a7f9f-4e0e-4056-a8dc-7003fde5d4ae",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "702756f1-f214-470e-9d9e-aba0e1b42fb4",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "ba1f3e1a-b65e-4bd0-af78-d5067c56bc55",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "75093483-acf6-45fe-811c-fc72fd1ea402",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "e15d2276-ea3f-4b0e-a21c-e427a7753e0e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        },
+        {
+          "pilot_id": "102c8d54-a73e-4880-9980-580ec70908b4",
+          "position": null,
+          "no_result": true,
+          "raw_points": 723.0
+        }
+      ]
+    },
+    {
+      "task_id": "da1ba9ed-ca89-42f1-9f4a-5084fb9d0b0f",
+      "task_number": 3,
+      "task_type": "Hesitation Waltz",
+      "results": [
+        {
+          "pilot_id": "55c82ba3-1afd-4bba-a82b-8262ffe324d7",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "324cf782-3241-4da2-b48b-4feed1d0c5b3",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 935.0
+        },
+        {
+          "pilot_id": "ce4d2f74-cf97-438e-8881-f9a27b241a96",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 927.0
+        },
+        {
+          "pilot_id": "75093483-acf6-45fe-811c-fc72fd1ea402",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 845.0
+        },
+        {
+          "pilot_id": "702756f1-f214-470e-9d9e-aba0e1b42fb4",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 832.0
+        },
+        {
+          "pilot_id": "ba1f3e1a-b65e-4bd0-af78-d5067c56bc55",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 821.0
+        },
+        {
+          "pilot_id": "d603366c-72fe-459d-afb6-fa78941cd556",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 538.0
+        },
+        {
+          "pilot_id": "913c321b-6ad6-4c95-b116-57a53fbdf1f2",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 462.0
+        },
+        {
+          "pilot_id": "c37d9ca5-a995-414b-b3db-db5123e13ed1",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 385.0
+        },
+        {
+          "pilot_id": "994e9b55-9a53-46bf-82ef-869663568ee1",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 308.0
+        },
+        {
+          "pilot_id": "102c8d54-a73e-4880-9980-580ec70908b4",
+          "position": 11,
+          "no_result": false,
+          "raw_points": 231.0
+        },
+        {
+          "pilot_id": "b2501257-ceca-47fd-93c2-b5024c03999d",
+          "position": 14,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "074a7f9f-4e0e-4056-a8dc-7003fde5d4ae",
+          "position": null,
+          "no_result": true,
+          "raw_points": 116.0
+        },
+        {
+          "pilot_id": "e15d2276-ea3f-4b0e-a21c-e427a7753e0e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 116.0
+        }
+      ]
+    },
+    {
+      "task_id": "972d3f94-3503-4b28-a3f8-db60b861bbdb",
+      "task_number": 4,
+      "task_type": "Judge Declared Goal",
+      "results": [
+        {
+          "pilot_id": "102c8d54-a73e-4880-9980-580ec70908b4",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "55c82ba3-1afd-4bba-a82b-8262ffe324d7",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 883.0
+        },
+        {
+          "pilot_id": "994e9b55-9a53-46bf-82ef-869663568ee1",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 826.0
+        },
+        {
+          "pilot_id": "d603366c-72fe-459d-afb6-fa78941cd556",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 764.0
+        },
+        {
+          "pilot_id": "913c321b-6ad6-4c95-b116-57a53fbdf1f2",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 742.0
+        },
+        {
+          "pilot_id": "ce4d2f74-cf97-438e-8881-f9a27b241a96",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 629.0
+        },
+        {
+          "pilot_id": "702756f1-f214-470e-9d9e-aba0e1b42fb4",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 538.0
+        },
+        {
+          "pilot_id": "324cf782-3241-4da2-b48b-4feed1d0c5b3",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 462.0
+        },
+        {
+          "pilot_id": "b2501257-ceca-47fd-93c2-b5024c03999d",
+          "position": 14,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "c37d9ca5-a995-414b-b3db-db5123e13ed1",
+          "position": null,
+          "no_result": true,
+          "raw_points": 262.0
+        },
+        {
+          "pilot_id": "074a7f9f-4e0e-4056-a8dc-7003fde5d4ae",
+          "position": null,
+          "no_result": true,
+          "raw_points": 262.0
+        },
+        {
+          "pilot_id": "ba1f3e1a-b65e-4bd0-af78-d5067c56bc55",
+          "position": null,
+          "no_result": true,
+          "raw_points": 262.0
+        },
+        {
+          "pilot_id": "75093483-acf6-45fe-811c-fc72fd1ea402",
+          "position": null,
+          "no_result": true,
+          "raw_points": 262.0
+        },
+        {
+          "pilot_id": "e15d2276-ea3f-4b0e-a21c-e427a7753e0e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 262.0
+        }
+      ]
+    }
+  ]
+}
