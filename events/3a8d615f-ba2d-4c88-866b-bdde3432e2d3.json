@@ -9,5 +9,84 @@
   "source_event_id": "juniorworlds2021",
   "sof": 1500.0,
   "included": true,
-  "tasks": []
+  "tasks": [
+    {
+      "task_id": "63ec7327-dcf8-4bb1-9c82-293395f9f3ba",
+      "task_number": 2,
+      "task_type": "Calculated Rate of Approach Task",
+      "results": []
+    },
+    {
+      "task_id": "237faebb-1b6f-4385-a4b4-d8348ec02c71",
+      "task_number": 5,
+      "task_type": "Judge Declared Goal",
+      "results": []
+    },
+    {
+      "task_id": "3fea629a-e0e4-422a-a38c-f8a2000016ab",
+      "task_number": 8,
+      "task_type": "Hesitation Waltz",
+      "results": []
+    },
+    {
+      "task_id": "8dca617b-37c7-439e-b698-eddace06e11b",
+      "task_number": 10,
+      "task_type": "Hesitation Waltz",
+      "results": []
+    },
+    {
+      "task_id": "2462eea8-16df-45bf-b065-0e019e33df11",
+      "task_number": 11,
+      "task_type": "Minimum Distance Double Drop",
+      "results": []
+    },
+    {
+      "task_id": "484be475-df17-451c-ae3d-54ae4bde9e5d",
+      "task_number": 12,
+      "task_type": "Judge Declared Goal",
+      "results": []
+    },
+    {
+      "task_id": "d85e1799-f528-430b-83be-0c54be277510",
+      "task_number": 14,
+      "task_type": "Judge Declared Goal",
+      "results": []
+    },
+    {
+      "task_id": "23187ecb-6152-4bec-810a-d175c8fa1d8b",
+      "task_number": 16,
+      "task_type": "Calculated Rate of Approach Task",
+      "results": []
+    },
+    {
+      "task_id": "404a5490-0dc7-4bd7-b0a7-5d7cae4f7a33",
+      "task_number": 18,
+      "task_type": "Hesitation Waltz",
+      "results": []
+    },
+    {
+      "task_id": "c69869be-b21c-4923-b4bd-4e3bec75b530",
+      "task_number": 19,
+      "task_type": "Fly In",
+      "results": []
+    },
+    {
+      "task_id": "5b9f5c91-e171-4359-9647-85a88eee2cfb",
+      "task_number": 20,
+      "task_type": "Judge Declared Goal",
+      "results": []
+    },
+    {
+      "task_id": "1687a008-1693-4fa9-a723-d4f9455b0638",
+      "task_number": 22,
+      "task_type": "Hesitation Waltz",
+      "results": []
+    },
+    {
+      "task_id": "554d5d46-51d5-4343-bb46-a15525732ac3",
+      "task_number": 25,
+      "task_type": "Fly In",
+      "results": []
+    }
+  ]
 }
