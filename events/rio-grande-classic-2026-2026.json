@@ -8,11 +8,11 @@
   "location": "Rio Rancho, NM, United States",
   "source": "watchmefly",
   "source_event_id": "rgc2026",
-  "sof": 1500.0,
+  "sof": 1602.4330901060735,
   "included": true,
   "tasks": [
     {
-      "task_id": "d6154498-6828-4fcb-a7e1-4822a58545ca",
+      "task_id": "b399e3c1-91f8-42d6-af56-044a8b98b24d",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -199,7 +199,7 @@
       ]
     },
     {
-      "task_id": "14b4a1a8-549b-4bc2-ba08-a8e0cd72d199",
+      "task_id": "8bc9db24-2a0a-446b-8f63-c76a44986d07",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -386,7 +386,7 @@
       ]
     },
     {
-      "task_id": "8432fabb-f74c-4ced-af1c-2d3b2d1d5226",
+      "task_id": "7ce17a64-a9d1-4649-8bec-74baf56f7add",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -573,7 +573,7 @@
       ]
     },
     {
-      "task_id": "6f2c753b-13b7-451c-aef5-18a5a23de141",
+      "task_id": "114c5b95-d022-4dd2-be8d-fbc514954393",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -760,7 +760,7 @@
       ]
     },
     {
-      "task_id": "73ec18ab-fca6-4c85-a8d8-d5ca3355c5f8",
+      "task_id": "471ce26c-9650-44cb-888f-5bf2632d9930",
       "task_number": 5,
       "task_type": "Fly On",
       "results": [

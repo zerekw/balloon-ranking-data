@@ -8,11 +8,11 @@
   "location": "Panemunio Sodyba, Lithuania",
   "source": "watchmefly",
   "source_event_id": "panemunis25",
-  "sof": 1500.0,
+  "sof": 1576.0326802095415,
   "included": true,
   "tasks": [
     {
-      "task_id": "74ff9dff-ae07-4aa3-9a0f-b3810060beab",
+      "task_id": "52ec9c6a-5775-488a-8369-60d6108e4abe",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "task_id": "f033453d-1876-4e5c-9e36-64318b9e7fc0",
+      "task_id": "45cebcfc-c1f0-44c4-b703-c67f304a4c0e",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "task_id": "81732a39-01d1-4703-9c0e-207b848f1590",
+      "task_id": "90c0325c-6801-4301-9a5c-afc870b53363",
       "task_number": 3,
       "task_type": "Fly On",
       "results": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "task_id": "7a89e9a6-b510-4438-9d61-258e8ff4a9be",
+      "task_id": "7f094e12-7945-42d0-9d11-4e2522c1117b",
       "task_number": 4,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "task_id": "6b031335-3498-4769-83ea-ac8a6ce3c602",
+      "task_id": "27f2e151-06f3-44d8-870d-3970e1b8a897",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "task_id": "e7881536-91c0-4a70-9574-d9d9ff3da12f",
+      "task_id": "543d5d80-e0e5-4967-bdcc-6cbaee15945e",
       "task_number": 6,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "task_id": "6d3ab136-7f40-404c-86c4-dc0c2ccdce69",
+      "task_id": "1d1f61d8-beea-4b67-b461-e1113bb814aa",
       "task_number": 7,
       "task_type": "Maximum Distance",
       "results": [
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "task_id": "68d322a6-acf3-4eda-98af-0a0e3739b450",
+      "task_id": "dc0e3ab7-ad37-4858-a7aa-729fd64266c7",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -548,7 +548,7 @@
       ]
     },
     {
-      "task_id": "290ad584-c7b8-4f81-b178-be3e77584d48",
+      "task_id": "f812d68e-41eb-4f70-bf61-dc54cc59fc4a",
       "task_number": 9,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -615,7 +615,7 @@
       ]
     },
     {
-      "task_id": "b5de1d74-9aec-41eb-a7eb-41cfd7c5fa8b",
+      "task_id": "ddbb96e9-67ac-44e1-8eaf-b747ae1bfdd0",
       "task_number": 10,
       "task_type": "Fly In",
       "results": [
@@ -682,7 +682,7 @@
       ]
     },
     {
-      "task_id": "63f04976-e390-47cd-bbfa-7ac1ae84ad60",
+      "task_id": "26ca0e1e-84a2-438e-9bdd-00dcdc1421f1",
       "task_number": 11,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -749,7 +749,7 @@
       ]
     },
     {
-      "task_id": "a6c684ee-f6ed-43c4-baff-06abf9564a9a",
+      "task_id": "9ff822b3-8503-4880-8fa5-c6927550f12b",
       "task_number": 12,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -816,7 +816,7 @@
       ]
     },
     {
-      "task_id": "a1f45d74-f99e-461b-bf16-6e671ccd48bb",
+      "task_id": "0d3a243f-b71d-412f-bec1-76f9859a044e",
       "task_number": 13,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -883,7 +883,7 @@
       ]
     },
     {
-      "task_id": "d96a1903-50e0-4b78-ac78-91b0ac2e0627",
+      "task_id": "9ecee764-767e-4c26-9987-3087ac572cf3",
       "task_number": 14,
       "task_type": "Fly In",
       "results": [
@@ -950,7 +950,7 @@
       ]
     },
     {
-      "task_id": "fd00ce2f-5382-4125-a4d9-62ae35bb6f9b",
+      "task_id": "5f411ca4-74b5-41db-864e-fbc8e6ab43d7",
       "task_number": 15,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1017,7 +1017,7 @@
       ]
     },
     {
-      "task_id": "ecbe0b58-e2ae-47b8-b31a-59424d77ba7e",
+      "task_id": "7f8a65e7-7253-4282-838e-b3837a255f80",
       "task_number": 16,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1084,7 +1084,7 @@
       ]
     },
     {
-      "task_id": "3b277b5f-e099-4cb6-8e15-d0c90812ae4a",
+      "task_id": "a3ce0982-0487-4cd1-b125-d6fc9bc886d8",
       "task_number": 17,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1151,7 +1151,7 @@
       ]
     },
     {
-      "task_id": "2f5759c9-5b69-4988-afaa-4dbe013e62ca",
+      "task_id": "d3aa97b0-77f0-4705-87cc-971b289cd941",
       "task_number": 18,
       "task_type": "Fly On",
       "results": [
@@ -1218,7 +1218,7 @@
       ]
     },
     {
-      "task_id": "d23fae70-b6af-4d8e-9634-4b71958f8bb3",
+      "task_id": "588f927f-be46-40e3-8ffa-f3b2ab38e301",
       "task_number": 19,
       "task_type": "Fly On",
       "results": [

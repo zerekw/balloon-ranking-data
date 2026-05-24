@@ -8,11 +8,11 @@
   "location": "Peronne (80), France",
   "source": "watchmefly",
   "source_event_id": "stage2025",
-  "sof": 1500.0,
+  "sof": 1506.1070497374922,
   "included": true,
   "tasks": [
     {
-      "task_id": "b21d1d99-b9df-4f4d-a808-1b4d4dcbb22f",
+      "task_id": "5b6c14eb-05ad-4c85-957d-e9040bd79d6a",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -55,7 +55,7 @@
       ]
     },
     {
-      "task_id": "b0d2086b-62b5-4fc3-94c3-56156844f0f2",
+      "task_id": "97df64b2-2f64-49c7-9570-461110a16269",
       "task_number": 2,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -98,7 +98,7 @@
       ]
     },
     {
-      "task_id": "2eabf7f3-661b-43ba-af6f-21b80ae2fdb6",
+      "task_id": "0adbf8c0-943a-4d13-804e-f6a53e02748b",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -141,7 +141,7 @@
       ]
     },
     {
-      "task_id": "df2a1d07-f57c-4ae3-bf80-402cfecf94ed",
+      "task_id": "0c1cd13b-6d1e-4ffc-8318-3410e0ec51cc",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -184,7 +184,7 @@
       ]
     },
     {
-      "task_id": "301307e3-0ce7-48d1-9ca7-02c2c6ce9718",
+      "task_id": "bcb4ff24-74bd-40e0-8867-d5076abb0291",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -227,7 +227,7 @@
       ]
     },
     {
-      "task_id": "40c5d043-ea33-4e38-b3de-db3f8872f1c4",
+      "task_id": "1891818b-5ad5-4da9-9281-d12f7a4f150c",
       "task_number": 6,
       "task_type": "Fly On",
       "results": [
@@ -270,7 +270,7 @@
       ]
     },
     {
-      "task_id": "49ead8af-11a5-40d1-a15e-03e75ea400b3",
+      "task_id": "7bf7a754-9d97-467e-82d3-f4e40bdfeba7",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -313,7 +313,7 @@
       ]
     },
     {
-      "task_id": "3907d196-f093-4889-870b-8f300373ffd3",
+      "task_id": "69d3b8cc-e7e9-4fd5-becf-90e83a9f09ef",
       "task_number": 8,
       "task_type": "Altitude Profile Task",
       "results": [
@@ -356,7 +356,7 @@
       ]
     },
     {
-      "task_id": "8c391cdb-5f89-4eff-b46c-3e948712aa56",
+      "task_id": "5a488981-5a29-42f8-980c-feadf8764f76",
       "task_number": 9,
       "task_type": "Fly In",
       "results": [
@@ -399,7 +399,7 @@
       ]
     },
     {
-      "task_id": "2e9828c0-e54a-41c4-9874-5081a44a685b",
+      "task_id": "2ce9cebc-e164-48bf-9f48-a0119c8cf0fa",
       "task_number": 10,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -442,7 +442,7 @@
       ]
     },
     {
-      "task_id": "f1fb70cd-ec29-402d-bea8-8ab302eecd6a",
+      "task_id": "2edbbe30-3b25-4329-b1c8-5e6abab6c5eb",
       "task_number": 11,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "task_id": "68ffa1c8-c710-4e45-9734-e0eb58764203",
+      "task_id": "9a702a1d-d1e4-4dab-8940-4b34c1c5c607",
       "task_number": 12,
       "task_type": "Fly On",
       "results": [
@@ -528,7 +528,7 @@
       ]
     },
     {
-      "task_id": "30d916a7-e6a3-45a0-a254-eb1795cdab97",
+      "task_id": "b07e1557-12c1-4426-92bc-b2329be508c6",
       "task_number": 13,
       "task_type": "Fly On",
       "results": [
@@ -571,7 +571,7 @@
       ]
     },
     {
-      "task_id": "5b85d854-39d7-4e28-8f5a-22a205fb1a81",
+      "task_id": "39fd6180-3d42-4987-975e-9440329bb22e",
       "task_number": 14,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -614,7 +614,7 @@
       ]
     },
     {
-      "task_id": "7e6c72ad-46b6-45a0-95c4-7c1875332c15",
+      "task_id": "a0d28af7-1d34-4666-9daa-22e07f374f04",
       "task_number": 15,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -657,7 +657,7 @@
       ]
     },
     {
-      "task_id": "9cd843e7-63c1-4426-a9ec-c475cbe1c4fb",
+      "task_id": "e07b01a3-14c4-4169-b4f0-97dc41603963",
       "task_number": 16,
       "task_type": "Fly On",
       "results": [
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "task_id": "17f68e84-3a22-4828-9cd6-20f3ccad04f2",
+      "task_id": "507f5588-4ce0-4288-bf22-7485a927f7c6",
       "task_number": 17,
       "task_type": "Land Run",
       "results": [
