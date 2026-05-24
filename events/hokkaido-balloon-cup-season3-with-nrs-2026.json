@@ -1,0 +1,211 @@
+{
+  "event_id": "b0fc8585-1187-4770-aad1-e596d727f2eb",
+  "slug": "hokkaido-balloon-cup-season3-with-nrs-2026",
+  "name": "HOKKAIDO BALLOON CUP season3 with NRS",
+  "event_date": "2026-02-13",
+  "end_date": null,
+  "country": null,
+  "location": "北海道上士幌町, Japan",
+  "source": "watchmefly",
+  "source_event_id": "hokkaido2026",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "29d8530f-ffb8-4118-a5c0-15258fb92355",
+      "task_number": 1,
+      "task_type": "Pilot Declared Goal",
+      "results": [
+        {
+          "pilot_id": "392e27d2-4492-451e-a4bc-7c8b786e104e",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 915.0
+        },
+        {
+          "pilot_id": "b4e4b9cf-eb4d-41e5-b968-0f16eaba88d2",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 600.0
+        },
+        {
+          "pilot_id": "a10c1b6e-4507-48c6-a595-35b45c57d9da",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "40586994-ce08-4ef1-ab2c-6d46d2190a43",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "08c157cb-7958-45b5-bd67-c7f359fb8aeb",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "4946c3c2-ea80-420e-8d2c-e39b446014c6",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        }
+      ]
+    },
+    {
+      "task_id": "2aecc55e-5566-451f-b7c8-aa4124db02e5",
+      "task_number": 2,
+      "task_type": "Judge Declared Goal",
+      "results": [
+        {
+          "pilot_id": "b4e4b9cf-eb4d-41e5-b968-0f16eaba88d2",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "40586994-ce08-4ef1-ab2c-6d46d2190a43",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 848.0
+        },
+        {
+          "pilot_id": "a10c1b6e-4507-48c6-a595-35b45c57d9da",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 600.0
+        },
+        {
+          "pilot_id": "392e27d2-4492-451e-a4bc-7c8b786e104e",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "08c157cb-7958-45b5-bd67-c7f359fb8aeb",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "4946c3c2-ea80-420e-8d2c-e39b446014c6",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        }
+      ]
+    },
+    {
+      "task_id": "1fa3f941-f8e4-4fb2-8c9a-917a22d27ce3",
+      "task_number": 3,
+      "task_type": "Land Run",
+      "results": [
+        {
+          "pilot_id": "392e27d2-4492-451e-a4bc-7c8b786e104e",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "b4e4b9cf-eb4d-41e5-b968-0f16eaba88d2",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 600.0
+        },
+        {
+          "pilot_id": "40586994-ce08-4ef1-ab2c-6d46d2190a43",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 600.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "08c157cb-7958-45b5-bd67-c7f359fb8aeb",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "4946c3c2-ea80-420e-8d2c-e39b446014c6",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "a10c1b6e-4507-48c6-a595-35b45c57d9da",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        }
+      ]
+    },
+    {
+      "task_id": "b1eb81a9-ae12-487f-a750-93b1d9486e80",
+      "task_number": 4,
+      "task_type": "Fly On",
+      "results": [
+        {
+          "pilot_id": "392e27d2-4492-451e-a4bc-7c8b786e104e",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "b4e4b9cf-eb4d-41e5-b968-0f16eaba88d2",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 986.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 600.0
+        },
+        {
+          "pilot_id": "a10c1b6e-4507-48c6-a595-35b45c57d9da",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "08c157cb-7958-45b5-bd67-c7f359fb8aeb",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "4946c3c2-ea80-420e-8d2c-e39b446014c6",
+          "position": 7,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "40586994-ce08-4ef1-ab2c-6d46d2190a43",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        }
+      ]
+    }
+  ]
+}
