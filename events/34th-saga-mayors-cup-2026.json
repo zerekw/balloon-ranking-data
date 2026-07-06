@@ -1,0 +1,1250 @@
+{
+  "event_id": "a8a6d38c-7c8e-43e4-9dfb-00e53846cabe",
+  "slug": "34th-saga-mayors-cup-2026",
+  "name": "34th Saga Mayor’s Cup",
+  "event_date": "2026-06-06",
+  "end_date": null,
+  "country": null,
+  "location": "Saga, Japan",
+  "source": "watchmefly",
+  "source_event_id": "sagamayorcup2026",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "875d96c3-46d9-4caa-898f-f3cf5daf0355",
+      "task_number": 1,
+      "task_type": "Hesitation Waltz",
+      "results": [
+        {
+          "pilot_id": "626c5f8a-6988-4244-9a40-891d2b557150",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "d01f7218-6c68-4907-aefe-560d4c92ad0a",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 977.0
+        },
+        {
+          "pilot_id": "a3b4878c-4e56-45f1-9a1a-e5c2ab3f497b",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 954.0
+        },
+        {
+          "pilot_id": "adb0fb43-d7bf-497a-86ac-1a9af03f6ff0",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 954.0
+        },
+        {
+          "pilot_id": "de537143-6d54-4bbc-a75e-ffe3cf0807f3",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 942.0
+        },
+        {
+          "pilot_id": "4592635b-2d15-408a-b5b1-c2f782ec1eb6",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 919.0
+        },
+        {
+          "pilot_id": "dd9e65f7-68d8-45a4-83ce-0fb661066342",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 919.0
+        },
+        {
+          "pilot_id": "9ed982cb-1170-4e11-8d1b-c54d1b7f3adc",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 873.0
+        },
+        {
+          "pilot_id": "798209fc-8b84-4d3d-9486-618ea29c98b5",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 838.0
+        },
+        {
+          "pilot_id": "435f701f-5f50-431a-b31a-b05fa7bc7664",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 815.0
+        },
+        {
+          "pilot_id": "885fc6a1-d311-4c24-8f74-bb958b664574",
+          "position": 11,
+          "no_result": false,
+          "raw_points": 792.0
+        },
+        {
+          "pilot_id": "a935ddd9-ebda-44e7-b96c-b74561b19300",
+          "position": 12,
+          "no_result": false,
+          "raw_points": 780.0
+        },
+        {
+          "pilot_id": "14113a73-0b70-45a7-bf68-a32e24c9a52d",
+          "position": 13,
+          "no_result": false,
+          "raw_points": 757.0
+        },
+        {
+          "pilot_id": "3965846f-65f5-4150-bab4-0dccc78d4fd0",
+          "position": 14,
+          "no_result": false,
+          "raw_points": 734.0
+        },
+        {
+          "pilot_id": "cf929c0d-91a4-4dd5-8021-154a2d6d9f3d",
+          "position": 15,
+          "no_result": false,
+          "raw_points": 583.0
+        },
+        {
+          "pilot_id": "bca54934-56de-45da-bf75-680b5e92d149",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 572.0
+        },
+        {
+          "pilot_id": "af86059f-be0a-46f7-985a-2a140f18e157",
+          "position": 17,
+          "no_result": false,
+          "raw_points": 526.0
+        },
+        {
+          "pilot_id": "952df58e-ed81-4798-9d33-8ad825ba4038",
+          "position": 18,
+          "no_result": false,
+          "raw_points": 514.0
+        },
+        {
+          "pilot_id": "9b59b2b3-cb8f-4faa-b190-d8b72dbe584c",
+          "position": 19,
+          "no_result": false,
+          "raw_points": 486.0
+        },
+        {
+          "pilot_id": "5391ce89-31f4-408e-b9e3-a872c10e3eef",
+          "position": 20,
+          "no_result": false,
+          "raw_points": 457.0
+        },
+        {
+          "pilot_id": "09c845dd-5baa-42dc-ac63-6438005b33b2",
+          "position": 21,
+          "no_result": false,
+          "raw_points": 429.0
+        },
+        {
+          "pilot_id": "e34aaf3e-94fc-42cf-8eb3-c4c35950937d",
+          "position": 22,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "dd8e4b56-46fc-48da-b9f7-e3b0f005d548",
+          "position": 23,
+          "no_result": false,
+          "raw_points": 371.0
+        },
+        {
+          "pilot_id": "38703a36-7120-4325-b09d-6530c539910d",
+          "position": 24,
+          "no_result": false,
+          "raw_points": 343.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 25,
+          "no_result": false,
+          "raw_points": 314.0
+        },
+        {
+          "pilot_id": "52d6836e-63f2-48ef-b37d-797f60fb1098",
+          "position": 26,
+          "no_result": false,
+          "raw_points": 286.0
+        },
+        {
+          "pilot_id": "f1068716-6886-452f-8745-d2787435cff1",
+          "position": 27,
+          "no_result": false,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "42ec120c-bbdd-4cfe-a01a-3a0fc29d4c26",
+          "position": 28,
+          "no_result": false,
+          "raw_points": 229.0
+        },
+        {
+          "pilot_id": "cd59d592-56f5-43d2-8aab-56e110b016db",
+          "position": 29,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "f074317c-60f9-47f8-bd06-78fcb2857cb7",
+          "position": 30,
+          "no_result": false,
+          "raw_points": 171.0
+        },
+        {
+          "pilot_id": "98b85c8c-90cc-4039-b07f-8ea4f2328957",
+          "position": 31,
+          "no_result": false,
+          "raw_points": 143.0
+        },
+        {
+          "pilot_id": "385fedcc-7432-4325-bbe7-037a92c2beee",
+          "position": 32,
+          "no_result": false,
+          "raw_points": 114.0
+        },
+        {
+          "pilot_id": "3f18f38d-fd02-49e3-b0ec-d53bf40edd36",
+          "position": 33,
+          "no_result": false,
+          "raw_points": 57.0
+        },
+        {
+          "pilot_id": "f04e9e3e-35b0-47c8-b769-af2783ea1fc1",
+          "position": 35,
+          "no_result": false,
+          "raw_points": 86.0
+        },
+        {
+          "pilot_id": "e25a660b-39d3-4858-bee7-10861cdb4607",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "49e12345-9cdb-4d8b-94da-dbca8cdd759d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "494756ff-254c-4e30-aa05-ff385ae0b559",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "95bb58af-d671-44c9-969a-88f7985b3c97",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "7f348d16-031f-4545-a761-70cf58d19a5a",
+          "position": null,
+          "no_result": true,
+          "raw_points": 29.0
+        },
+        {
+          "pilot_id": "a6b263a3-6d6f-4c55-9992-48bdf6b0fda8",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    },
+    {
+      "task_id": "7564d19d-c41a-4763-b84f-70912adeeb27",
+      "task_number": 2,
+      "task_type": "Fly In",
+      "results": [
+        {
+          "pilot_id": "626c5f8a-6988-4244-9a40-891d2b557150",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "d01f7218-6c68-4907-aefe-560d4c92ad0a",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 998.0
+        },
+        {
+          "pilot_id": "885fc6a1-d311-4c24-8f74-bb958b664574",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 991.0
+        },
+        {
+          "pilot_id": "9ed982cb-1170-4e11-8d1b-c54d1b7f3adc",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 983.0
+        },
+        {
+          "pilot_id": "de537143-6d54-4bbc-a75e-ffe3cf0807f3",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 969.0
+        },
+        {
+          "pilot_id": "a935ddd9-ebda-44e7-b96c-b74561b19300",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 953.0
+        },
+        {
+          "pilot_id": "3965846f-65f5-4150-bab4-0dccc78d4fd0",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 943.0
+        },
+        {
+          "pilot_id": "9b59b2b3-cb8f-4faa-b190-d8b72dbe584c",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 913.0
+        },
+        {
+          "pilot_id": "4592635b-2d15-408a-b5b1-c2f782ec1eb6",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 908.0
+        },
+        {
+          "pilot_id": "dd8e4b56-46fc-48da-b9f7-e3b0f005d548",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 893.0
+        },
+        {
+          "pilot_id": "52d6836e-63f2-48ef-b37d-797f60fb1098",
+          "position": 11,
+          "no_result": false,
+          "raw_points": 820.0
+        },
+        {
+          "pilot_id": "cd59d592-56f5-43d2-8aab-56e110b016db",
+          "position": 12,
+          "no_result": false,
+          "raw_points": 789.0
+        },
+        {
+          "pilot_id": "38703a36-7120-4325-b09d-6530c539910d",
+          "position": 13,
+          "no_result": false,
+          "raw_points": 771.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 14,
+          "no_result": false,
+          "raw_points": 767.0
+        },
+        {
+          "pilot_id": "09c845dd-5baa-42dc-ac63-6438005b33b2",
+          "position": 15,
+          "no_result": false,
+          "raw_points": 677.0
+        },
+        {
+          "pilot_id": "a3b4878c-4e56-45f1-9a1a-e5c2ab3f497b",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 559.0
+        },
+        {
+          "pilot_id": "adb0fb43-d7bf-497a-86ac-1a9af03f6ff0",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 559.0
+        },
+        {
+          "pilot_id": "5391ce89-31f4-408e-b9e3-a872c10e3eef",
+          "position": 18,
+          "no_result": false,
+          "raw_points": 514.0
+        },
+        {
+          "pilot_id": "f074317c-60f9-47f8-bd06-78fcb2857cb7",
+          "position": 19,
+          "no_result": false,
+          "raw_points": 486.0
+        },
+        {
+          "pilot_id": "42ec120c-bbdd-4cfe-a01a-3a0fc29d4c26",
+          "position": 20,
+          "no_result": false,
+          "raw_points": 457.0
+        },
+        {
+          "pilot_id": "952df58e-ed81-4798-9d33-8ad825ba4038",
+          "position": 21,
+          "no_result": false,
+          "raw_points": 429.0
+        },
+        {
+          "pilot_id": "e34aaf3e-94fc-42cf-8eb3-c4c35950937d",
+          "position": 22,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "14113a73-0b70-45a7-bf68-a32e24c9a52d",
+          "position": 23,
+          "no_result": false,
+          "raw_points": 371.0
+        },
+        {
+          "pilot_id": "798209fc-8b84-4d3d-9486-618ea29c98b5",
+          "position": 24,
+          "no_result": false,
+          "raw_points": 343.0
+        },
+        {
+          "pilot_id": "435f701f-5f50-431a-b31a-b05fa7bc7664",
+          "position": 25,
+          "no_result": false,
+          "raw_points": 314.0
+        },
+        {
+          "pilot_id": "f1068716-6886-452f-8745-d2787435cff1",
+          "position": 26,
+          "no_result": false,
+          "raw_points": 286.0
+        },
+        {
+          "pilot_id": "dd9e65f7-68d8-45a4-83ce-0fb661066342",
+          "position": 27,
+          "no_result": false,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "af86059f-be0a-46f7-985a-2a140f18e157",
+          "position": 28,
+          "no_result": false,
+          "raw_points": 229.0
+        },
+        {
+          "pilot_id": "bca54934-56de-45da-bf75-680b5e92d149",
+          "position": 29,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "98b85c8c-90cc-4039-b07f-8ea4f2328957",
+          "position": 30,
+          "no_result": false,
+          "raw_points": 171.0
+        },
+        {
+          "pilot_id": "f04e9e3e-35b0-47c8-b769-af2783ea1fc1",
+          "position": 31,
+          "no_result": false,
+          "raw_points": 143.0
+        },
+        {
+          "pilot_id": "3f18f38d-fd02-49e3-b0ec-d53bf40edd36",
+          "position": 32,
+          "no_result": false,
+          "raw_points": 114.0
+        },
+        {
+          "pilot_id": "cf929c0d-91a4-4dd5-8021-154a2d6d9f3d",
+          "position": 33,
+          "no_result": false,
+          "raw_points": 86.0
+        },
+        {
+          "pilot_id": "7f348d16-031f-4545-a761-70cf58d19a5a",
+          "position": null,
+          "no_result": true,
+          "raw_points": 43.0
+        },
+        {
+          "pilot_id": "385fedcc-7432-4325-bbe7-037a92c2beee",
+          "position": null,
+          "no_result": true,
+          "raw_points": 43.0
+        },
+        {
+          "pilot_id": "a6b263a3-6d6f-4c55-9992-48bdf6b0fda8",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "e25a660b-39d3-4858-bee7-10861cdb4607",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "49e12345-9cdb-4d8b-94da-dbca8cdd759d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "494756ff-254c-4e30-aa05-ff385ae0b559",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "95bb58af-d671-44c9-969a-88f7985b3c97",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    },
+    {
+      "task_id": "9d75a3a9-cb74-4d24-a9df-dc695c283c14",
+      "task_number": 3,
+      "task_type": "Judge Declared Goal",
+      "results": [
+        {
+          "pilot_id": "9ed982cb-1170-4e11-8d1b-c54d1b7f3adc",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "d01f7218-6c68-4907-aefe-560d4c92ad0a",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 996.0
+        },
+        {
+          "pilot_id": "a935ddd9-ebda-44e7-b96c-b74561b19300",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 984.0
+        },
+        {
+          "pilot_id": "a3b4878c-4e56-45f1-9a1a-e5c2ab3f497b",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 978.0
+        },
+        {
+          "pilot_id": "4592635b-2d15-408a-b5b1-c2f782ec1eb6",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 965.0
+        },
+        {
+          "pilot_id": "09c845dd-5baa-42dc-ac63-6438005b33b2",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 894.0
+        },
+        {
+          "pilot_id": "42ec120c-bbdd-4cfe-a01a-3a0fc29d4c26",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 894.0
+        },
+        {
+          "pilot_id": "626c5f8a-6988-4244-9a40-891d2b557150",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 888.0
+        },
+        {
+          "pilot_id": "dd9e65f7-68d8-45a4-83ce-0fb661066342",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 862.0
+        },
+        {
+          "pilot_id": "f074317c-60f9-47f8-bd06-78fcb2857cb7",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 849.0
+        },
+        {
+          "pilot_id": "38703a36-7120-4325-b09d-6530c539910d",
+          "position": 11,
+          "no_result": false,
+          "raw_points": 844.0
+        },
+        {
+          "pilot_id": "52d6836e-63f2-48ef-b37d-797f60fb1098",
+          "position": 12,
+          "no_result": false,
+          "raw_points": 790.0
+        },
+        {
+          "pilot_id": "7f348d16-031f-4545-a761-70cf58d19a5a",
+          "position": 13,
+          "no_result": false,
+          "raw_points": 768.0
+        },
+        {
+          "pilot_id": "adb0fb43-d7bf-497a-86ac-1a9af03f6ff0",
+          "position": 14,
+          "no_result": false,
+          "raw_points": 759.0
+        },
+        {
+          "pilot_id": "e34aaf3e-94fc-42cf-8eb3-c4c35950937d",
+          "position": 15,
+          "no_result": false,
+          "raw_points": 637.0
+        },
+        {
+          "pilot_id": "9b59b2b3-cb8f-4faa-b190-d8b72dbe584c",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 567.0
+        },
+        {
+          "pilot_id": "dd8e4b56-46fc-48da-b9f7-e3b0f005d548",
+          "position": 17,
+          "no_result": false,
+          "raw_points": 563.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 18,
+          "no_result": false,
+          "raw_points": 514.0
+        },
+        {
+          "pilot_id": "5391ce89-31f4-408e-b9e3-a872c10e3eef",
+          "position": 19,
+          "no_result": false,
+          "raw_points": 486.0
+        },
+        {
+          "pilot_id": "952df58e-ed81-4798-9d33-8ad825ba4038",
+          "position": 20,
+          "no_result": false,
+          "raw_points": 443.0
+        },
+        {
+          "pilot_id": "cf929c0d-91a4-4dd5-8021-154a2d6d9f3d",
+          "position": 20,
+          "no_result": false,
+          "raw_points": 443.0
+        },
+        {
+          "pilot_id": "435f701f-5f50-431a-b31a-b05fa7bc7664",
+          "position": 22,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "3965846f-65f5-4150-bab4-0dccc78d4fd0",
+          "position": 23,
+          "no_result": false,
+          "raw_points": 371.0
+        },
+        {
+          "pilot_id": "14113a73-0b70-45a7-bf68-a32e24c9a52d",
+          "position": 24,
+          "no_result": false,
+          "raw_points": 343.0
+        },
+        {
+          "pilot_id": "798209fc-8b84-4d3d-9486-618ea29c98b5",
+          "position": 25,
+          "no_result": false,
+          "raw_points": 314.0
+        },
+        {
+          "pilot_id": "885fc6a1-d311-4c24-8f74-bb958b664574",
+          "position": 26,
+          "no_result": false,
+          "raw_points": 286.0
+        },
+        {
+          "pilot_id": "cd59d592-56f5-43d2-8aab-56e110b016db",
+          "position": 27,
+          "no_result": false,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "f1068716-6886-452f-8745-d2787435cff1",
+          "position": 28,
+          "no_result": false,
+          "raw_points": 229.0
+        },
+        {
+          "pilot_id": "de537143-6d54-4bbc-a75e-ffe3cf0807f3",
+          "position": 29,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "af86059f-be0a-46f7-985a-2a140f18e157",
+          "position": 30,
+          "no_result": false,
+          "raw_points": 171.0
+        },
+        {
+          "pilot_id": "98b85c8c-90cc-4039-b07f-8ea4f2328957",
+          "position": 31,
+          "no_result": false,
+          "raw_points": 143.0
+        },
+        {
+          "pilot_id": "bca54934-56de-45da-bf75-680b5e92d149",
+          "position": 32,
+          "no_result": false,
+          "raw_points": 114.0
+        },
+        {
+          "pilot_id": "385fedcc-7432-4325-bbe7-037a92c2beee",
+          "position": 33,
+          "no_result": false,
+          "raw_points": 86.0
+        },
+        {
+          "pilot_id": "f04e9e3e-35b0-47c8-b769-af2783ea1fc1",
+          "position": 34,
+          "no_result": false,
+          "raw_points": 57.0
+        },
+        {
+          "pilot_id": "3f18f38d-fd02-49e3-b0ec-d53bf40edd36",
+          "position": 35,
+          "no_result": false,
+          "raw_points": 29.0
+        },
+        {
+          "pilot_id": "a6b263a3-6d6f-4c55-9992-48bdf6b0fda8",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "e25a660b-39d3-4858-bee7-10861cdb4607",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "49e12345-9cdb-4d8b-94da-dbca8cdd759d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "494756ff-254c-4e30-aa05-ff385ae0b559",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "95bb58af-d671-44c9-969a-88f7985b3c97",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    },
+    {
+      "task_id": "a421910a-ce6a-49d9-abf6-54b488700515",
+      "task_number": 4,
+      "task_type": "Hesitation Waltz",
+      "results": [
+        {
+          "pilot_id": "adb0fb43-d7bf-497a-86ac-1a9af03f6ff0",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "9ed982cb-1170-4e11-8d1b-c54d1b7f3adc",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 977.0
+        },
+        {
+          "pilot_id": "f074317c-60f9-47f8-bd06-78fcb2857cb7",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 906.0
+        },
+        {
+          "pilot_id": "09c845dd-5baa-42dc-ac63-6438005b33b2",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 894.0
+        },
+        {
+          "pilot_id": "7f348d16-031f-4545-a761-70cf58d19a5a",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 883.0
+        },
+        {
+          "pilot_id": "798209fc-8b84-4d3d-9486-618ea29c98b5",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 874.0
+        },
+        {
+          "pilot_id": "626c5f8a-6988-4244-9a40-891d2b557150",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 803.0
+        },
+        {
+          "pilot_id": "d01f7218-6c68-4907-aefe-560d4c92ad0a",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 777.0
+        },
+        {
+          "pilot_id": "e34aaf3e-94fc-42cf-8eb3-c4c35950937d",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 763.0
+        },
+        {
+          "pilot_id": "52d6836e-63f2-48ef-b37d-797f60fb1098",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 757.0
+        },
+        {
+          "pilot_id": "952df58e-ed81-4798-9d33-8ad825ba4038",
+          "position": 11,
+          "no_result": false,
+          "raw_points": 694.0
+        },
+        {
+          "pilot_id": "a3b4878c-4e56-45f1-9a1a-e5c2ab3f497b",
+          "position": 12,
+          "no_result": false,
+          "raw_points": 648.0
+        },
+        {
+          "pilot_id": "dd8e4b56-46fc-48da-b9f7-e3b0f005d548",
+          "position": 13,
+          "no_result": false,
+          "raw_points": 597.0
+        },
+        {
+          "pilot_id": "5391ce89-31f4-408e-b9e3-a872c10e3eef",
+          "position": 14,
+          "no_result": false,
+          "raw_points": 554.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 15,
+          "no_result": false,
+          "raw_points": 540.0
+        },
+        {
+          "pilot_id": "885fc6a1-d311-4c24-8f74-bb958b664574",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 537.0
+        },
+        {
+          "pilot_id": "14113a73-0b70-45a7-bf68-a32e24c9a52d",
+          "position": 17,
+          "no_result": false,
+          "raw_points": 525.0
+        },
+        {
+          "pilot_id": "98b85c8c-90cc-4039-b07f-8ea4f2328957",
+          "position": 18,
+          "no_result": false,
+          "raw_points": 514.0
+        },
+        {
+          "pilot_id": "f1068716-6886-452f-8745-d2787435cff1",
+          "position": 19,
+          "no_result": false,
+          "raw_points": 486.0
+        },
+        {
+          "pilot_id": "a935ddd9-ebda-44e7-b96c-b74561b19300",
+          "position": 20,
+          "no_result": false,
+          "raw_points": 457.0
+        },
+        {
+          "pilot_id": "3965846f-65f5-4150-bab4-0dccc78d4fd0",
+          "position": 21,
+          "no_result": false,
+          "raw_points": 429.0
+        },
+        {
+          "pilot_id": "de537143-6d54-4bbc-a75e-ffe3cf0807f3",
+          "position": 22,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "4592635b-2d15-408a-b5b1-c2f782ec1eb6",
+          "position": 23,
+          "no_result": false,
+          "raw_points": 371.0
+        },
+        {
+          "pilot_id": "cd59d592-56f5-43d2-8aab-56e110b016db",
+          "position": 24,
+          "no_result": false,
+          "raw_points": 343.0
+        },
+        {
+          "pilot_id": "dd9e65f7-68d8-45a4-83ce-0fb661066342",
+          "position": 25,
+          "no_result": false,
+          "raw_points": 314.0
+        },
+        {
+          "pilot_id": "bca54934-56de-45da-bf75-680b5e92d149",
+          "position": 26,
+          "no_result": false,
+          "raw_points": 286.0
+        },
+        {
+          "pilot_id": "435f701f-5f50-431a-b31a-b05fa7bc7664",
+          "position": 27,
+          "no_result": false,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "38703a36-7120-4325-b09d-6530c539910d",
+          "position": 28,
+          "no_result": false,
+          "raw_points": 229.0
+        },
+        {
+          "pilot_id": "42ec120c-bbdd-4cfe-a01a-3a0fc29d4c26",
+          "position": 29,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "af86059f-be0a-46f7-985a-2a140f18e157",
+          "position": 30,
+          "no_result": false,
+          "raw_points": 171.0
+        },
+        {
+          "pilot_id": "f04e9e3e-35b0-47c8-b769-af2783ea1fc1",
+          "position": 31,
+          "no_result": false,
+          "raw_points": 143.0
+        },
+        {
+          "pilot_id": "3f18f38d-fd02-49e3-b0ec-d53bf40edd36",
+          "position": 32,
+          "no_result": false,
+          "raw_points": 114.0
+        },
+        {
+          "pilot_id": "385fedcc-7432-4325-bbe7-037a92c2beee",
+          "position": null,
+          "no_result": true,
+          "raw_points": 57.0
+        },
+        {
+          "pilot_id": "9b59b2b3-cb8f-4faa-b190-d8b72dbe584c",
+          "position": null,
+          "no_result": true,
+          "raw_points": 57.0
+        },
+        {
+          "pilot_id": "cf929c0d-91a4-4dd5-8021-154a2d6d9f3d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 57.0
+        },
+        {
+          "pilot_id": "a6b263a3-6d6f-4c55-9992-48bdf6b0fda8",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "e25a660b-39d3-4858-bee7-10861cdb4607",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "49e12345-9cdb-4d8b-94da-dbca8cdd759d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "494756ff-254c-4e30-aa05-ff385ae0b559",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "95bb58af-d671-44c9-969a-88f7985b3c97",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    },
+    {
+      "task_id": "2cf79e8f-6dd2-44bb-8dd0-8c766ebda19d",
+      "task_number": 5,
+      "task_type": "Maximum Distance Double Drop",
+      "results": [
+        {
+          "pilot_id": "9ed982cb-1170-4e11-8d1b-c54d1b7f3adc",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "dd8e4b56-46fc-48da-b9f7-e3b0f005d548",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 893.0
+        },
+        {
+          "pilot_id": "d01f7218-6c68-4907-aefe-560d4c92ad0a",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 888.0
+        },
+        {
+          "pilot_id": "adb0fb43-d7bf-497a-86ac-1a9af03f6ff0",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 881.0
+        },
+        {
+          "pilot_id": "a3b4878c-4e56-45f1-9a1a-e5c2ab3f497b",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 873.0
+        },
+        {
+          "pilot_id": "952df58e-ed81-4798-9d33-8ad825ba4038",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 844.0
+        },
+        {
+          "pilot_id": "14113a73-0b70-45a7-bf68-a32e24c9a52d",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 800.0
+        },
+        {
+          "pilot_id": "885fc6a1-d311-4c24-8f74-bb958b664574",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 788.0
+        },
+        {
+          "pilot_id": "de537143-6d54-4bbc-a75e-ffe3cf0807f3",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 784.0
+        },
+        {
+          "pilot_id": "3965846f-65f5-4150-bab4-0dccc78d4fd0",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 771.0
+        },
+        {
+          "pilot_id": "dd9e65f7-68d8-45a4-83ce-0fb661066342",
+          "position": 11,
+          "no_result": false,
+          "raw_points": 739.0
+        },
+        {
+          "pilot_id": "626c5f8a-6988-4244-9a40-891d2b557150",
+          "position": 12,
+          "no_result": false,
+          "raw_points": 724.0
+        },
+        {
+          "pilot_id": "798209fc-8b84-4d3d-9486-618ea29c98b5",
+          "position": 13,
+          "no_result": false,
+          "raw_points": 714.0
+        },
+        {
+          "pilot_id": "9dd66e6a-e675-4b8d-bd7f-f999d81f217c",
+          "position": 14,
+          "no_result": false,
+          "raw_points": 702.0
+        },
+        {
+          "pilot_id": "7f348d16-031f-4545-a761-70cf58d19a5a",
+          "position": 15,
+          "no_result": false,
+          "raw_points": 698.0
+        },
+        {
+          "pilot_id": "a935ddd9-ebda-44e7-b96c-b74561b19300",
+          "position": 16,
+          "no_result": false,
+          "raw_points": 687.0
+        },
+        {
+          "pilot_id": "e34aaf3e-94fc-42cf-8eb3-c4c35950937d",
+          "position": 17,
+          "no_result": false,
+          "raw_points": 645.0
+        },
+        {
+          "pilot_id": "52d6836e-63f2-48ef-b37d-797f60fb1098",
+          "position": 18,
+          "no_result": false,
+          "raw_points": 514.0
+        },
+        {
+          "pilot_id": "f074317c-60f9-47f8-bd06-78fcb2857cb7",
+          "position": 19,
+          "no_result": false,
+          "raw_points": 486.0
+        },
+        {
+          "pilot_id": "9b59b2b3-cb8f-4faa-b190-d8b72dbe584c",
+          "position": 20,
+          "no_result": false,
+          "raw_points": 457.0
+        },
+        {
+          "pilot_id": "af86059f-be0a-46f7-985a-2a140f18e157",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "385fedcc-7432-4325-bbe7-037a92c2beee",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "cd59d592-56f5-43d2-8aab-56e110b016db",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "3f18f38d-fd02-49e3-b0ec-d53bf40edd36",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "4592635b-2d15-408a-b5b1-c2f782ec1eb6",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "38703a36-7120-4325-b09d-6530c539910d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "98b85c8c-90cc-4039-b07f-8ea4f2328957",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "f1068716-6886-452f-8745-d2787435cff1",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "09c845dd-5baa-42dc-ac63-6438005b33b2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "42ec120c-bbdd-4cfe-a01a-3a0fc29d4c26",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "bca54934-56de-45da-bf75-680b5e92d149",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "5391ce89-31f4-408e-b9e3-a872c10e3eef",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "435f701f-5f50-431a-b31a-b05fa7bc7664",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "f04e9e3e-35b0-47c8-b769-af2783ea1fc1",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "cf929c0d-91a4-4dd5-8021-154a2d6d9f3d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 257.0
+        },
+        {
+          "pilot_id": "a6b263a3-6d6f-4c55-9992-48bdf6b0fda8",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "e25a660b-39d3-4858-bee7-10861cdb4607",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "49e12345-9cdb-4d8b-94da-dbca8cdd759d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "494756ff-254c-4e30-aa05-ff385ae0b559",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "95bb58af-d671-44c9-969a-88f7985b3c97",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    }
+  ]
+}

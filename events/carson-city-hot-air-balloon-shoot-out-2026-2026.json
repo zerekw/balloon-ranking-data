@@ -1,0 +1,118 @@
+{
+  "event_id": "565a68a4-86f9-4210-a3bd-5002290ffb24",
+  "slug": "carson-city-hot-air-balloon-shoot-out-2026-2026",
+  "name": "Carson City Hot Air Balloon Shoot-Out 2026",
+  "event_date": "2026-06-05",
+  "end_date": null,
+  "country": null,
+  "location": "Carson City, MI, United States",
+  "source": "watchmefly",
+  "source_event_id": "carson2026",
+  "sof": 1500.0,
+  "included": true,
+  "tasks": [
+    {
+      "task_id": "2220622b-a200-42d0-af0e-414efebbc5c1",
+      "task_number": 1,
+      "task_type": "Fly In",
+      "results": [
+        {
+          "pilot_id": "3be0223f-389c-430c-bc61-c25e27178379",
+          "position": 1,
+          "no_result": false,
+          "raw_points": 1000.0
+        },
+        {
+          "pilot_id": "a37bc032-d2d3-44db-9f3b-bc416723862b",
+          "position": 2,
+          "no_result": false,
+          "raw_points": 961.0
+        },
+        {
+          "pilot_id": "af5bca5f-d888-4e48-8de1-e3a838238604",
+          "position": 3,
+          "no_result": false,
+          "raw_points": 939.0
+        },
+        {
+          "pilot_id": "6c70c19e-5a49-47b8-991f-b3021312ddf8",
+          "position": 4,
+          "no_result": false,
+          "raw_points": 761.0
+        },
+        {
+          "pilot_id": "9f740b18-8ea8-48f0-9024-e608f7f5e280",
+          "position": 5,
+          "no_result": false,
+          "raw_points": 600.0
+        },
+        {
+          "pilot_id": "3293471d-4e77-4a57-8059-93fcd22417eb",
+          "position": 6,
+          "no_result": false,
+          "raw_points": 500.0
+        },
+        {
+          "pilot_id": "ae4b9d56-974f-476e-8370-480f9e272d28",
+          "position": 7,
+          "no_result": false,
+          "raw_points": 400.0
+        },
+        {
+          "pilot_id": "9e18d871-d008-4e93-98fe-37279e2e11c8",
+          "position": 8,
+          "no_result": false,
+          "raw_points": 300.0
+        },
+        {
+          "pilot_id": "f6c8f24d-a4ba-45be-ad1e-b39a7623bcca",
+          "position": 9,
+          "no_result": false,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "bf2bfe2b-01bd-4ca3-8bae-e19f8c61eb33",
+          "position": null,
+          "no_result": true,
+          "raw_points": 100.0
+        },
+        {
+          "pilot_id": "4f7c986f-c943-4f60-929f-7a5cc238dff2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "93b78c73-ad3f-4c6d-9c36-ecc709d6f441",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "17228c3c-f9eb-49d1-8547-dc5b1535687a",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "106d01bc-2bbc-435f-aad3-da01245eb08f",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "4a9ded5c-8165-4fc9-82c9-38458fb39543",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "9f6bf5ea-f610-4ac1-8410-ab201933e49d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        }
+      ]
+    }
+  ]
+}
