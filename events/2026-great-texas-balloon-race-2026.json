@@ -3,16 +3,16 @@
   "slug": "2026-great-texas-balloon-race-2026",
   "name": "2026 Great Texas Balloon Race",
   "event_date": "2026-06-12",
-  "end_date": null,
+  "end_date": "2026-06-13",
   "country": null,
   "location": "Longview, United States",
   "source": "watchmefly",
   "source_event_id": "gtbr2026",
-  "sof": 1559.3994068544653,
+  "sof": 1579.0195146729175,
   "included": true,
   "tasks": [
     {
-      "task_id": "cf3324c4-5377-46aa-b9fe-765c89beec4b",
+      "task_id": "af142f86-3c24-4ee1-8819-d66b79141f87",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -235,7 +235,7 @@
       ]
     },
     {
-      "task_id": "784d92fd-1b68-448d-b550-e58120271943",
+      "task_id": "fecd5cae-b7a9-4b06-bdbd-aede3be7a6e2",
       "task_number": 2,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -458,7 +458,7 @@
       ]
     },
     {
-      "task_id": "4eae2ea9-0e93-497e-bad8-c1db6a1a9e0f",
+      "task_id": "e9589224-4a2a-460c-95ae-12e98ee8aac6",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -681,7 +681,7 @@
       ]
     },
     {
-      "task_id": "95f5ec2a-b41c-4efe-912f-163cd27a09f6",
+      "task_id": "e71b3cf5-de98-4bb4-8259-c96eba0ed776",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -904,7 +904,7 @@
       ]
     },
     {
-      "task_id": "406fa10b-b315-4606-9f1b-c5a71aeeb121",
+      "task_id": "1f852d37-2b4a-4697-9427-31d2f779638d",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1127,7 +1127,7 @@
       ]
     },
     {
-      "task_id": "d9560c78-229d-4b2d-bc0d-29ec046351cb",
+      "task_id": "2699ba68-1f55-4c8e-8863-607b72da974e",
       "task_number": 6,
       "task_type": "Fly On",
       "results": [

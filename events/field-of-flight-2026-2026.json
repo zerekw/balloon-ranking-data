@@ -3,16 +3,16 @@
   "slug": "field-of-flight-2026-2026",
   "name": "Field of Flight 2026",
   "event_date": "2026-07-01",
-  "end_date": null,
+  "end_date": "2026-07-02",
   "country": null,
   "location": "Battle Creek, MI, United States",
   "source": "watchmefly",
   "source_event_id": "fof2026",
-  "sof": 1587.49124226913,
+  "sof": 1586.9688356360239,
   "included": true,
   "tasks": [
     {
-      "task_id": "d9fb7390-0de3-452a-828e-9b13527b6387",
+      "task_id": "40f1a7a0-46d4-4f16-a08f-5ac9a0f11600",
       "task_number": 1,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "task_id": "a3c5c24f-3a2a-4737-aeb3-2a76207ab227",
+      "task_id": "b8b78e34-d422-4b64-9854-4481402574e3",
       "task_number": 2,
       "task_type": "Fly On",
       "results": [
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "task_id": "46ba3786-d5a5-48f9-8f7b-bb5abff4cb66",
+      "task_id": "08b63fae-2f8e-4b53-866c-54b9a9914994",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -645,7 +645,7 @@
       ]
     },
     {
-      "task_id": "9f6e3be6-3034-4cb6-b8ba-8f105e1b8561",
+      "task_id": "d099ef78-7aff-4ade-9391-196dba56a3db",
       "task_number": 4,
       "task_type": "Maximum Distance",
       "results": [
