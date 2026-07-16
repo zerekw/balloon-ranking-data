@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "1eb1743f-6bf9-4d8e-86e4-5f4087b88bd5",
+      "task_id": "6fd99fad-6a16-4b9d-8ed1-eb6d5c2edebb",
       "task_number": 1,
       "task_type": "Hare and Hounds",
       "results": [
@@ -95,22 +95,16 @@
           "raw_points": 333.0
         },
         {
-          "pilot_id": "7dfd6617-eeba-444f-87bc-d7d54404bdfb",
-          "position": 20,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
           "pilot_id": "3ca99bd6-8c41-4753-84fe-861c63486c01",
           "position": 20,
           "no_result": false,
           "raw_points": null
         },
         {
-          "pilot_id": "062210bf-8f5f-412d-b3dc-ff63c0da7f31",
-          "position": null,
-          "no_result": true,
-          "raw_points": 167.0
+          "pilot_id": "7dfd6617-eeba-444f-87bc-d7d54404bdfb",
+          "position": 20,
+          "no_result": false,
+          "raw_points": null
         },
         {
           "pilot_id": "185038cd-8614-494f-8eca-1bd395afa58f",
@@ -135,11 +129,17 @@
           "position": null,
           "no_result": true,
           "raw_points": 167.0
+        },
+        {
+          "pilot_id": "062210bf-8f5f-412d-b3dc-ff63c0da7f31",
+          "position": null,
+          "no_result": true,
+          "raw_points": 167.0
         }
       ]
     },
     {
-      "task_id": "e6c07ebf-139d-42cd-84cb-c2b616f1acdd",
+      "task_id": "e7c0f860-0f93-48a1-8cd4-9b5f5a3db87c",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
