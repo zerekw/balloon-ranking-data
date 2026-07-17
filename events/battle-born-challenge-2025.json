@@ -8,11 +8,11 @@
   "location": "Carson Valley (Gardnerville, NV), Nevada, United States",
   "source": "watchmefly",
   "source_event_id": "bbc2025",
-  "sof": 1542.7850351645834,
+  "sof": 1542.7850351645836,
   "included": true,
   "tasks": [
     {
-      "task_id": "a1683d63-26d2-45ce-b6b5-ba034407c570",
+      "task_id": "4dc35ebf-0798-4afa-8c41-a59037d488fc",
       "task_number": 1,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -103,7 +103,7 @@
       ]
     },
     {
-      "task_id": "d9340608-123c-4b87-bb43-07249f10a913",
+      "task_id": "9af5333e-b9ca-4046-8fca-abf5fa0c7062",
       "task_number": 2,
       "task_type": "Shortest Flight",
       "results": [
@@ -194,7 +194,7 @@
       ]
     },
     {
-      "task_id": "52a9742c-1ce2-4a04-aeab-92b6c1008f81",
+      "task_id": "78211bbc-4b91-4bd2-bd82-04952f20e959",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -297,7 +297,7 @@
       ]
     },
     {
-      "task_id": "cca3e3f0-4fa3-419a-9834-76d873e48d4b",
+      "task_id": "916ad8ed-e23b-4a18-9e7e-9c39a1a83228",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -388,7 +388,7 @@
       ]
     },
     {
-      "task_id": "31750d23-cc50-43f3-ac81-fd66726f07f9",
+      "task_id": "b2a7e89c-722d-4fb4-a2e3-b61fafd6338e",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -485,7 +485,7 @@
       ]
     },
     {
-      "task_id": "37be78e5-a68c-43b5-bf3a-2551a7321527",
+      "task_id": "165549f2-6544-429d-80c5-fe55ffc5a1a5",
       "task_number": 6,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -582,7 +582,7 @@
       ]
     },
     {
-      "task_id": "a5c2fbee-9f38-4cf2-bf35-483c899f3af5",
+      "task_id": "be55eb52-8504-4d35-a0c8-caafbf0a8dc3",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -679,7 +679,7 @@
       ]
     },
     {
-      "task_id": "9213c631-29dd-450f-8a5e-8164ff09cbff",
+      "task_id": "097430ea-fd8a-43a8-9615-0a2d5678d99d",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -776,7 +776,7 @@
       ]
     },
     {
-      "task_id": "672e9c98-db93-446a-bcb2-bce47e4fd277",
+      "task_id": "51ab219d-39e3-4a71-b3c9-039786fab7cb",
       "task_number": 9,
       "task_type": "3D Shape Task",
       "results": [
@@ -873,7 +873,7 @@
       ]
     },
     {
-      "task_id": "7ad22066-6640-40ca-9bff-45dc0dfba463",
+      "task_id": "8878c8a9-b17b-48ac-b08e-7a6aba430d04",
       "task_number": 14,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -976,7 +976,7 @@
       ]
     },
     {
-      "task_id": "4dcc04f4-f463-492a-9396-28a19266c445",
+      "task_id": "a3a6cb92-b232-4a0b-b808-5a81e03ea0de",
       "task_number": 15,
       "task_type": "Elbow",
       "results": [
@@ -1079,7 +1079,7 @@
       ]
     },
     {
-      "task_id": "462b7fef-5a73-4860-9519-603b46e4fdbe",
+      "task_id": "7eb8bb18-0e3a-4509-af71-619be0288c78",
       "task_number": 16,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -1182,7 +1182,7 @@
       ]
     },
     {
-      "task_id": "92ec2423-d730-42b4-a420-5ac7d3f89265",
+      "task_id": "4e924f51-ac3f-4247-a188-38e381e7fde1",
       "task_number": 17,
       "task_type": "Fly On",
       "results": [
@@ -1285,7 +1285,7 @@
       ]
     },
     {
-      "task_id": "b15ad3bf-21f7-4409-9ab4-eb265f9c7f7a",
+      "task_id": "312686c5-1c2f-4d87-886b-fe4f59b6080b",
       "task_number": 18,
       "task_type": "Altitude Profile Task",
       "results": [

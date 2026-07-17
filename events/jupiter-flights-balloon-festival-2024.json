@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "85e00374-2715-400b-b0b9-80030f262dca",
+      "task_id": "3f7828ba-f619-49d0-9d84-d30c5a78b6f4",
       "task_number": 1,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "task_id": "f7e9b34b-f11b-4298-9515-d6d88acaf725",
+      "task_id": "659b4fd8-4ca8-443c-aae0-97e05a09bc7f",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -342,6 +342,12 @@
           "raw_points": 500.0
         },
         {
+          "pilot_id": "729b67da-d9b4-41ec-905b-4a9e94f43a11",
+          "position": 39,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
           "pilot_id": "312e7577-235c-4969-8c77-e6858928a7a6",
           "position": 39,
           "no_result": false,
@@ -390,10 +396,16 @@
           "raw_points": null
         },
         {
-          "pilot_id": "729b67da-d9b4-41ec-905b-4a9e94f43a11",
-          "position": 39,
-          "no_result": false,
-          "raw_points": null
+          "pilot_id": "cad3251b-115c-4531-9bf7-3f03966069e2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
+        },
+        {
+          "pilot_id": "a457ea08-b7d2-4993-be89-5ec1af99bcce",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
         },
         {
           "pilot_id": "92d5768d-7904-4485-9d13-d7d5539c4809",
@@ -478,23 +490,11 @@
           "position": null,
           "no_result": true,
           "raw_points": 300.0
-        },
-        {
-          "pilot_id": "cad3251b-115c-4531-9bf7-3f03966069e2",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
-        },
-        {
-          "pilot_id": "a457ea08-b7d2-4993-be89-5ec1af99bcce",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
         }
       ]
     },
     {
-      "task_id": "bd854bfd-7274-4d7d-b85d-00e6763957d2",
+      "task_id": "8468f6e6-3abc-443b-abbb-23c419250878",
       "task_number": 3,
       "task_type": "Maximum Distance Double Drop",
       "results": [
