@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "dfc579e0-f268-49ed-975b-0bcb776b09e2",
+      "task_id": "efeb5710-7820-40b1-b638-0ba22becf363",
       "task_number": 1,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1081,7 +1081,7 @@
       ]
     },
     {
-      "task_id": "b84e00f7-b35a-49e7-90e1-3ecc5ea98bf1",
+      "task_id": "d5dba16c-0d89-4f91-a6bd-4de30f1c3a37",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2150,7 +2150,7 @@
       ]
     },
     {
-      "task_id": "4b75c38b-3178-4c6e-abc3-83fa01c5213f",
+      "task_id": "647e0124-8319-440b-a422-cce8fad6db88",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -3219,7 +3219,7 @@
       ]
     },
     {
-      "task_id": "92a887fb-59a2-428a-a55e-dfa380bbd1ea",
+      "task_id": "d6810ca1-c821-4fc8-8d1e-0251cf7f1e02",
       "task_number": 4,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -4288,7 +4288,7 @@
       ]
     },
     {
-      "task_id": "5137f0e9-0bc4-4d3f-85ca-de727c7395c1",
+      "task_id": "7013c81f-96d0-40f4-a99f-b07e750b334e",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -5357,7 +5357,7 @@
       ]
     },
     {
-      "task_id": "7a2e6e93-dc04-44f8-ac5f-6564807db6f0",
+      "task_id": "3bb380e6-1bda-4f79-9e16-fda905583253",
       "task_number": 6,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -6426,7 +6426,7 @@
       ]
     },
     {
-      "task_id": "aca9703e-8ad8-49df-be02-8f203ba261eb",
+      "task_id": "460f0258-e121-4eb8-b216-10d4eddb61dc",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -7495,7 +7495,7 @@
       ]
     },
     {
-      "task_id": "f6eedac3-3d23-432e-8868-0a1d6688c891",
+      "task_id": "e8ea0efd-c10d-47a6-822d-28a60ac274d8",
       "task_number": 8,
       "task_type": "Maximum Distance",
       "results": [
@@ -7632,13 +7632,13 @@
           "raw_points": 945.0
         },
         {
-          "pilot_id": "70f4936c-fe1c-4875-8626-ecde95af165e",
+          "pilot_id": "4e70f39d-8f88-47bb-96a0-9992948ecaaf",
           "position": 23,
           "no_result": false,
           "raw_points": 939.0
         },
         {
-          "pilot_id": "4e70f39d-8f88-47bb-96a0-9992948ecaaf",
+          "pilot_id": "70f4936c-fe1c-4875-8626-ecde95af165e",
           "position": 23,
           "no_result": false,
           "raw_points": 939.0
@@ -7758,6 +7758,12 @@
           "raw_points": null
         },
         {
+          "pilot_id": "7e7fcdde-4a8b-4834-aa10-3fe1e3ec6b2e",
+          "position": 177,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
           "pilot_id": "7cdc15b8-2f22-4639-a783-e3a86589db5c",
           "position": 177,
           "no_result": false,
@@ -7765,12 +7771,6 @@
         },
         {
           "pilot_id": "5be65f98-d3fb-4ff0-84c3-fcbfef537716",
-          "position": 177,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "7e7fcdde-4a8b-4834-aa10-3fe1e3ec6b2e",
           "position": 177,
           "no_result": false,
           "raw_points": null
@@ -8166,13 +8166,13 @@
           "raw_points": 562.0
         },
         {
-          "pilot_id": "fc20a0a3-edae-452f-a393-cb399840165b",
+          "pilot_id": "1101c6ca-7ef5-449f-8031-c713c8c62270",
           "position": null,
           "no_result": true,
           "raw_points": 562.0
         },
         {
-          "pilot_id": "1101c6ca-7ef5-449f-8031-c713c8c62270",
+          "pilot_id": "661c6276-f2a7-4eea-aead-1f70c071826a",
           "position": null,
           "no_result": true,
           "raw_points": 562.0
@@ -8280,7 +8280,7 @@
           "raw_points": 562.0
         },
         {
-          "pilot_id": "661c6276-f2a7-4eea-aead-1f70c071826a",
+          "pilot_id": "fc20a0a3-edae-452f-a393-cb399840165b",
           "position": null,
           "no_result": true,
           "raw_points": 562.0

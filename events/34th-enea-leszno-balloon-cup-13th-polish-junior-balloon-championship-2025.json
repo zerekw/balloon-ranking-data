@@ -8,11 +8,11 @@
   "location": "Leszno, Poland",
   "source": "watchmefly",
   "source_event_id": "leszno2025",
-  "sof": 1532.2647410168129,
+  "sof": 1532.2647410163631,
   "included": true,
   "tasks": [
     {
-      "task_id": "6cab0143-5ef2-4b66-b089-a74a6e86eba7",
+      "task_id": "e9ed3cd5-9086-4a5b-8a41-196081b9aded",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -151,7 +151,7 @@
       ]
     },
     {
-      "task_id": "69a66b3a-fead-4972-9de4-b5f6128fb68d",
+      "task_id": "bacffe85-3068-484a-81b0-ff2912cbe869",
       "task_number": 2,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -290,7 +290,7 @@
       ]
     },
     {
-      "task_id": "8f516a7b-86db-46f7-a76b-4842f9244cb6",
+      "task_id": "c763459d-1825-415a-a177-374e23c38deb",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -429,7 +429,7 @@
       ]
     },
     {
-      "task_id": "80ff9412-a8ec-4465-ad0c-a053293bfd52",
+      "task_id": "846e31d8-781e-4892-9f93-ac0356824549",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -568,7 +568,7 @@
       ]
     },
     {
-      "task_id": "966a71d0-f9a1-4517-be5e-965171b2f37c",
+      "task_id": "8627722b-9938-49da-933e-dc92ceab9a40",
       "task_number": 5,
       "task_type": "Fly In",
       "results": [
@@ -707,7 +707,7 @@
       ]
     },
     {
-      "task_id": "02c9ffc1-390b-4042-a565-f0a08223af00",
+      "task_id": "ffca33d9-4028-4f6b-9b76-459e9b827089",
       "task_number": 6,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -846,7 +846,7 @@
       ]
     },
     {
-      "task_id": "b36354ee-6cfc-4172-8b0a-f9a4aa1c54d8",
+      "task_id": "40d86228-fb80-45cf-9bdd-14e6cd1e6d67",
       "task_number": 7,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -985,7 +985,7 @@
       ]
     },
     {
-      "task_id": "4636894e-c2ee-499c-816d-17f0e0b2b59b",
+      "task_id": "d1c34e47-9aaf-45b7-9acc-9a45f9648909",
       "task_number": 8,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1124,7 +1124,7 @@
       ]
     },
     {
-      "task_id": "88f0409a-7e97-43b8-ae4f-64de98df4c80",
+      "task_id": "a69c9328-6ad4-4683-ba44-5d946daefa0d",
       "task_number": 9,
       "task_type": "3D Shape Task",
       "results": [
@@ -1263,7 +1263,7 @@
       ]
     },
     {
-      "task_id": "ff7baea4-4784-4718-8c42-7c2504c5097e",
+      "task_id": "cddd1fa3-4160-4efc-8836-f1493fafeb9b",
       "task_number": 10,
       "task_type": "Elbow",
       "results": [
@@ -1402,7 +1402,7 @@
       ]
     },
     {
-      "task_id": "5c098b6f-6617-416b-8405-930b3b396bcd",
+      "task_id": "36b2a3da-995e-4e65-a4c7-f974c39b4648",
       "task_number": 11,
       "task_type": "Hare and Hounds",
       "results": [
@@ -1541,7 +1541,7 @@
       ]
     },
     {
-      "task_id": "5be62103-51dd-4f71-ae9a-593a6565f149",
+      "task_id": "d4cabf59-f380-418f-8ebc-3c14f588ce23",
       "task_number": 12,
       "task_type": "Fly On",
       "results": [
@@ -1680,7 +1680,7 @@
       ]
     },
     {
-      "task_id": "32bb905b-df98-43b2-8812-b230dfdeae7c",
+      "task_id": "137488b2-6faf-40a7-a78c-c252d6d26cf0",
       "task_number": 13,
       "task_type": "Watership Down",
       "results": [
@@ -1819,7 +1819,7 @@
       ]
     },
     {
-      "task_id": "bdb95377-2975-4ed7-af2c-b484db253df3",
+      "task_id": "a795e6af-894c-491d-b82e-97a66a399bd4",
       "task_number": 14,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1958,7 +1958,7 @@
       ]
     },
     {
-      "task_id": "616717f8-dd04-4750-83f8-0c9b34538c85",
+      "task_id": "bbb2203f-1577-4e83-af4f-4d0e6fcd2684",
       "task_number": 15,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -2097,7 +2097,7 @@
       ]
     },
     {
-      "task_id": "431ef75f-9fa4-4da8-ab49-64af22fe0695",
+      "task_id": "6cc029d3-b072-44d0-9b38-9cd4d867e2db",
       "task_number": 16,
       "task_type": "Maximum Distance Double Drop",
       "results": [
