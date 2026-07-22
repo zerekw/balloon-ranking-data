@@ -8,11 +8,11 @@
   "location": "Multiple Locations, United States",
   "source": "watchmefly",
   "source_event_id": "usatc2026",
-  "sof": 1735.6781140063586,
+  "sof": 1735.6781138454367,
   "included": true,
   "tasks": [
     {
-      "task_id": "f456aad3-1509-467c-805e-8804d1a8d9d0",
+      "task_id": "30e95c42-b14e-401e-8791-b5fe79ec20ca",
       "task_number": 2,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "task_id": "d66efc9d-db59-4cc7-a0f0-54aefb5eb91b",
+      "task_id": "dc0128ac-4215-4237-92e0-4c37dd49fa93",
       "task_number": 5,
       "task_type": "3D Shape Task",
       "results": [
@@ -170,7 +170,7 @@
       ]
     },
     {
-      "task_id": "b90afd15-1f8f-4b7b-955c-ddc0e230a2d2",
+      "task_id": "9f0664dc-5409-4f42-b169-dde192f1b877",
       "task_number": 8,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "task_id": "78b666f0-c1ed-4913-9a4f-cdeb5231878b",
+      "task_id": "3140255c-ec28-41c3-961b-1f3031d2e455",
       "task_number": 9,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "task_id": "ffdb1bdc-f889-4514-be96-22e7ee02434a",
+      "task_id": "a209227d-2c13-4b4d-aba3-252b8cfee399",
       "task_number": 10,
       "task_type": "Elbow",
       "results": [
@@ -359,7 +359,7 @@
       ]
     },
     {
-      "task_id": "3248f17b-63ec-4207-872c-7d39aab1f3cf",
+      "task_id": "0df9603e-5a7e-4e61-8b22-f0737edf0ad2",
       "task_number": 11,
       "task_type": "Fly On",
       "results": [
@@ -438,7 +438,7 @@
       ]
     },
     {
-      "task_id": "a6d0b5fe-4081-494a-9025-153109921d3f",
+      "task_id": "195d1776-9276-41a9-ad0e-8fb952e8bc85",
       "task_number": 12,
       "task_type": "Fly On",
       "results": [
@@ -517,7 +517,7 @@
       ]
     },
     {
-      "task_id": "355e99f9-f78d-4fa9-ba0e-406560111123",
+      "task_id": "6ab5b40e-62cc-438c-8ba5-059d92078ebb",
       "task_number": 14,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -596,7 +596,7 @@
       ]
     },
     {
-      "task_id": "7cea1867-d42a-4a35-8ee7-cfb2af4b089b",
+      "task_id": "70d976df-9757-463c-aedd-7b691650feda",
       "task_number": 17,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -675,7 +675,7 @@
       ]
     },
     {
-      "task_id": "ab7ecf12-02a5-48d1-a5f1-fca9e2d547d0",
+      "task_id": "d9ce183e-a7ba-4c47-9d23-118b685653f7",
       "task_number": 18,
       "task_type": "Race to an Area",
       "results": [
@@ -700,7 +700,7 @@
       ]
     },
     {
-      "task_id": "e958ca47-a789-4271-a860-f137c44bef36",
+      "task_id": "c8680e79-067a-4e2e-964b-215487d0d136",
       "task_number": 20,
       "task_type": "Fly On",
       "results": [
@@ -725,7 +725,7 @@
       ]
     },
     {
-      "task_id": "12a5ff53-57fe-4090-b85f-8d63cfaf6acf",
+      "task_id": "430db899-10d5-40b7-a137-08c25079f70a",
       "task_number": 21,
       "task_type": "Fly On",
       "results": [
