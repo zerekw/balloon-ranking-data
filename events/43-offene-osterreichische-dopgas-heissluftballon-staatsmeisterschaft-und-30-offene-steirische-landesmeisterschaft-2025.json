@@ -8,11 +8,11 @@
   "location": "Hofkirchen / Steiermark, Austria",
   "source": "watchmefly",
   "source_event_id": "austria2024",
-  "sof": 1533.2479088784694,
+  "sof": 1533.2479088784698,
   "included": true,
   "tasks": [
     {
-      "task_id": "925e4226-3bc6-4056-b2c5-20883a976fbe",
+      "task_id": "e4f293f0-da88-4b4f-a81d-8c48679c6c67",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -163,7 +163,7 @@
       ]
     },
     {
-      "task_id": "86843f5c-2229-4ef2-b442-a2dfa3c33e9f",
+      "task_id": "baf8d373-08ae-44d5-8c5a-44390ae06c5a",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -314,7 +314,7 @@
       ]
     },
     {
-      "task_id": "2b3ca5e0-076d-45a8-8df2-4a485a1ba820",
+      "task_id": "b2661922-1682-4b79-b178-025ac77963e3",
       "task_number": 3,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -465,7 +465,7 @@
       ]
     },
     {
-      "task_id": "f09051fb-b595-4d00-ae17-bd549309b8bc",
+      "task_id": "e4cb2b2a-f1c0-4009-9b76-1ddfca37a063",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -616,7 +616,7 @@
       ]
     },
     {
-      "task_id": "37cebed1-8d9b-4515-8b9e-b7abfe56576a",
+      "task_id": "a80a7405-7a05-4b30-823e-f0cfea811a08",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -767,7 +767,7 @@
       ]
     },
     {
-      "task_id": "5748f164-3c58-4ee6-bd3b-cfd9e69a4fcc",
+      "task_id": "3e00a065-2312-4beb-94f6-aa2434a0dfd1",
       "task_number": 6,
       "task_type": "Angle",
       "results": [
@@ -918,7 +918,7 @@
       ]
     },
     {
-      "task_id": "9676e1f6-6cce-4f14-a732-ff34e4ceb15a",
+      "task_id": "85273000-143b-4127-9aa6-fa318b1262a7",
       "task_number": 7,
       "task_type": "3D Shape Task",
       "results": [
@@ -1069,7 +1069,7 @@
       ]
     },
     {
-      "task_id": "3e404b34-c29d-4ded-bfa0-80cad12029d8",
+      "task_id": "0ccb47ff-60af-4b5f-93b1-02f1c7fc01f6",
       "task_number": 8,
       "task_type": "Fly In",
       "results": [
@@ -1220,7 +1220,7 @@
       ]
     },
     {
-      "task_id": "bca9d4f5-b479-4645-8651-e8c81be4d72d",
+      "task_id": "341091f3-adff-4fbe-a691-ad4926731aaa",
       "task_number": 9,
       "task_type": "Watership Down",
       "results": [
@@ -1371,7 +1371,7 @@
       ]
     },
     {
-      "task_id": "81417309-2a2b-4a17-9697-94467da4977d",
+      "task_id": "7aeeebda-04d8-4d0e-8148-c190428ffbdc",
       "task_number": 10,
       "task_type": "Land Run",
       "results": [
@@ -1522,7 +1522,7 @@
       ]
     },
     {
-      "task_id": "7062f7f0-da33-4d21-9e34-83ae5b411e36",
+      "task_id": "6d3879d3-8fe3-4a6f-8cbb-9b6b6181bff0",
       "task_number": 11,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1673,7 +1673,7 @@
       ]
     },
     {
-      "task_id": "fc5d7d6d-aef0-460c-99a8-c533649bc979",
+      "task_id": "21476367-d554-4b8d-ac7f-df86355ebef4",
       "task_number": 12,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1824,7 +1824,7 @@
       ]
     },
     {
-      "task_id": "ad6dee83-a870-4575-820b-9d42006998e4",
+      "task_id": "26f2ed35-02c9-414d-9657-32134d7e837e",
       "task_number": 13,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -1975,7 +1975,7 @@
       ]
     },
     {
-      "task_id": "099b07e4-893f-42c7-a290-566a5bc8bc9b",
+      "task_id": "173eaefb-6d10-45be-997d-cfbb796177d1",
       "task_number": 14,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2126,7 +2126,7 @@
       ]
     },
     {
-      "task_id": "1566ba2e-a1e9-42a9-ac60-b8773d6e087c",
+      "task_id": "27f8e123-1438-48ef-a154-d87d431a663b",
       "task_number": 15,
       "task_type": "Land Run",
       "results": [
@@ -2277,7 +2277,7 @@
       ]
     },
     {
-      "task_id": "8b707602-1b79-4294-8623-4cc3912f938f",
+      "task_id": "dadbcdd5-d3e2-46e0-ab70-a0ec57203453",
       "task_number": 16,
       "task_type": "3D Shape Task",
       "results": [
@@ -2428,7 +2428,7 @@
       ]
     },
     {
-      "task_id": "ed6de0f2-14a9-4392-a285-3c7c4cbcd652",
+      "task_id": "807be02c-6114-4f9f-966d-9caf0f2d70f9",
       "task_number": 17,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -2579,7 +2579,7 @@
       ]
     },
     {
-      "task_id": "af19d5f4-e48a-4eb1-838b-db0fe996fa19",
+      "task_id": "51b9f6f4-ebaf-4c4c-b2d1-bf94f0c7dfc9",
       "task_number": 18,
       "task_type": "Hare and Hounds",
       "results": [
