@@ -8,11 +8,11 @@
   "location": "Witteveen, The Netherlands",
   "source": "watchmefly",
   "source_event_id": "dutchtrophy2025",
-  "sof": 1512.4478813168655,
+  "sof": 1512.4478813168657,
   "included": true,
   "tasks": [
     {
-      "task_id": "96579374-7858-4d20-a719-b39dde7493be",
+      "task_id": "d1d0ae1d-a079-4fce-9e1e-f15ae7ca74dc",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "task_id": "a80e1082-dd30-40ce-a3fa-7836fe2578a2",
+      "task_id": "e9941afe-d484-4345-afaf-5950f05e94a1",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "task_id": "33ef34d7-fd7f-4c09-8c52-f1d756b31f23",
+      "task_id": "3711835f-c3ca-47db-8153-d41fb6315bf6",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "task_id": "21569fcd-43ed-4a36-8717-85378e5ca596",
+      "task_id": "a4721bab-8b59-4454-beca-ef43715de6e7",
       "task_number": 4,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "task_id": "3b9658ce-1d36-489f-8ded-7b5edca8fc17",
+      "task_id": "ec179ab5-f2bf-4954-9278-6f8b86d48524",
       "task_number": 5,
       "task_type": "Fly On",
       "results": [
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "task_id": "3b75dcb7-935c-4955-93a2-d6d0b8f99081",
+      "task_id": "3b2e31f2-6e9a-4042-9062-548d5d1a556b",
       "task_number": 6,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "task_id": "b1a49399-a254-4cf8-b27e-060a4415abc1",
+      "task_id": "2d2af63c-b69f-47e1-beb7-98e6abc643a5",
       "task_number": 7,
       "task_type": "Race to an Area",
       "results": [
@@ -1111,7 +1111,7 @@
       ]
     },
     {
-      "task_id": "892ab1d2-cddc-4486-827a-07dd49911312",
+      "task_id": "045518fd-cdd7-42e6-8442-c958b36a4a55",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "task_id": "d34dc186-2654-47f6-ae1d-0bb0930c3df8",
+      "task_id": "e570fa7c-8f11-48b6-b2df-a836346e9e5b",
       "task_number": 9,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1425,7 +1425,7 @@
       ]
     },
     {
-      "task_id": "98901285-fb7e-4af7-95b7-79806b749293",
+      "task_id": "5cc9f976-fdba-4597-b3ad-287f60b2475c",
       "task_number": 10,
       "task_type": "3D Shape Task",
       "results": [
@@ -1582,7 +1582,7 @@
       ]
     },
     {
-      "task_id": "9ab38b91-2767-4f0c-91a8-f3129f342b1c",
+      "task_id": "9e3c8f98-1ec7-4715-b6db-953e815964bc",
       "task_number": 11,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "task_id": "2533adef-9fb4-4aab-bdc1-2bc1fe32a9a3",
+      "task_id": "756f68b2-7f41-4c6a-9eb3-b191f5a0e93e",
       "task_number": 12,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1896,7 +1896,7 @@
       ]
     },
     {
-      "task_id": "49db938b-6b01-41a0-ae9d-3ce013f4491b",
+      "task_id": "4d978243-548a-48ab-8e25-5051ac24a34a",
       "task_number": 13,
       "task_type": "Land Run",
       "results": [
@@ -2053,7 +2053,7 @@
       ]
     },
     {
-      "task_id": "bdc29725-51ef-48d2-adea-83984fc0c35f",
+      "task_id": "dabcc827-245f-4a79-8a28-0a0bc1dac64d",
       "task_number": 14,
       "task_type": "Fly On",
       "results": [
@@ -2210,7 +2210,7 @@
       ]
     },
     {
-      "task_id": "e6596e7d-27ef-4541-afd6-9b6f8ad193f3",
+      "task_id": "e5b2b91e-d3f2-4bd0-b1d4-dfb1958e9564",
       "task_number": 15,
       "task_type": "Fly On",
       "results": [
@@ -2367,7 +2367,7 @@
       ]
     },
     {
-      "task_id": "4dc2d855-30b0-458f-b163-dac1e66258de",
+      "task_id": "8b85924b-ffc6-4273-bbbe-6fc90ccb39b8",
       "task_number": 16,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -2524,7 +2524,7 @@
       ]
     },
     {
-      "task_id": "4c49521b-35dc-4a1b-93e6-f7fcd54ef3ab",
+      "task_id": "236657e4-4bba-4ff1-8dc6-34bf6ee8c209",
       "task_number": 17,
       "task_type": "3D Shape Task",
       "results": [
