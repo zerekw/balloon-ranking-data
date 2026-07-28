@@ -8,11 +8,11 @@
   "location": "Rypin, Poland",
   "source": "watchmefly",
   "source_event_id": "rypin2025",
-  "sof": 1525.5884798649006,
+  "sof": 1525.5884798649024,
   "included": true,
   "tasks": [
     {
-      "task_id": "44c37399-2525-4555-909f-e89fd2e467f7",
+      "task_id": "199624d7-d457-49a8-9736-1e7eebe2fa09",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "task_id": "1113da94-9707-47bf-9d24-f00b126d7788",
+      "task_id": "7f879f40-4725-46e6-945d-6a5bbe1e8583",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -254,7 +254,7 @@
       ]
     },
     {
-      "task_id": "90e82266-2a55-4979-9d5e-281a1d8f7cb8",
+      "task_id": "4cac8d48-e94b-4bbf-9320-2f3bf9740e26",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -375,7 +375,7 @@
       ]
     },
     {
-      "task_id": "ca398234-ac13-4749-a606-9f008ec3581a",
+      "task_id": "7d597a47-6c0b-4d7d-bd63-0d4a3633aab2",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -496,7 +496,7 @@
       ]
     },
     {
-      "task_id": "2f9dd74e-7dab-4a5d-86ee-ccdf51eb8207",
+      "task_id": "642638a9-91bd-4b1e-90ae-da95729d0cc8",
       "task_number": 5,
       "task_type": "Fly In",
       "results": [
@@ -617,7 +617,7 @@
       ]
     },
     {
-      "task_id": "86cdb78f-62ab-42c9-ad51-e30684044a8a",
+      "task_id": "f9682f05-f46d-4a94-9cba-798ebd04bbda",
       "task_number": 6,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -738,7 +738,7 @@
       ]
     },
     {
-      "task_id": "962bd530-abb7-48e7-b73e-108bb4522d77",
+      "task_id": "c6b40f00-beb5-44e3-87aa-40c90cb6cde9",
       "task_number": 7,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -859,7 +859,7 @@
       ]
     },
     {
-      "task_id": "b1a80d02-3a10-4118-84b2-c2da14ee0e1d",
+      "task_id": "169497e1-8ff2-4969-bfc3-55492d010fde",
       "task_number": 8,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -980,7 +980,7 @@
       ]
     },
     {
-      "task_id": "e63b5be0-2275-4ed3-bfca-6df484ab6bfb",
+      "task_id": "96d9ea64-b9e3-4e78-8f8e-bd749d8b3321",
       "task_number": 9,
       "task_type": "Shortest Flight",
       "results": [
@@ -1101,7 +1101,7 @@
       ]
     },
     {
-      "task_id": "31ceab92-5d21-42c6-a579-3934ecb0bc10",
+      "task_id": "fd499cf7-ca48-40db-8509-386053ddfce3",
       "task_number": 10,
       "task_type": "Maximum Distance",
       "results": [
@@ -1222,7 +1222,7 @@
       ]
     },
     {
-      "task_id": "478211ba-7d2a-4e05-a33e-b712200d4827",
+      "task_id": "1b01df56-2c38-4d86-8b38-d5602dfb9aa9",
       "task_number": 11,
       "task_type": "Fly In",
       "results": [
@@ -1343,7 +1343,7 @@
       ]
     },
     {
-      "task_id": "b5f0ef1c-f90e-4100-b00c-8a57544c69dc",
+      "task_id": "504efc9e-b038-40d3-8ad3-e622c060e7f4",
       "task_number": 12,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1464,7 +1464,7 @@
       ]
     },
     {
-      "task_id": "ad02495a-5453-4dfd-8a3d-af1e9dce1344",
+      "task_id": "926b774e-5ca4-47c5-8af7-44d300f48cb3",
       "task_number": 13,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1585,7 +1585,7 @@
       ]
     },
     {
-      "task_id": "b03b79f9-e4a3-44b3-902a-a80816c78b58",
+      "task_id": "19ed222e-4462-481e-9e70-33b74aead244",
       "task_number": 14,
       "task_type": "Maximum Distance Double Drop",
       "results": [

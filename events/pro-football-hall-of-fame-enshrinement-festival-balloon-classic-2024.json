@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "eb5f450b-1371-47a7-a738-928c20f35b5f",
+      "task_id": "67da51b7-1de1-4156-8fa4-3b243a0072d6",
       "task_number": 1,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -241,7 +241,7 @@
       ]
     },
     {
-      "task_id": "127ce17b-0bbf-451c-b8c5-32edef837e37",
+      "task_id": "46f060c4-7163-4032-af3b-44c0f8f8f822",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -330,31 +330,7 @@
           "raw_points": 133.0
         },
         {
-          "pilot_id": "185038cd-8614-494f-8eca-1bd395afa58f",
-          "position": 37,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "6e3d32de-7d99-4b26-b6f4-64bddba7e2d6",
-          "position": 37,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "407ff350-98e4-428b-b001-96da247e0d41",
-          "position": 37,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
           "pilot_id": "88d5d5bd-23ae-46a7-9fad-af555dc245fc",
-          "position": 37,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "efc5fc61-6e09-4149-8537-53414336b631",
           "position": 37,
           "no_result": false,
           "raw_points": null
@@ -379,6 +355,12 @@
         },
         {
           "pilot_id": "f7212a94-133a-4297-be9c-78a33a19a7c5",
+          "position": 37,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "efc5fc61-6e09-4149-8537-53414336b631",
           "position": 37,
           "no_result": false,
           "raw_points": null
@@ -462,6 +444,24 @@
           "raw_points": null
         },
         {
+          "pilot_id": "185038cd-8614-494f-8eca-1bd395afa58f",
+          "position": 37,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "6e3d32de-7d99-4b26-b6f4-64bddba7e2d6",
+          "position": 37,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "407ff350-98e4-428b-b001-96da247e0d41",
+          "position": 37,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
           "pilot_id": "77514c19-95c4-4068-bdf8-623a26a24c98",
           "position": null,
           "no_result": true,
@@ -470,7 +470,7 @@
       ]
     },
     {
-      "task_id": "a58324b6-19f7-478b-93c1-82e59aee203b",
+      "task_id": "a9b6ddc4-4472-41de-9670-b2f7dfcf43c5",
       "task_number": 6,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -699,7 +699,7 @@
       ]
     },
     {
-      "task_id": "4d8368c2-7f42-42dc-9dac-45fbe23773b3",
+      "task_id": "87163883-3642-49aa-8028-3789991e88bb",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -928,7 +928,7 @@
       ]
     },
     {
-      "task_id": "edbc31e7-9c24-4dae-861c-016cdb1f81a4",
+      "task_id": "2c1659b4-0282-4620-b26e-cb4ec5f9a5d8",
       "task_number": 8,
       "task_type": "Fly In",
       "results": [
@@ -1157,7 +1157,7 @@
       ]
     },
     {
-      "task_id": "59d32498-7a2b-4b26-bc77-6d1a4e02bef5",
+      "task_id": "fbd3dcbe-76ef-4399-9f32-23a79318a28b",
       "task_number": 10,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1386,7 +1386,7 @@
       ]
     },
     {
-      "task_id": "5d5c0313-7e35-4da2-b06f-be37781072d5",
+      "task_id": "99bb07af-52fa-4ac6-b3c9-f444c908d404",
       "task_number": 11,
       "task_type": "Fly In",
       "results": [
@@ -1615,7 +1615,7 @@
       ]
     },
     {
-      "task_id": "25511fd4-7464-4d51-84c8-a90a94edf7bc",
+      "task_id": "d6ce2b01-1be6-4d45-981d-673e6dd45949",
       "task_number": 13,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1844,7 +1844,7 @@
       ]
     },
     {
-      "task_id": "6c4abfbf-e424-4c33-86a6-9709ad6a83e9",
+      "task_id": "c2968203-8fee-4279-ada3-c5ba6c75b28e",
       "task_number": 14,
       "task_type": "Hesitation Waltz",
       "results": [

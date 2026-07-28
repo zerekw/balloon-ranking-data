@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "3f609926-b5ac-4480-b039-78d03d80611a",
+      "task_id": "aa750c01-4b80-492f-bfad-5405e3ecfa31",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -91,7 +91,7 @@
       ]
     },
     {
-      "task_id": "a86829eb-9f4f-4483-a0bb-fe95008bbd74",
+      "task_id": "026314dd-a983-4132-b39e-a3ab4de89e64",
       "task_number": 2,
       "task_type": "Fly On",
       "results": [
@@ -150,6 +150,12 @@
           "raw_points": 545.0
         },
         {
+          "pilot_id": "b4347b6c-414e-4b4a-bc2c-50d94ee60a89",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
           "pilot_id": "5b3c5740-b153-4670-90d4-dba998f1ac83",
           "position": null,
           "no_result": true,
@@ -160,17 +166,11 @@
           "position": null,
           "no_result": true,
           "raw_points": 137.0
-        },
-        {
-          "pilot_id": "b4347b6c-414e-4b4a-bc2c-50d94ee60a89",
-          "position": null,
-          "no_result": true,
-          "raw_points": 0.0
         }
       ]
     },
     {
-      "task_id": "0c84e738-cdb5-42d0-b78f-4a017dddd196",
+      "task_id": "3bfaf836-a736-4ce2-91e4-4cb4b2b6a447",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -249,7 +249,7 @@
       ]
     },
     {
-      "task_id": "5073bceb-74d2-4fef-89d7-65f9ed5e2ec6",
+      "task_id": "320aa158-3f54-47cb-9dbf-80dc47eb3fc1",
       "task_number": 4,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -328,7 +328,7 @@
       ]
     },
     {
-      "task_id": "1bc1d296-1f4b-4e1b-b41b-539c73077e80",
+      "task_id": "adb237d8-a640-45f1-b652-42004c23d2a3",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -407,7 +407,7 @@
       ]
     },
     {
-      "task_id": "cba1e178-3d3b-4eb6-8458-40794d4b2c05",
+      "task_id": "685019ca-3eb2-41fc-bc64-cc80ce22dba1",
       "task_number": 7,
       "task_type": "Fly On",
       "results": [
@@ -486,7 +486,7 @@
       ]
     },
     {
-      "task_id": "f3663c30-fa2d-404b-a16e-f85f5eb61545",
+      "task_id": "9e7fb756-55e2-4dbb-a1bc-e94f338cf883",
       "task_number": 8,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "task_id": "ccba1b4b-330e-49bb-899b-ed33781bbde1",
+      "task_id": "c6240360-8ab5-4b99-a865-79250c4c4380",
       "task_number": 9,
       "task_type": "Minimum Distance",
       "results": [
