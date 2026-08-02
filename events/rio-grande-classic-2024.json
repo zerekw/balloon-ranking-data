@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "76636058-043d-4790-89f0-7e628bf7d002",
+      "task_id": "eeefc06f-7f97-4ac8-8487-5e94a6c98920",
       "task_number": 1,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "task_id": "8b09a153-9c0f-4076-98ae-37afb7d0dfaf",
+      "task_id": "62383731-b2ce-42b7-82fb-c32bd0439464",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -434,7 +434,7 @@
       ]
     },
     {
-      "task_id": "c9030bc5-6a14-414e-9991-6e87e160107c",
+      "task_id": "51a733ec-a086-4037-8c56-8710e16762a3",
       "task_number": 3,
       "task_type": "Fly On",
       "results": [
@@ -577,6 +577,12 @@
           "raw_points": null
         },
         {
+          "pilot_id": "5214f6ea-172c-4b5c-abe9-f539e53bc1df",
+          "position": null,
+          "no_result": true,
+          "raw_points": 43.0
+        },
+        {
           "pilot_id": "206cfa81-6382-4da4-8518-429f691ad21d",
           "position": null,
           "no_result": true,
@@ -635,17 +641,11 @@
           "position": null,
           "no_result": true,
           "raw_points": 0.0
-        },
-        {
-          "pilot_id": "5214f6ea-172c-4b5c-abe9-f539e53bc1df",
-          "position": null,
-          "no_result": true,
-          "raw_points": 43.0
         }
       ]
     },
     {
-      "task_id": "869cfb77-603e-40a8-846d-ff8770015eb3",
+      "task_id": "aa9f373f-093f-47ad-806e-1faa5b209c22",
       "task_number": 8,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -856,7 +856,7 @@
       ]
     },
     {
-      "task_id": "29fc6111-13cd-41c0-be19-8d92524ecf7a",
+      "task_id": "cb90637e-1d1a-4353-8b6d-a44ea474a5f1",
       "task_number": 9,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1067,7 +1067,7 @@
       ]
     },
     {
-      "task_id": "f66ca787-707b-4e38-925f-e6edfac9ceec",
+      "task_id": "3631e7e8-a6b4-4767-8dc4-057d57ad5223",
       "task_number": 10,
       "task_type": "Maximum Distance",
       "results": [
@@ -1278,7 +1278,7 @@
       ]
     },
     {
-      "task_id": "0c916df5-4c51-46be-b747-a4d19dc5a429",
+      "task_id": "d0ab7e89-3bf8-4e3e-a603-d83da3827370",
       "task_number": 11,
       "task_type": "Gordon Bennett Memorial",
       "results": [
