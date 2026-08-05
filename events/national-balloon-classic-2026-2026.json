@@ -8,11 +8,11 @@
   "location": "Indianola, Iowa, United States",
   "source": "watchmefly",
   "source_event_id": "nbc2026",
-  "sof": 1557.0334190294932,
+  "sof": 1557.0334191797547,
   "included": true,
   "tasks": [
     {
-      "task_id": "407e9250-2ad6-44d3-ba79-3647750c93d1",
+      "task_id": "6039cbe1-e62c-4421-bd82-4f7a57415cbe",
       "task_number": 1,
       "task_type": "Maximum Distance",
       "results": [
@@ -589,7 +589,7 @@
       ]
     },
     {
-      "task_id": "43250a93-d78d-44db-9d4e-d9198ad6bdb5",
+      "task_id": "b4509d2f-6cc9-41c6-9a2d-03e216ab8796",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1166,7 +1166,7 @@
       ]
     },
     {
-      "task_id": "47783193-5aee-4a81-a44d-4719b4f3a3ed",
+      "task_id": "c342edc5-1a53-43f0-93aa-19dc376515e0",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1743,7 +1743,7 @@
       ]
     },
     {
-      "task_id": "1b0fae1b-d905-400f-b258-12b6f8cec970",
+      "task_id": "54c8c867-650a-4a61-bab4-da59b4ee4f93",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -2320,7 +2320,7 @@
       ]
     },
     {
-      "task_id": "402f37eb-fac8-4002-bc65-60181a3ee91f",
+      "task_id": "04cdf483-65c5-4a3b-8706-cd0e213e90a5",
       "task_number": 5,
       "task_type": "Fly In",
       "results": [
