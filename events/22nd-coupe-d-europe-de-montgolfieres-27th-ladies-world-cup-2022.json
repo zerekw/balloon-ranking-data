@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "f7cfa81f-6b2d-423b-8c2d-d24ab8cb6ccf",
+      "task_id": "2ca634b1-785d-44ca-b981-7d328985d331",
       "task_number": 1,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "task_id": "f6515b6e-cf23-4cda-8afe-fc9913943bff",
+      "task_id": "b919e733-ae40-4f6a-b57e-58e2154aef38",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "task_id": "19fc392e-180a-4b36-93a6-dc8a80caff9e",
+      "task_id": "4c131d42-97d5-43ec-93eb-2e2f49b891ac",
       "task_number": 3,
       "task_type": "Elbow",
       "results": [
@@ -517,13 +517,13 @@
           "raw_points": 500.0
         },
         {
-          "pilot_id": "4321476c-ea82-42a4-912a-089637592fbb",
+          "pilot_id": "520a8707-226a-44cd-8d5a-a942a23bd1ce",
           "position": 18,
           "no_result": false,
           "raw_points": 454.0
         },
         {
-          "pilot_id": "520a8707-226a-44cd-8d5a-a942a23bd1ce",
+          "pilot_id": "4321476c-ea82-42a4-912a-089637592fbb",
           "position": 18,
           "no_result": false,
           "raw_points": 454.0
@@ -609,7 +609,7 @@
       ]
     },
     {
-      "task_id": "da9fbc7f-8e70-48be-831d-eedf203dc429",
+      "task_id": "e587f81d-3920-47c6-9729-67dcdf0a9058",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "task_id": "549c35a0-5c8c-45f4-abb3-b14816cf55ce",
+      "task_id": "9356735f-5498-4e48-bbbc-23a515062155",
       "task_number": 5,
       "task_type": "Maximum Distance",
       "results": [
