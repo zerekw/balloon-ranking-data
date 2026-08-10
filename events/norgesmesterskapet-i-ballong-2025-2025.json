@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "4ac1af4c-39fd-4cbb-8b3e-42e7aa6d2fea",
+      "task_id": "43b9b655-91db-4946-a474-9f7374eb8b71",
       "task_number": 1,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -73,7 +73,7 @@
       ]
     },
     {
-      "task_id": "5ce9eaaf-2010-4784-8bae-33dc8a3ca80f",
+      "task_id": "dad3b8a6-1fd1-46e1-8fe3-3dde9f831754",
       "task_number": 2,
       "task_type": "Fly On",
       "results": [
@@ -108,16 +108,10 @@
           "raw_points": 429.0
         },
         {
-          "pilot_id": "425b1dd4-9b96-4677-8c03-bb99cc8cbd4e",
+          "pilot_id": "56317a5e-5d11-4129-82f8-68fcc1297c5c",
           "position": null,
           "no_result": true,
-          "raw_points": 229.0
-        },
-        {
-          "pilot_id": "9e4c13a5-3eb0-4d88-86ff-b5e697581b84",
-          "position": null,
-          "no_result": true,
-          "raw_points": 229.0
+          "raw_points": 0.0
         },
         {
           "pilot_id": "fb6cd091-f163-4cb8-be2a-d01235956fae",
@@ -126,15 +120,21 @@
           "raw_points": 0.0
         },
         {
-          "pilot_id": "56317a5e-5d11-4129-82f8-68fcc1297c5c",
+          "pilot_id": "9e4c13a5-3eb0-4d88-86ff-b5e697581b84",
           "position": null,
           "no_result": true,
-          "raw_points": 0.0
+          "raw_points": 229.0
+        },
+        {
+          "pilot_id": "425b1dd4-9b96-4677-8c03-bb99cc8cbd4e",
+          "position": null,
+          "no_result": true,
+          "raw_points": 229.0
         }
       ]
     },
     {
-      "task_id": "58d12ac1-597c-4459-a470-a8d529822c1b",
+      "task_id": "ef66d088-aa7e-4628-8bd2-8aba244d1038",
       "task_number": 3,
       "task_type": "Elbow",
       "results": [
@@ -195,7 +195,7 @@
       ]
     },
     {
-      "task_id": "2a1f22dc-273d-4a0f-9936-1b3354216b77",
+      "task_id": "d1b4184d-14d8-4ee8-82cc-3fe7cb3bd62e",
       "task_number": 4,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -256,7 +256,7 @@
       ]
     },
     {
-      "task_id": "e6a7b44f-9e1c-4de7-b54c-c83a4ede5546",
+      "task_id": "171b7717-2fb5-46c4-a4fb-bdd0db3b89d2",
       "task_number": 5,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -317,7 +317,7 @@
       ]
     },
     {
-      "task_id": "63b8478e-9ece-496f-9d64-c55ecfdca178",
+      "task_id": "0a73b9c2-1ff5-4f68-893d-635d4d29511f",
       "task_number": 6,
       "task_type": "Fly On",
       "results": [
@@ -378,7 +378,7 @@
       ]
     },
     {
-      "task_id": "63a043a4-8269-4bd9-a4b6-9883d5fa55a8",
+      "task_id": "46225df2-f429-4300-a614-436a1a2d9ddf",
       "task_number": 7,
       "task_type": "Minimum Distance Double Drop",
       "results": [

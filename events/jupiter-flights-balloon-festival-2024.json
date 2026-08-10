@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "6328a7f3-a0a5-4378-aca7-0515b80104ec",
+      "task_id": "4e5088d1-411e-40d1-8a65-57e49c0a6902",
       "task_number": 1,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -253,7 +253,7 @@
       ]
     },
     {
-      "task_id": "9ba67733-b8df-4668-b2b0-1d84aa37d798",
+      "task_id": "399bff11-efbc-4048-83a1-225c0edd143f",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -342,30 +342,6 @@
           "raw_points": 500.0
         },
         {
-          "pilot_id": "3d41518f-60c6-4ee2-a816-4717d53d380d",
-          "position": 39,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "5240f87e-ae9a-41df-adf6-bc757e43dfe5",
-          "position": 39,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "daedb73a-3457-4b49-93e7-9ee713bb4229",
-          "position": 39,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "729b67da-d9b4-41ec-905b-4a9e94f43a11",
-          "position": 39,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
           "pilot_id": "312e7577-235c-4969-8c77-e6858928a7a6",
           "position": 39,
           "no_result": false,
@@ -396,34 +372,28 @@
           "raw_points": null
         },
         {
-          "pilot_id": "a7ad5d29-ad57-49d0-97c8-7cfc2f32763b",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
+          "pilot_id": "3d41518f-60c6-4ee2-a816-4717d53d380d",
+          "position": 39,
+          "no_result": false,
+          "raw_points": null
         },
         {
-          "pilot_id": "f6391e8f-6b2b-42de-b3f9-e16b7d777f49",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
+          "pilot_id": "5240f87e-ae9a-41df-adf6-bc757e43dfe5",
+          "position": 39,
+          "no_result": false,
+          "raw_points": null
         },
         {
-          "pilot_id": "66278d66-cfe4-4367-a2fb-0fe382162bd7",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
+          "pilot_id": "daedb73a-3457-4b49-93e7-9ee713bb4229",
+          "position": 39,
+          "no_result": false,
+          "raw_points": null
         },
         {
-          "pilot_id": "cad3251b-115c-4531-9bf7-3f03966069e2",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
-        },
-        {
-          "pilot_id": "a457ea08-b7d2-4993-be89-5ec1af99bcce",
-          "position": null,
-          "no_result": true,
-          "raw_points": 300.0
+          "pilot_id": "729b67da-d9b4-41ec-905b-4a9e94f43a11",
+          "position": 39,
+          "no_result": false,
+          "raw_points": null
         },
         {
           "pilot_id": "92d5768d-7904-4485-9d13-d7d5539c4809",
@@ -490,11 +460,41 @@
           "position": null,
           "no_result": true,
           "raw_points": 300.0
+        },
+        {
+          "pilot_id": "a7ad5d29-ad57-49d0-97c8-7cfc2f32763b",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
+        },
+        {
+          "pilot_id": "f6391e8f-6b2b-42de-b3f9-e16b7d777f49",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
+        },
+        {
+          "pilot_id": "66278d66-cfe4-4367-a2fb-0fe382162bd7",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
+        },
+        {
+          "pilot_id": "cad3251b-115c-4531-9bf7-3f03966069e2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
+        },
+        {
+          "pilot_id": "a457ea08-b7d2-4993-be89-5ec1af99bcce",
+          "position": null,
+          "no_result": true,
+          "raw_points": 300.0
         }
       ]
     },
     {
-      "task_id": "78943b83-5ebc-4ec2-9abf-b8965e3e6735",
+      "task_id": "cc331055-c99e-4937-8632-86ec2329fc43",
       "task_number": 3,
       "task_type": "Maximum Distance Double Drop",
       "results": [
