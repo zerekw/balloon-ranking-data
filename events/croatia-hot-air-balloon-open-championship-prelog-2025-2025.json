@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "1501e851-cd01-48d2-82e7-9b79386944ad",
+      "task_id": "6ba2f5db-4673-464f-8c59-0518fd82e2d9",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "task_id": "5575544b-5ac7-4127-86f6-dc2471f6b04d",
+      "task_id": "99c3be1e-7b8c-4373-bf18-2fcde9911088",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -180,13 +180,7 @@
           "raw_points": 91.0
         },
         {
-          "pilot_id": "3d196b1c-66b3-4579-8e3a-40c1cf6d1cfa",
-          "position": null,
-          "no_result": true,
-          "raw_points": 0.0
-        },
-        {
-          "pilot_id": "150c7570-bc3d-4837-8d2a-d6d681d3da6f",
+          "pilot_id": "ff6a001b-c667-48cf-9ace-36a483e38eab",
           "position": null,
           "no_result": true,
           "raw_points": 0.0
@@ -198,7 +192,13 @@
           "raw_points": 0.0
         },
         {
-          "pilot_id": "ff6a001b-c667-48cf-9ace-36a483e38eab",
+          "pilot_id": "150c7570-bc3d-4837-8d2a-d6d681d3da6f",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
+          "pilot_id": "3d196b1c-66b3-4579-8e3a-40c1cf6d1cfa",
           "position": null,
           "no_result": true,
           "raw_points": 0.0
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "task_id": "12ca0f12-7661-4436-925f-27a5f28d20c7",
+      "task_id": "2d7c271f-8641-4867-a98c-25234c0a0aee",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "task_id": "604ade81-ddad-4abf-bf8f-e48962f11781",
+      "task_id": "5dd2e473-34f6-4fd3-8f92-d7892be1a240",
       "task_number": 4,
       "task_type": "Fly In",
       "results": [
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "task_id": "d0c38a96-4518-4e44-bee3-6373d7dff9ab",
+      "task_id": "e181af62-394e-43df-967a-5b07c58decdc",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "task_id": "bf748c7b-0427-4775-a1d5-3ae24cd1d901",
+      "task_id": "1d6fb85d-5cfb-4938-b7ef-2ab50be22195",
       "task_number": 6,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -594,7 +594,7 @@
       ]
     },
     {
-      "task_id": "3e3d34db-dca9-4582-a183-9bbca5d84167",
+      "task_id": "458c9b3b-d694-4ebb-bbf4-a567522de836",
       "task_number": 7,
       "task_type": "Angle",
       "results": [
