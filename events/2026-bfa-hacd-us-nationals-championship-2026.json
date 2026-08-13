@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "988b8554-4e19-4624-9702-5f1cd7c788cb",
+      "task_id": "80b8d455-71ae-4574-a7ae-e3541690da62",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "task_id": "2ad4e757-6077-460d-bdca-8de4dea673f2",
+      "task_id": "b2592222-655a-45ed-b556-603a09d5e6b7",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "task_id": "3a71bad0-9cc5-4943-80cd-e1ca3a77a79d",
+      "task_id": "a092bac7-00b4-4ee5-b675-2800a2c07be4",
       "task_number": 3,
       "task_type": "Fly On",
       "results": [
@@ -609,7 +609,7 @@
       ]
     },
     {
-      "task_id": "e03cf9ea-9d8e-43b4-8bb5-3b5c7a372b5e",
+      "task_id": "115a67e9-17d1-4e1a-84fc-1a8133c4ebc2",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "task_id": "647a8182-62cf-44ba-aa9b-2fcec8e19057",
+      "task_id": "020c1d8c-7cb5-4b3a-8721-ecf46155b62d",
       "task_number": 5,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1007,7 +1007,7 @@
       ]
     },
     {
-      "task_id": "2dcaed19-ad03-4736-bfc5-f403cee931cb",
+      "task_id": "9dff7341-5849-4291-bfd9-5b4e37be822c",
       "task_number": 6,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -1206,7 +1206,7 @@
       ]
     },
     {
-      "task_id": "c6182039-a99e-4d15-bedf-e7abac0a4928",
+      "task_id": "fcf6c182-e4c1-4f02-8296-e9a2d6df5606",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1405,7 +1405,7 @@
       ]
     },
     {
-      "task_id": "e9e5969b-5e1f-4780-841b-528587be1427",
+      "task_id": "4d97f6b3-0811-4998-9966-e2cd147ff1c8",
       "task_number": 8,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1604,7 +1604,7 @@
       ]
     },
     {
-      "task_id": "58db99ab-7794-4b95-aaa2-3ba0d1a37e81",
+      "task_id": "858b8e51-f960-4f57-9d9a-28c371c37c17",
       "task_number": 9,
       "task_type": "Fly On",
       "results": [
@@ -1741,22 +1741,22 @@
           "raw_points": 344.0
         },
         {
-          "pilot_id": "e03b6d0d-5c7b-4a60-8c13-74a11f783d89",
+          "pilot_id": "e5f915af-e78d-4685-b926-a166aa1692e3",
           "position": 23,
+          "no_result": false,
+          "raw_points": 313.0
+        },
+        {
+          "pilot_id": "e03b6d0d-5c7b-4a60-8c13-74a11f783d89",
+          "position": 24,
           "no_result": false,
           "raw_points": 281.0
         },
         {
           "pilot_id": "fe6ebca6-6aa0-49fa-a716-19cf85efca96",
-          "position": 24,
-          "no_result": false,
-          "raw_points": 250.0
-        },
-        {
-          "pilot_id": "e5f915af-e78d-4685-b926-a166aa1692e3",
           "position": 25,
           "no_result": false,
-          "raw_points": 313.0
+          "raw_points": 250.0
         },
         {
           "pilot_id": "2ba59ecb-7f7d-40df-a8a0-45f342a03066",
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "task_id": "1546d04a-e567-40ab-b9ad-9b0167e0e317",
+      "task_id": "41b0186a-b0e9-4208-98a4-16ce89007598",
       "task_number": 10,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2002,7 +2002,7 @@
       ]
     },
     {
-      "task_id": "49d8ed4c-0603-400b-ad86-255524d9e366",
+      "task_id": "92a79104-3bd6-439e-bd06-a0582d97a37d",
       "task_number": 11,
       "task_type": "Land Run",
       "results": [
