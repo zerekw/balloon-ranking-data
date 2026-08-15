@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "129a8312-250e-4690-8b15-2e0344b6f64f",
+      "task_id": "2561d271-d7d5-46ab-a607-c233734a9eb1",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "task_id": "d53b61d2-e2ff-4dfa-8baf-719115b112b1",
+      "task_id": "ef91c257-a217-44eb-a67c-806fa7467f09",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "task_id": "ff671ea7-ceaf-47f6-9cb5-a31b064853b1",
+      "task_id": "ac6ab7fa-10bf-4be3-bfcc-de57d5b43563",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "task_id": "f1308e54-abff-4615-a0c0-6fa3ac5e4c0c",
+      "task_id": "214ce90d-e93b-4e40-813b-e8cc1cb9fa43",
       "task_number": 4,
       "task_type": "Fly In",
       "results": [
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "task_id": "cd382a21-eda4-4678-a748-b2e024eff9de",
+      "task_id": "68122b3a-a2c2-49fe-a2ce-9c8363e53ee3",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "task_id": "89301a93-bd4a-4c53-ab3e-9882a30b2528",
+      "task_id": "f7b7d267-7f83-4479-bd67-e8c63cb57866",
       "task_number": 6,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -594,7 +594,7 @@
       ]
     },
     {
-      "task_id": "889c035f-a379-4428-90f0-dcd463565f99",
+      "task_id": "d58342e5-e303-4c0e-beb9-32a935ad4a4c",
       "task_number": 7,
       "task_type": "Angle",
       "results": [
@@ -665,7 +665,13 @@
           "raw_points": 167.0
         },
         {
-          "pilot_id": "ff6a001b-c667-48cf-9ace-36a483e38eab",
+          "pilot_id": "3d196b1c-66b3-4579-8e3a-40c1cf6d1cfa",
+          "position": null,
+          "no_result": true,
+          "raw_points": 83.0
+        },
+        {
+          "pilot_id": "150c7570-bc3d-4837-8d2a-d6d681d3da6f",
           "position": null,
           "no_result": true,
           "raw_points": 0.0
@@ -677,16 +683,10 @@
           "raw_points": 0.0
         },
         {
-          "pilot_id": "150c7570-bc3d-4837-8d2a-d6d681d3da6f",
+          "pilot_id": "ff6a001b-c667-48cf-9ace-36a483e38eab",
           "position": null,
           "no_result": true,
           "raw_points": 0.0
-        },
-        {
-          "pilot_id": "3d196b1c-66b3-4579-8e3a-40c1cf6d1cfa",
-          "position": null,
-          "no_result": true,
-          "raw_points": 83.0
         }
       ]
     }
