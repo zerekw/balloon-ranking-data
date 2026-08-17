@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "87d55720-6ca5-461f-80d4-0b1688d4d656",
+      "task_id": "70a20c0a-75d4-441f-a0dd-2104077b2a5e",
       "task_number": 1,
       "task_type": "Maximum Distance",
       "results": [
@@ -145,7 +145,7 @@
       ]
     },
     {
-      "task_id": "bfe03104-f514-4eb0-8e5b-a8f568720f99",
+      "task_id": "2c325e16-2144-471e-9a14-bfeebaf2831e",
       "task_number": 2,
       "task_type": "Fly In",
       "results": [
@@ -278,7 +278,7 @@
       ]
     },
     {
-      "task_id": "c4d7f499-bc06-405b-977f-00e7614f0290",
+      "task_id": "44bda907-04e1-4d50-8c1c-7433b7b60379",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -411,7 +411,7 @@
       ]
     },
     {
-      "task_id": "21c76839-e288-4632-9d46-e3630a3d5c4e",
+      "task_id": "108684e7-0114-4aa0-ae22-0a36da6e0f17",
       "task_number": 4,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -544,7 +544,7 @@
       ]
     },
     {
-      "task_id": "23e69b27-bdbf-4ba6-927b-4e15f90494f8",
+      "task_id": "9d938240-9b04-4128-9608-11e627be29fb",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -677,7 +677,7 @@
       ]
     },
     {
-      "task_id": "5f933720-5a64-420a-ae4c-4cf620c61635",
+      "task_id": "1542151f-1b53-4122-a2b3-9b14c0b2f772",
       "task_number": 6,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -698,6 +698,12 @@
           "position": 21,
           "no_result": false,
           "raw_points": null
+        },
+        {
+          "pilot_id": "5a696ad0-d392-49e0-89ef-2e7d9c122d27",
+          "position": null,
+          "no_result": true,
+          "raw_points": 744.0
         },
         {
           "pilot_id": "a09567ad-1c5d-4987-9484-edd7c372b72c",
@@ -778,13 +784,13 @@
           "raw_points": 744.0
         },
         {
-          "pilot_id": "5a4bffd1-dbda-4005-9874-449e10413728",
+          "pilot_id": "a349fdca-9c3b-4e3c-9b74-36c736d4bcff",
           "position": null,
           "no_result": true,
           "raw_points": 744.0
         },
         {
-          "pilot_id": "a349fdca-9c3b-4e3c-9b74-36c736d4bcff",
+          "pilot_id": "5a4bffd1-dbda-4005-9874-449e10413728",
           "position": null,
           "no_result": true,
           "raw_points": 744.0
@@ -800,12 +806,6 @@
           "position": null,
           "no_result": true,
           "raw_points": 0.0
-        },
-        {
-          "pilot_id": "5a696ad0-d392-49e0-89ef-2e7d9c122d27",
-          "position": null,
-          "no_result": true,
-          "raw_points": 744.0
         }
       ]
     }
