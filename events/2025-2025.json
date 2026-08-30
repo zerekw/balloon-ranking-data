@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "5a1fa862-6776-4b2e-8053-7b1622739b2b",
+      "task_id": "761ca82a-dbcc-4784-81e4-deb1084aa670",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "task_id": "26815916-37b2-4c3c-8b6d-746e0c41a8e4",
+      "task_id": "aa8defbe-57e3-463b-b572-eb4c16db90d2",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -626,7 +626,7 @@
       ]
     },
     {
-      "task_id": "ff0d0893-67f3-4901-ac8d-8e54e7cee09c",
+      "task_id": "0050ae31-69e9-4539-a84d-4b587e766444",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "task_id": "e1c3b569-4dfa-49e8-aa01-524a391e5e00",
+      "task_id": "c82b2081-bed9-4c67-9428-c7f5e01309e3",
       "task_number": 4,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "task_id": "544aeaf1-4364-4f2a-a39b-2ab527e21fee",
+      "task_id": "71dc7323-a5ae-4920-91d2-72d9f6eabe3b",
       "task_number": 6,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1547,7 +1547,7 @@
       ]
     },
     {
-      "task_id": "322c67f9-2b75-4613-98a9-e8ea148d66b6",
+      "task_id": "b6507ee6-6cae-4749-8bc6-252678e4b404",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1854,7 +1854,7 @@
       ]
     },
     {
-      "task_id": "5d8f00a2-5b85-4d73-9b53-8383f806c67f",
+      "task_id": "0c8459a8-1918-4a54-b03b-0dce272d6b8c",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -1991,13 +1991,13 @@
           "raw_points": 582.0
         },
         {
-          "pilot_id": "7f4bfcf5-9be4-4e5f-8c7d-6ed8732f5a9f",
+          "pilot_id": "fb52e0aa-133e-4f10-9464-99d96ea8b50d",
           "position": 23,
           "no_result": false,
           "raw_points": 510.0
         },
         {
-          "pilot_id": "fb52e0aa-133e-4f10-9464-99d96ea8b50d",
+          "pilot_id": "7f4bfcf5-9be4-4e5f-8c7d-6ed8732f5a9f",
           "position": 23,
           "no_result": false,
           "raw_points": 510.0
@@ -2081,30 +2081,6 @@
           "raw_points": 306.0
         },
         {
-          "pilot_id": "9069ccf0-d242-4a45-b97a-6767c7f8a7c3",
-          "position": null,
-          "no_result": true,
-          "raw_points": 133.0
-        },
-        {
-          "pilot_id": "fb49c164-f3ed-4cc0-abd0-58ed9321fbfe",
-          "position": null,
-          "no_result": true,
-          "raw_points": 133.0
-        },
-        {
-          "pilot_id": "4feecaab-efc5-422f-ba9a-abbfa49eaebf",
-          "position": null,
-          "no_result": true,
-          "raw_points": 133.0
-        },
-        {
-          "pilot_id": "f3a21ceb-258d-4dc7-90ee-dd036133ff7d",
-          "position": null,
-          "no_result": true,
-          "raw_points": 133.0
-        },
-        {
           "pilot_id": "0326c18a-60c9-4324-a807-2fe74220c99d",
           "position": null,
           "no_result": true,
@@ -2153,10 +2129,34 @@
           "raw_points": 133.0
         },
         {
+          "pilot_id": "f3a21ceb-258d-4dc7-90ee-dd036133ff7d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 133.0
+        },
+        {
           "pilot_id": "bf003381-6fee-4d2c-a104-e355280b9025",
           "position": null,
           "no_result": true,
           "raw_points": 0.0
+        },
+        {
+          "pilot_id": "4feecaab-efc5-422f-ba9a-abbfa49eaebf",
+          "position": null,
+          "no_result": true,
+          "raw_points": 133.0
+        },
+        {
+          "pilot_id": "fb49c164-f3ed-4cc0-abd0-58ed9321fbfe",
+          "position": null,
+          "no_result": true,
+          "raw_points": 133.0
+        },
+        {
+          "pilot_id": "9069ccf0-d242-4a45-b97a-6767c7f8a7c3",
+          "position": null,
+          "no_result": true,
+          "raw_points": 133.0
         }
       ]
     }
