@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "c6bec3a6-815e-4aea-b942-fdd2f219084b",
+      "task_id": "14fff994-80db-4152-8d73-fcf031037967",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "task_id": "0dda6d66-e00d-438e-bd85-204e72406c44",
+      "task_id": "841bc9b9-7062-4609-b8f8-2619fe33773e",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -566,7 +566,7 @@
       ]
     },
     {
-      "task_id": "b4152b65-6a04-4ed2-9941-58e04f644c3c",
+      "task_id": "6d02ed70-6172-4a64-ae58-41c7ca38db94",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -799,12 +799,6 @@
           "raw_points": 98.0
         },
         {
-          "pilot_id": "3889aaec-331f-4436-a3d9-4bf3b27bcd95",
-          "position": null,
-          "no_result": true,
-          "raw_points": 49.0
-        },
-        {
           "pilot_id": "00da3fd7-262b-48b5-b99e-0ea6ac078488",
           "position": null,
           "no_result": true,
@@ -829,21 +823,27 @@
           "raw_points": 0.0
         },
         {
+          "pilot_id": "fea6458d-9098-4a4b-8467-fd7967d4c44c",
+          "position": null,
+          "no_result": true,
+          "raw_points": 0.0
+        },
+        {
           "pilot_id": "15dc8972-80d5-434b-8170-b0e7b1aac644",
           "position": null,
           "no_result": true,
           "raw_points": 0.0
         },
         {
-          "pilot_id": "fea6458d-9098-4a4b-8467-fd7967d4c44c",
+          "pilot_id": "3889aaec-331f-4436-a3d9-4bf3b27bcd95",
           "position": null,
           "no_result": true,
-          "raw_points": 0.0
+          "raw_points": 49.0
         }
       ]
     },
     {
-      "task_id": "1c522ac9-e66c-4fa7-bbcf-11bcc6fe9cb4",
+      "task_id": "6db16a78-f741-473c-b7a3-7c60a0b5f55c",
       "task_number": 4,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1120,7 +1120,7 @@
       ]
     },
     {
-      "task_id": "ef704564-9065-4d47-8cc1-3b0905cba91a",
+      "task_id": "3d3a46eb-2232-44a0-ab52-28f7d0061954",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1397,7 +1397,7 @@
       ]
     },
     {
-      "task_id": "85163d72-3113-4a44-8302-560a82e5d84e",
+      "task_id": "1597e2ad-c146-40b8-8246-e15ef0e15da2",
       "task_number": 6,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1674,7 +1674,7 @@
       ]
     },
     {
-      "task_id": "ad65d542-2b4b-40e9-800b-34858d993c6e",
+      "task_id": "60725e22-9c72-405d-acc3-0e59c9e40a68",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
