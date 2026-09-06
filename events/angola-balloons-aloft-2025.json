@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "c9d1d27c-efd2-46ab-890f-0c331682a96c",
+      "task_id": "c29a2149-f149-45f4-8aea-c32a0845f8b9",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -155,16 +155,10 @@
           "raw_points": 120.0
         },
         {
-          "pilot_id": "b5cc343c-41e3-459f-abc5-3d65e2977ff6",
+          "pilot_id": "9f6bf5ea-f610-4ac1-8410-ab201933e49d",
           "position": null,
           "no_result": true,
-          "raw_points": 60.0
-        },
-        {
-          "pilot_id": "ae4b9d56-974f-476e-8370-480f9e272d28",
-          "position": null,
-          "no_result": true,
-          "raw_points": 60.0
+          "raw_points": 0.0
         },
         {
           "pilot_id": "cf370946-24f7-4278-8839-a083d17f0681",
@@ -173,15 +167,21 @@
           "raw_points": 0.0
         },
         {
-          "pilot_id": "9f6bf5ea-f610-4ac1-8410-ab201933e49d",
+          "pilot_id": "ae4b9d56-974f-476e-8370-480f9e272d28",
           "position": null,
           "no_result": true,
-          "raw_points": 0.0
+          "raw_points": 60.0
+        },
+        {
+          "pilot_id": "b5cc343c-41e3-459f-abc5-3d65e2977ff6",
+          "position": null,
+          "no_result": true,
+          "raw_points": 60.0
         }
       ]
     },
     {
-      "task_id": "de9f8445-dcf0-435c-ab3b-a55eb3e55862",
+      "task_id": "519cc126-0cab-4cc0-8d77-c968d8c2fb63",
       "task_number": 2,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -350,7 +350,7 @@
       ]
     },
     {
-      "task_id": "3a9e4e81-387c-4dab-91aa-be1374d408ec",
+      "task_id": "ff499953-7d53-4381-9294-bb850c13d37a",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
