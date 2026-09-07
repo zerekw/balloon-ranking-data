@@ -8,11 +8,11 @@
   "location": "Scottsbluff County, Nebraska, United States",
   "source": "watchmefly",
   "source_event_id": "usnationals2026",
-  "sof": 1647.1093982950108,
+  "sof": 1647.1093983838434,
   "included": true,
   "tasks": [
     {
-      "task_id": "df0b9e31-49a3-4016-a038-78ee416427a5",
+      "task_id": "23ca90cf-ea37-420e-b07b-d72435e49a08",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -211,7 +211,7 @@
       ]
     },
     {
-      "task_id": "05eaf958-afa8-469a-9b42-0ddc6f17bed8",
+      "task_id": "4d3245ae-42a8-4aa1-89dd-60238c4391e1",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -410,7 +410,7 @@
       ]
     },
     {
-      "task_id": "de1b714c-04c6-4821-8389-6c31dc2c090c",
+      "task_id": "176bf17f-9013-44f5-998d-a8fc13c558f1",
       "task_number": 3,
       "task_type": "Fly On",
       "results": [
@@ -609,7 +609,7 @@
       ]
     },
     {
-      "task_id": "ed816fa1-9933-42aa-a920-7af86a2582ab",
+      "task_id": "e7264246-e7d9-423f-a7d4-3ab578d41611",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -808,7 +808,7 @@
       ]
     },
     {
-      "task_id": "eefd7caa-9791-4e06-8fc2-4b3f1adc2e05",
+      "task_id": "794a830b-e536-45af-b3e8-493ccc41df52",
       "task_number": 5,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1007,7 +1007,7 @@
       ]
     },
     {
-      "task_id": "bde77c44-92c6-4f4a-adcb-a59bd7305d8a",
+      "task_id": "06f2d6b8-fb97-4ea1-abc1-a4d537c28306",
       "task_number": 6,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -1206,7 +1206,7 @@
       ]
     },
     {
-      "task_id": "b39d4d03-ad52-461f-9faa-4da816e72ae5",
+      "task_id": "f916d552-56b3-4cd9-85f5-7db0869ba86a",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1405,7 +1405,7 @@
       ]
     },
     {
-      "task_id": "db6ec451-1269-403a-8b99-1e2995139b24",
+      "task_id": "0061ed06-c840-41b9-b4b0-fdb7cfbaa92d",
       "task_number": 8,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1604,7 +1604,7 @@
       ]
     },
     {
-      "task_id": "e9da14f9-0d29-4218-8d89-a83825e44e00",
+      "task_id": "725e4da1-4b17-4252-a21d-3f8904cf0113",
       "task_number": 9,
       "task_type": "Fly On",
       "results": [
@@ -1803,7 +1803,7 @@
       ]
     },
     {
-      "task_id": "b7fb27c5-b057-4047-bcec-552ae618bbe6",
+      "task_id": "d94c8f46-5d38-4a34-8bc5-77e603956f9d",
       "task_number": 10,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2002,7 +2002,7 @@
       ]
     },
     {
-      "task_id": "722e5a5b-b651-4e4b-81af-1029b9286877",
+      "task_id": "8a48f3eb-452c-409a-8ab0-d090f74183d5",
       "task_number": 11,
       "task_type": "Land Run",
       "results": [
@@ -2201,7 +2201,7 @@
       ]
     },
     {
-      "task_id": "fe83c94e-58dd-469c-8534-d16978ee34c8",
+      "task_id": "0bec3abf-2a18-4d72-9988-6140ddab07a2",
       "task_number": 12,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -2400,7 +2400,7 @@
       ]
     },
     {
-      "task_id": "3f460cef-534d-47b9-906b-61d9725b9da5",
+      "task_id": "29357dd9-c7b2-4f56-bf0e-a3437f461453",
       "task_number": 13,
       "task_type": "Fly On",
       "results": [
@@ -2599,7 +2599,7 @@
       ]
     },
     {
-      "task_id": "e48a8974-1881-450d-bb1a-bd557bfeeee5",
+      "task_id": "7f4edc72-6020-4680-a32f-e96442714929",
       "task_number": 14,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2798,7 +2798,7 @@
       ]
     },
     {
-      "task_id": "4ffcf2e0-1d9e-4a73-996d-7bc451bd0057",
+      "task_id": "ee9cae4b-1610-43d2-8685-73d165656507",
       "task_number": 15,
       "task_type": "Fly On",
       "results": [
@@ -2997,7 +2997,7 @@
       ]
     },
     {
-      "task_id": "6425c9f3-d929-428e-81ae-f70867608cf8",
+      "task_id": "65e75a70-2cb2-4a9e-a534-b7a61336741d",
       "task_number": 16,
       "task_type": "Elbow",
       "results": [
