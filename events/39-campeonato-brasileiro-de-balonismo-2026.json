@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "3366b1fa-5671-492e-b240-c9e806de5351",
+      "task_id": "073e29ff-60e2-48d1-8ff7-3fa83a9e5521",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "task_id": "9cfdb42c-ee96-42e3-8aa0-e2f46f100ab4",
+      "task_id": "a861b2bd-505f-4f07-9fa8-49624447f19d",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "task_id": "e7f882e1-c532-4aef-a251-2087f64a6a70",
+      "task_id": "d60e9f6b-14ea-431f-9934-babb897ddc00",
       "task_number": 3,
       "task_type": "Fly On",
       "results": [
@@ -475,13 +475,13 @@
           "raw_points": 946.0
         },
         {
-          "pilot_id": "716fca9b-eda0-463a-a1d8-8be78446c619",
+          "pilot_id": "a520bda6-11cf-441e-88d8-93bf383f9e06",
           "position": 5,
           "no_result": false,
           "raw_points": 935.0
         },
         {
-          "pilot_id": "a520bda6-11cf-441e-88d8-93bf383f9e06",
+          "pilot_id": "716fca9b-eda0-463a-a1d8-8be78446c619",
           "position": 5,
           "no_result": false,
           "raw_points": 935.0
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "task_id": "5860c6e4-9093-497b-98fb-70525fb1fe36",
+      "task_id": "679e40d8-9562-4ec7-8ecf-5b3b83dc969d",
       "task_number": 4,
       "task_type": "Land Run",
       "results": [
@@ -880,7 +880,7 @@
       ]
     },
     {
-      "task_id": "58a5d258-9dc7-48e6-819e-a40ec9bad42d",
+      "task_id": "09ab718f-598f-48c4-8018-619a2d416730",
       "task_number": 5,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -897,13 +897,13 @@
           "raw_points": 989.0
         },
         {
-          "pilot_id": "b854b4c5-60f7-44aa-88f8-e3d2ccff263f",
+          "pilot_id": "549324ba-82e7-4bcc-acf8-1e64d4b2d2f9",
           "position": 3,
           "no_result": false,
           "raw_points": 954.0
         },
         {
-          "pilot_id": "549324ba-82e7-4bcc-acf8-1e64d4b2d2f9",
+          "pilot_id": "b854b4c5-60f7-44aa-88f8-e3d2ccff263f",
           "position": 3,
           "no_result": false,
           "raw_points": 954.0
@@ -1017,7 +1017,25 @@
           "raw_points": 400.0
         },
         {
+          "pilot_id": "b26b9f78-c2c6-41da-aa9d-4b06dbf3831d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        },
+        {
           "pilot_id": "c3b1b5e7-7833-4043-ad78-2e377a6aac91",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "56ecf39f-301c-45e6-b9f1-a33592f29d72",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "655a3f7d-f052-44b5-a2f1-b5074fe50fd4",
           "position": null,
           "no_result": true,
           "raw_points": 200.0
@@ -1075,29 +1093,11 @@
           "position": null,
           "no_result": true,
           "raw_points": 200.0
-        },
-        {
-          "pilot_id": "655a3f7d-f052-44b5-a2f1-b5074fe50fd4",
-          "position": null,
-          "no_result": true,
-          "raw_points": 200.0
-        },
-        {
-          "pilot_id": "56ecf39f-301c-45e6-b9f1-a33592f29d72",
-          "position": null,
-          "no_result": true,
-          "raw_points": 200.0
-        },
-        {
-          "pilot_id": "b26b9f78-c2c6-41da-aa9d-4b06dbf3831d",
-          "position": null,
-          "no_result": true,
-          "raw_points": 200.0
         }
       ]
     },
     {
-      "task_id": "89f359dc-3039-4b37-be95-ec234deb0b4e",
+      "task_id": "b1134a0d-bbd3-4d94-a1a6-c2ae89d702c0",
       "task_number": 6,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -1314,7 +1314,7 @@
       ]
     },
     {
-      "task_id": "88ce5849-0098-4066-913e-e26b85320608",
+      "task_id": "938b70f5-039d-46d2-b55f-2bc9787f7f1c",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1531,7 +1531,7 @@
       ]
     },
     {
-      "task_id": "5cc87628-6a32-4240-a497-0af37a7b9df1",
+      "task_id": "bac1787c-4500-44c6-bf03-01366f55b204",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -1748,7 +1748,7 @@
       ]
     },
     {
-      "task_id": "80ca1a4c-a477-440e-88b1-4002ab31bc07",
+      "task_id": "91fa9c71-8bbe-4d89-9d90-24d38e0e5efb",
       "task_number": 9,
       "task_type": "3D Shape Task",
       "results": [
@@ -1965,7 +1965,7 @@
       ]
     },
     {
-      "task_id": "258f6b82-e566-42c6-9e11-d3b2708a0515",
+      "task_id": "8f448349-bca1-4aaa-85a8-4d686e9d64b6",
       "task_number": 10,
       "task_type": "Fly In",
       "results": [
@@ -2182,7 +2182,7 @@
       ]
     },
     {
-      "task_id": "2d5a01d1-b3a7-4096-b024-08eeb24fbcdc",
+      "task_id": "8cf5dbf3-9afa-45c7-b1d4-226d4f893355",
       "task_number": 11,
       "task_type": "Fly On",
       "results": [
@@ -2399,7 +2399,7 @@
       ]
     },
     {
-      "task_id": "534e81a6-45f7-43f4-a06a-c801763c811c",
+      "task_id": "659eea20-8b69-4d4f-bc8d-e020206b316e",
       "task_number": 12,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2616,7 +2616,7 @@
       ]
     },
     {
-      "task_id": "2176d85e-8aa5-49bb-b6fd-0d01b2fabde7",
+      "task_id": "79d5be8e-efc1-4e18-a44d-2da410a7d1d9",
       "task_number": 13,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2833,7 +2833,7 @@
       ]
     },
     {
-      "task_id": "14d7073c-9a31-4e78-b5ff-dc5561a91847",
+      "task_id": "42c834f0-883e-45f3-bd65-49ee2b513d9d",
       "task_number": 14,
       "task_type": "Fly On",
       "results": [
