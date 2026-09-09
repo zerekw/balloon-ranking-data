@@ -8,11 +8,11 @@
   "location": "Boituva, SP, Brazil",
   "source": "watchmefly",
   "source_event_id": "brazil2026",
-  "sof": 1671.9664655843624,
+  "sof": 1671.9664655857114,
   "included": true,
   "tasks": [
     {
-      "task_id": "073e29ff-60e2-48d1-8ff7-3fa83a9e5521",
+      "task_id": "cce07b41-2280-44b5-ae4a-38909dffdd23",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -229,7 +229,7 @@
       ]
     },
     {
-      "task_id": "a861b2bd-505f-4f07-9fa8-49624447f19d",
+      "task_id": "29751512-c970-48d3-a49d-0b9735c290c6",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -446,7 +446,7 @@
       ]
     },
     {
-      "task_id": "d60e9f6b-14ea-431f-9934-babb897ddc00",
+      "task_id": "8516aa38-8b63-4145-93c4-41bed8a4ef72",
       "task_number": 3,
       "task_type": "Fly On",
       "results": [
@@ -663,7 +663,7 @@
       ]
     },
     {
-      "task_id": "679e40d8-9562-4ec7-8ecf-5b3b83dc969d",
+      "task_id": "a2c45d88-8d09-4ed8-b72b-fb27a6ec4a77",
       "task_number": 4,
       "task_type": "Land Run",
       "results": [
@@ -880,7 +880,7 @@
       ]
     },
     {
-      "task_id": "09ab718f-598f-48c4-8018-619a2d416730",
+      "task_id": "d895a37e-f774-4bf3-9a20-903bcda3c114",
       "task_number": 5,
       "task_type": "Minimum Distance Double Drop",
       "results": [
@@ -1017,13 +1017,7 @@
           "raw_points": 400.0
         },
         {
-          "pilot_id": "b26b9f78-c2c6-41da-aa9d-4b06dbf3831d",
-          "position": null,
-          "no_result": true,
-          "raw_points": 200.0
-        },
-        {
-          "pilot_id": "c3b1b5e7-7833-4043-ad78-2e377a6aac91",
+          "pilot_id": "655a3f7d-f052-44b5-a2f1-b5074fe50fd4",
           "position": null,
           "no_result": true,
           "raw_points": 200.0
@@ -1035,7 +1029,13 @@
           "raw_points": 200.0
         },
         {
-          "pilot_id": "655a3f7d-f052-44b5-a2f1-b5074fe50fd4",
+          "pilot_id": "c3b1b5e7-7833-4043-ad78-2e377a6aac91",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        },
+        {
+          "pilot_id": "b26b9f78-c2c6-41da-aa9d-4b06dbf3831d",
           "position": null,
           "no_result": true,
           "raw_points": 200.0
@@ -1097,7 +1097,7 @@
       ]
     },
     {
-      "task_id": "b1134a0d-bbd3-4d94-a1a6-c2ae89d702c0",
+      "task_id": "9768375e-2148-4b46-aa28-6adeada12529",
       "task_number": 6,
       "task_type": "Calculated Rate of Approach Task",
       "results": [
@@ -1314,7 +1314,7 @@
       ]
     },
     {
-      "task_id": "938b70f5-039d-46d2-b55f-2bc9787f7f1c",
+      "task_id": "cb24a487-e5e3-4ec6-86f3-34e7da11c24e",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1531,7 +1531,7 @@
       ]
     },
     {
-      "task_id": "bac1787c-4500-44c6-bf03-01366f55b204",
+      "task_id": "f1226c7b-2b29-4e24-aa0e-f31c7e4accba",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
@@ -1748,7 +1748,7 @@
       ]
     },
     {
-      "task_id": "91fa9c71-8bbe-4d89-9d90-24d38e0e5efb",
+      "task_id": "12e95a36-0205-45a2-98ae-5c25fba28724",
       "task_number": 9,
       "task_type": "3D Shape Task",
       "results": [
@@ -1965,7 +1965,7 @@
       ]
     },
     {
-      "task_id": "8f448349-bca1-4aaa-85a8-4d686e9d64b6",
+      "task_id": "91d134cf-98d0-457a-85be-a0a57c70b983",
       "task_number": 10,
       "task_type": "Fly In",
       "results": [
@@ -2182,7 +2182,7 @@
       ]
     },
     {
-      "task_id": "8cf5dbf3-9afa-45c7-b1d4-226d4f893355",
+      "task_id": "5bd565f9-fa1f-418a-8d50-a9c023923ee9",
       "task_number": 11,
       "task_type": "Fly On",
       "results": [
@@ -2399,7 +2399,7 @@
       ]
     },
     {
-      "task_id": "659eea20-8b69-4d4f-bc8d-e020206b316e",
+      "task_id": "80d4a504-f6e6-4096-94c2-dab537ff31cd",
       "task_number": 12,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2616,7 +2616,7 @@
       ]
     },
     {
-      "task_id": "79d5be8e-efc1-4e18-a44d-2da410a7d1d9",
+      "task_id": "6ffa8f75-1bfa-4f7c-b17a-759e7ecbfc0f",
       "task_number": 13,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2833,7 +2833,7 @@
       ]
     },
     {
-      "task_id": "42c834f0-883e-45f3-bd65-49ee2b513d9d",
+      "task_id": "5cfe2019-c1ec-4228-9946-b249f7c10f87",
       "task_number": 14,
       "task_type": "Fly On",
       "results": [
