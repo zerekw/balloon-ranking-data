@@ -8,11 +8,11 @@
   "location": "Ponta Grossa, Brazil",
   "source": "watchmefly",
   "source_event_id": "pontagrossa2026",
-  "sof": 1638.1973600059648,
+  "sof": 1638.1973600050542,
   "included": true,
   "tasks": [
     {
-      "task_id": "e5a7e5cd-c65c-40de-96bc-906c3f880e9c",
+      "task_id": "00e99be7-d0cf-4be1-b1c8-06c464470821",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -79,7 +79,7 @@
       ]
     },
     {
-      "task_id": "bd2da45d-2a8d-4317-8f5e-c55809aaad1e",
+      "task_id": "5ca43072-de8f-45c8-95f7-90b65cbef8c2",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -146,7 +146,7 @@
       ]
     },
     {
-      "task_id": "493733e0-1f92-4bf6-b85c-def568dcdf28",
+      "task_id": "e3fd5270-9674-4c8f-bce2-1e4eb513e2a7",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -213,7 +213,7 @@
       ]
     },
     {
-      "task_id": "decc4d7e-99ac-4527-bd44-38a1f6c14e5c",
+      "task_id": "ea1a80d8-0871-4874-bbf0-687832777671",
       "task_number": 4,
       "task_type": "Fly On",
       "results": [
@@ -280,7 +280,7 @@
       ]
     },
     {
-      "task_id": "5ea9c66c-2825-45a2-8f3e-d287cc50bc77",
+      "task_id": "11a40f5e-56aa-4c43-be17-07e1df3e29d9",
       "task_number": 5,
       "task_type": "Minimum Distance",
       "results": [
@@ -347,7 +347,7 @@
       ]
     },
     {
-      "task_id": "87f9debd-41bc-4f0d-a58c-34b3bf73c332",
+      "task_id": "aa245422-148c-4157-a66f-38b5d4a6cf0a",
       "task_number": 6,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -414,7 +414,7 @@
       ]
     },
     {
-      "task_id": "ef78e613-42a5-4344-90d4-cd520777675b",
+      "task_id": "b758823b-1af1-48a6-8109-13380755fa54",
       "task_number": 8,
       "task_type": "Minimum Distance",
       "results": [
@@ -481,7 +481,7 @@
       ]
     },
     {
-      "task_id": "10e46d90-7f18-4ed4-9fcf-e5f67b1d2f10",
+      "task_id": "af4e92a0-5dc6-4a43-a1f1-6868405d2e79",
       "task_number": 9,
       "task_type": "Hesitation Waltz",
       "results": [

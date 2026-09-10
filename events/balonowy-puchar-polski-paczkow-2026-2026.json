@@ -8,11 +8,11 @@
   "location": "Paczków i okolice, Poland",
   "source": "watchmefly",
   "source_event_id": "paczkow2026",
-  "sof": 1502.377729425821,
+  "sof": 1502.377729425083,
   "included": true,
   "tasks": [
     {
-      "task_id": "884b1fde-7770-4c56-b8cb-b4b0f0e47921",
+      "task_id": "a8378ef7-1505-41fc-863e-18e8449737a3",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -121,7 +121,7 @@
       ]
     },
     {
-      "task_id": "34e88266-3d80-4664-9e34-eb4aaeb275ff",
+      "task_id": "9977642b-867f-4bee-8cdb-5c8522cfb454",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -230,7 +230,7 @@
       ]
     },
     {
-      "task_id": "29175741-8c07-47f6-91b2-d2055da3cf6b",
+      "task_id": "f358005b-156c-47ce-8843-526933225adc",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -339,7 +339,7 @@
       ]
     },
     {
-      "task_id": "7b9eb1fc-9861-432d-8d90-fc006099b981",
+      "task_id": "6a73afe8-efa7-45e1-9e5d-1a0853405bea",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -448,7 +448,7 @@
       ]
     },
     {
-      "task_id": "ca8eb627-7709-4e47-8d1d-497757bbd64e",
+      "task_id": "37e50b84-fd9a-43f3-acf9-69846ca42148",
       "task_number": 5,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -557,7 +557,7 @@
       ]
     },
     {
-      "task_id": "a4ad7574-2fe9-4d74-a231-0bfeedaaef42",
+      "task_id": "47e93da5-b4b3-47ca-b2b4-a37507282342",
       "task_number": 6,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -666,7 +666,7 @@
       ]
     },
     {
-      "task_id": "8d9fef0b-999a-4e95-8cf1-3424c718d00e",
+      "task_id": "632f2a22-5369-4073-bdb0-8f9471646754",
       "task_number": 7,
       "task_type": "Shortest Flight",
       "results": [
@@ -775,7 +775,7 @@
       ]
     },
     {
-      "task_id": "23c3dbf6-826b-4dd7-b95f-2b5c73806dc8",
+      "task_id": "bc1f0887-1b1b-491c-b564-dfc8cae15c3f",
       "task_number": 8,
       "task_type": "Maximum Distance",
       "results": [
@@ -884,7 +884,7 @@
       ]
     },
     {
-      "task_id": "7923515f-541a-4f78-8fdc-fe5a73ddb747",
+      "task_id": "3a3aa938-5cc6-451d-962a-05d16c3f2537",
       "task_number": 9,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -993,7 +993,7 @@
       ]
     },
     {
-      "task_id": "d7f8f21c-171e-4d36-b2d1-e39d63f05a06",
+      "task_id": "de24fa79-30a8-4eef-a870-d75cb4e31816",
       "task_number": 10,
       "task_type": "Land Run",
       "results": [
@@ -1102,7 +1102,7 @@
       ]
     },
     {
-      "task_id": "d0701417-7cc7-40df-8c2e-3642a2a0bffa",
+      "task_id": "596aa2d4-5043-46fd-b44b-b06ed4c42b0b",
       "task_number": 11,
       "task_type": "Fly In",
       "results": [
@@ -1211,7 +1211,7 @@
       ]
     },
     {
-      "task_id": "747d40dc-a152-46c5-a03d-3d5bb18419de",
+      "task_id": "44e8e104-a33c-4ea7-bd51-ca375f2eb786",
       "task_number": 12,
       "task_type": "Judge Declared Goal",
       "results": [
