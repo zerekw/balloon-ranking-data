@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "7df2e379-b8dc-4eaf-bd38-6d996ae3e190",
+      "task_id": "39e543f3-b4d8-4c73-85d6-089260d9a73f",
       "task_number": 1,
       "task_type": "Elbow",
       "results": [
@@ -169,7 +169,7 @@
       ]
     },
     {
-      "task_id": "e502efe6-e043-4c20-ac04-dfddc0ea947e",
+      "task_id": "aebf3d5a-679d-4c56-b6ba-919bc6d6c31c",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "task_id": "d56cbcfe-5125-4df4-aba9-ab25ae5de750",
+      "task_id": "93322bc7-7d9e-49ad-a1dc-7ae349219c33",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -483,7 +483,7 @@
       ]
     },
     {
-      "task_id": "a85896de-b86c-4bc7-a047-64cad1cacfaa",
+      "task_id": "1e2fec9c-70c3-4a91-999b-d72c76b03495",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -640,7 +640,7 @@
       ]
     },
     {
-      "task_id": "8b9df9bd-d8ad-4ac4-b3cb-226649433e5b",
+      "task_id": "1e3d2e95-3318-4c95-aedb-0cef2c3adedc",
       "task_number": 5,
       "task_type": "Fly On",
       "results": [
@@ -797,7 +797,7 @@
       ]
     },
     {
-      "task_id": "d28a9d7e-7688-4c18-a42f-e0e9de91b8a1",
+      "task_id": "2783c7e6-d4f4-4f8e-a9ab-b73fbcec5f53",
       "task_number": 6,
       "task_type": "Land Run",
       "results": [
@@ -954,7 +954,7 @@
       ]
     },
     {
-      "task_id": "84416de1-db3d-4ec1-8822-62ddb8d3fd66",
+      "task_id": "0a9f3bf7-9c5c-4a55-a610-01ab3fd5d9b4",
       "task_number": 7,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1111,7 +1111,7 @@
       ]
     },
     {
-      "task_id": "5aee1f56-0c9c-4841-9bd7-f4e9a18eb921",
+      "task_id": "ac842985-e3e9-447e-814d-7376959fce2d",
       "task_number": 8,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1268,7 +1268,7 @@
       ]
     },
     {
-      "task_id": "53e4994c-d902-48b4-bab6-e051faf03768",
+      "task_id": "fa8b01de-8248-4066-b063-b575f9c9283c",
       "task_number": 9,
       "task_type": "Fly On",
       "results": [
@@ -1327,16 +1327,16 @@
           "raw_points": 747.0
         },
         {
-          "pilot_id": "9d8c553f-deea-4141-a15d-79d2c86e5888",
-          "position": 10,
-          "no_result": false,
-          "raw_points": 684.0
-        },
-        {
           "pilot_id": "274b5c85-a12e-4b86-bb09-40f3c94a4026",
           "position": 10,
           "no_result": false,
           "raw_points": 944.0
+        },
+        {
+          "pilot_id": "9d8c553f-deea-4141-a15d-79d2c86e5888",
+          "position": 10,
+          "no_result": false,
+          "raw_points": 684.0
         },
         {
           "pilot_id": "fe884f93-4475-4e43-ba95-86bf1596c8a6",
@@ -1425,7 +1425,7 @@
       ]
     },
     {
-      "task_id": "5bb90e69-7304-4304-b6cc-954ca45aaffa",
+      "task_id": "d1dfeece-387e-4a32-b9ca-3af989222c46",
       "task_number": 10,
       "task_type": "3D Shape Task",
       "results": [
@@ -1582,7 +1582,7 @@
       ]
     },
     {
-      "task_id": "c835a7a7-21a2-457b-9eb1-81eaa17602a4",
+      "task_id": "53252628-457c-4297-8c1f-47d748273b50",
       "task_number": 11,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1739,7 +1739,7 @@
       ]
     },
     {
-      "task_id": "8a63437d-5475-4ef9-befa-3415df062013",
+      "task_id": "0171f3f9-b17c-46d4-ab65-54fed5a684ac",
       "task_number": 12,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -1896,7 +1896,7 @@
       ]
     },
     {
-      "task_id": "cdd8a873-76f5-46ef-b2b2-bd3986650290",
+      "task_id": "c07f0f32-4593-4f0f-943a-dbbe16cfeab5",
       "task_number": 13,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -2053,7 +2053,7 @@
       ]
     },
     {
-      "task_id": "c0dd4669-4a59-4105-9a20-0a266042143d",
+      "task_id": "d80f3661-aaad-4f69-944b-c1261c7d04e3",
       "task_number": 14,
       "task_type": "Hesitation Waltz",
       "results": [
