@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "5a3a2a26-2a3d-45da-915c-d09e2334b153",
+      "task_id": "9aa4c3d1-d328-4804-9649-c366830c4332",
       "task_number": 1,
       "task_type": "Hare and Hounds",
       "results": [
@@ -139,7 +139,7 @@
       ]
     },
     {
-      "task_id": "61bdadeb-c338-42af-ba10-f484a735eb48",
+      "task_id": "6ba9a276-10c3-4ab6-a4e4-8c1c8eb76a02",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -150,16 +150,22 @@
           "raw_points": 1000.0
         },
         {
+          "pilot_id": "7dfd6617-eeba-444f-87bc-d7d54404bdfb",
+          "position": 20,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
           "pilot_id": "3ca99bd6-8c41-4753-84fe-861c63486c01",
           "position": 20,
           "no_result": false,
           "raw_points": null
         },
         {
-          "pilot_id": "7dfd6617-eeba-444f-87bc-d7d54404bdfb",
-          "position": 20,
-          "no_result": false,
-          "raw_points": null
+          "pilot_id": "8971b451-f6f7-4f9f-8b9e-26dca3c20ba2",
+          "position": null,
+          "no_result": true,
+          "raw_points": 800.0
         },
         {
           "pilot_id": "6e6f03e8-3142-435c-90b1-5e8ac99ed1fe",
@@ -234,13 +240,13 @@
           "raw_points": 800.0
         },
         {
-          "pilot_id": "dd926081-66ec-4105-a68a-f26c40e9c946",
+          "pilot_id": "0c1d7ebb-dbc9-4c80-8ff8-66cf5d761707",
           "position": null,
           "no_result": true,
           "raw_points": 800.0
         },
         {
-          "pilot_id": "0c1d7ebb-dbc9-4c80-8ff8-66cf5d761707",
+          "pilot_id": "dd926081-66ec-4105-a68a-f26c40e9c946",
           "position": null,
           "no_result": true,
           "raw_points": 800.0
@@ -253,12 +259,6 @@
         },
         {
           "pilot_id": "4c7ba0c5-c57b-4a21-b0e5-683766e724a1",
-          "position": null,
-          "no_result": true,
-          "raw_points": 800.0
-        },
-        {
-          "pilot_id": "8971b451-f6f7-4f9f-8b9e-26dca3c20ba2",
           "position": null,
           "no_result": true,
           "raw_points": 800.0
