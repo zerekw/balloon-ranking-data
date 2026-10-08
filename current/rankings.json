@@ -15,7 +15,7 @@
     "slug": "nilz-patrick",
     "display_name": "NILZ, Patrick",
     "country": "USA",
-    "rating": 2002.2280000888466,
+    "rating": 2002.2280000888463,
     "rd": 18.633583170758683,
     "task_count": 57
   },
@@ -35,7 +35,7 @@
     "slug": "leatherman-ben",
     "display_name": "LEATHERMAN, Ben",
     "country": "USA",
-    "rating": 1907.0931007005424,
+    "rating": 1907.0931007005427,
     "rd": 29.563921227750278,
     "task_count": 169
   },
@@ -45,7 +45,7 @@
     "slug": "takach-keith",
     "display_name": "TAKACH, Keith",
     "country": "USA",
-    "rating": 1904.675136752653,
+    "rating": 1904.6751367526529,
     "rd": 16.60808349230611,
     "task_count": 91
   },
@@ -111,6 +111,16 @@
   },
   {
     "rank": 12,
+    "pilot_id": "4e70f39d-8f88-47bb-96a0-9992948ecaaf",
+    "slug": "anderson-allen",
+    "display_name": "ANDERSON, Allen",
+    "country": "USA",
+    "rating": 1854.6783651620776,
+    "rd": 15.296510844506978,
+    "task_count": 158
+  },
+  {
+    "rank": 13,
     "pilot_id": "37275868-cca9-490a-919e-802e60ba1889",
     "slug": "cuenot-paul",
     "display_name": "CUENOT, Paul",
@@ -118,16 +128,6 @@
     "rating": 1853.6151323456731,
     "rd": 8.540378227199232,
     "task_count": 175
-  },
-  {
-    "rank": 13,
-    "pilot_id": "4e70f39d-8f88-47bb-96a0-9992948ecaaf",
-    "slug": "anderson-allen",
-    "display_name": "ANDERSON, Allen",
-    "country": "USA",
-    "rating": 1853.2900323916958,
-    "rd": 15.293229365983287,
-    "task_count": 158
   },
   {
     "rank": 14,
@@ -146,7 +146,7 @@
     "display_name": "SKINNER, Jobe",
     "country": "USA",
     "rating": 1852.475439248241,
-    "rd": 16.04961379640668,
+    "rd": 16.049613796406682,
     "task_count": 90
   },
   {
@@ -165,8 +165,8 @@
     "slug": "lidinsky-matthew",
     "display_name": "LIDINSKY, Matthew",
     "country": "USA",
-    "rating": 1847.5669433019752,
-    "rd": 42.44937167758662,
+    "rating": 1847.566943301975,
+    "rd": 42.44937167758661,
     "task_count": 3
   },
   {
@@ -225,7 +225,7 @@
     "slug": "heartsill-joe",
     "display_name": "HEARTSILL, Joe",
     "country": "USA",
-    "rating": 1837.0751872354604,
+    "rating": 1837.0751872354601,
     "rd": 15.49827440848767,
     "task_count": 220
   },
@@ -261,6 +261,16 @@
   },
   {
     "rank": 27,
+    "pilot_id": "76cd6492-1314-4078-b6fb-d87dcaa2d342",
+    "slug": "bloom-cory",
+    "display_name": "BLOOM, Cory",
+    "country": "USA",
+    "rating": 1831.9841366654553,
+    "rd": 15.017094114956087,
+    "task_count": 201
+  },
+  {
+    "rank": 28,
     "pilot_id": "cc7d90a0-a9c3-4090-b2ae-e7af7a8b621d",
     "slug": "fuston-david",
     "display_name": "FUSTON, David",
@@ -268,16 +278,6 @@
     "rating": 1831.4170455745668,
     "rd": 31.35956043666291,
     "task_count": 8
-  },
-  {
-    "rank": 28,
-    "pilot_id": "76cd6492-1314-4078-b6fb-d87dcaa2d342",
-    "slug": "bloom-cory",
-    "display_name": "BLOOM, Cory",
-    "country": "USA",
-    "rating": 1830.6696289461845,
-    "rd": 15.015150272391475,
-    "task_count": 201
   },
   {
     "rank": 29,
@@ -291,23 +291,23 @@
   },
   {
     "rank": 30,
-    "pilot_id": "b7cb3833-dc3e-4906-8008-1b45d85cf9da",
-    "slug": "welz-zerek",
-    "display_name": "WELZ, Zerek",
-    "country": "USA",
-    "rating": 1829.187961262724,
-    "rd": 14.409222108629585,
-    "task_count": 104
-  },
-  {
-    "rank": 31,
     "pilot_id": "bc59f770-7b06-4c23-b508-c1a51463715b",
     "slug": "seymour-joe",
     "display_name": "SEYMOUR, Joe",
     "country": "USA",
-    "rating": 1829.0686347280762,
-    "rd": 14.2125663232123,
+    "rating": 1830.2094286692927,
+    "rd": 14.215669060805187,
     "task_count": 124
+  },
+  {
+    "rank": 31,
+    "pilot_id": "b7cb3833-dc3e-4906-8008-1b45d85cf9da",
+    "slug": "welz-zerek",
+    "display_name": "WELZ, Zerek",
+    "country": "USA",
+    "rating": 1829.1879612627238,
+    "rd": 14.409222108629583,
+    "task_count": 104
   },
   {
     "rank": 32,
@@ -365,8 +365,8 @@
     "slug": "greenwood-eric",
     "display_name": "GREENWOOD, Eric",
     "country": "USA",
-    "rating": 1814.9501721727884,
-    "rd": 14.84651546091034,
+    "rating": 1816.1802849483306,
+    "rd": 14.846515464221321,
     "task_count": 71
   },
   {
@@ -385,8 +385,8 @@
     "slug": "draughn-ken",
     "display_name": "DRAUGHN, Ken",
     "country": "USA",
-    "rating": 1810.6066971178216,
-    "rd": 14.32132126300266,
+    "rating": 1811.920837912883,
+    "rd": 14.326137975299535,
     "task_count": 153
   },
   {
@@ -396,7 +396,7 @@
     "display_name": "BEARD, Blair",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -406,7 +406,7 @@
     "display_name": "BURNSTEIN, Gene",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -416,7 +416,7 @@
     "display_name": "CLINE, Don",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -426,7 +426,7 @@
     "display_name": "DAVIS, Steve",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -436,7 +436,7 @@
     "display_name": "EDWARDS, Don",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -446,7 +446,7 @@
     "display_name": "HAMILTON, Joe",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -456,7 +456,7 @@
     "display_name": "KIRGISS, Randy",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -466,7 +466,7 @@
     "display_name": "LEE, Randy",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -476,7 +476,7 @@
     "display_name": "MARTIN, Gilbert",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -486,7 +486,7 @@
     "display_name": "MCKINLEY, Barbara",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -496,7 +496,7 @@
     "display_name": "MILLER, Mark",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -506,7 +506,7 @@
     "display_name": "PAGE, Charles",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -516,7 +516,7 @@
     "display_name": "PONTICELLI, Jack",
     "country": "USA",
     "rating": 1809.698190251791,
-    "rd": 49.43630752993605,
+    "rd": 49.436307529936045,
     "task_count": 2
   },
   {
@@ -541,6 +541,16 @@
   },
   {
     "rank": 55,
+    "pilot_id": "ee16593f-b35e-4fb8-adf4-7f8bc0a563c1",
+    "slug": "petrehn-johnny",
+    "display_name": "PETREHN, Johnny",
+    "country": "USA",
+    "rating": 1805.7452500077075,
+    "rd": 15.316285699386176,
+    "task_count": 251
+  },
+  {
+    "rank": 56,
     "pilot_id": "a3b4878c-4e56-45f1-9a1a-e5c2ab3f497b",
     "slug": "higashino-shigehiro",
     "display_name": "HIGASHINO, Shigehiro",
@@ -550,23 +560,13 @@
     "task_count": 6
   },
   {
-    "rank": 56,
-    "pilot_id": "ee16593f-b35e-4fb8-adf4-7f8bc0a563c1",
-    "slug": "petrehn-johnny",
-    "display_name": "PETREHN, Johnny",
-    "country": "USA",
-    "rating": 1804.2762067388862,
-    "rd": 15.29592226179768,
-    "task_count": 251
-  },
-  {
     "rank": 57,
     "pilot_id": "d3f5ccae-4c21-4539-a28e-1aa63b231c27",
     "slug": "fujita-yudai",
     "display_name": "FUJITA, Yudai",
     "country": "JPN",
-    "rating": 1800.9332681790752,
-    "rd": 14.271377371309367,
+    "rating": 1800.933268179075,
+    "rd": 14.271377371309365,
     "task_count": 85
   },
   {
@@ -591,6 +591,16 @@
   },
   {
     "rank": 60,
+    "pilot_id": "fafc9c9e-aed9-4a4a-9d25-21412fc93b72",
+    "slug": "bussey-bill",
+    "display_name": "BUSSEY, Bill",
+    "country": "USA",
+    "rating": 1792.015444571835,
+    "rd": 14.086006054000334,
+    "task_count": 93
+  },
+  {
+    "rank": 61,
     "pilot_id": "e07ddd2b-39bc-44f4-8fbe-bea8b1dbf053",
     "slug": "akama-susumu",
     "display_name": "AKAMA, Susumu",
@@ -600,7 +610,7 @@
     "task_count": 16
   },
   {
-    "rank": 61,
+    "rank": 62,
     "pilot_id": "1c248e5e-113c-4505-b3e2-1cbdbbc75cf8",
     "slug": "cleyet-marrel-benjamin",
     "display_name": "CLEYET MARREL, Benjamin",
@@ -610,17 +620,17 @@
     "task_count": 136
   },
   {
-    "rank": 62,
-    "pilot_id": "fafc9c9e-aed9-4a4a-9d25-21412fc93b72",
-    "slug": "bussey-bill",
-    "display_name": "BUSSEY, Bill",
+    "rank": 63,
+    "pilot_id": "e1b7aa7f-8845-4d07-8269-d61474e50c0c",
+    "slug": "duff-jeff",
+    "display_name": "DUFF, Jeff",
     "country": "USA",
-    "rating": 1790.515747402696,
-    "rd": 14.069039936005924,
-    "task_count": 93
+    "rating": 1790.4259509016952,
+    "rd": 14.767397539893102,
+    "task_count": 52
   },
   {
-    "rank": 63,
+    "rank": 64,
     "pilot_id": "2aa9ca8a-b5a2-408e-8066-6b9cb7f4990b",
     "slug": "itsuki-kumiko",
     "display_name": "ITSUKI, kumiko",
@@ -630,7 +640,7 @@
     "task_count": 5
   },
   {
-    "rank": 64,
+    "rank": 65,
     "pilot_id": "cf178971-930c-48ce-904c-060804e5e6f2",
     "slug": "seigeot-clement",
     "display_name": "SEIGEOT, Clement",
@@ -640,7 +650,7 @@
     "task_count": 165
   },
   {
-    "rank": 65,
+    "rank": 66,
     "pilot_id": "4a94ae1f-200f-4b77-b1d1-3a5dab20dbc3",
     "slug": "gommer-roy",
     "display_name": "GOMMER, Roy",
@@ -650,7 +660,7 @@
     "task_count": 133
   },
   {
-    "rank": 66,
+    "rank": 67,
     "pilot_id": "08424ff2-30b8-43fa-8a37-9a3dbb3cd53b",
     "slug": "hugi-roman",
     "display_name": "HUGI, Roman",
@@ -660,23 +670,13 @@
     "task_count": 148
   },
   {
-    "rank": 67,
-    "pilot_id": "e1b7aa7f-8845-4d07-8269-d61474e50c0c",
-    "slug": "duff-jeff",
-    "display_name": "DUFF, Jeff",
-    "country": "USA",
-    "rating": 1789.20886238227,
-    "rd": 14.767396519932587,
-    "task_count": 52
-  },
-  {
     "rank": 68,
     "pilot_id": "07aeaeed-8f17-4438-a800-968261ddc2b5",
     "slug": "white-cheri",
     "display_name": "WHITE, Cheri",
     "country": "USA",
-    "rating": 1787.3613328514123,
-    "rd": 16.01986473353658,
+    "rating": 1788.7937250169716,
+    "rd": 16.019892204854933,
     "task_count": 71
   },
   {
@@ -695,29 +695,29 @@
     "slug": "buckner-jason",
     "display_name": "BUCKNER, Jason",
     "country": "USA",
-    "rating": 1779.9598236493594,
+    "rating": 1779.9598236493591,
     "rd": 14.55766778905055,
     "task_count": 12
   },
   {
     "rank": 71,
-    "pilot_id": "834b7265-bafe-4f28-b130-a7e67bb80022",
-    "slug": "schwemmer-kasey",
-    "display_name": "SCHWEMMER, Kasey",
-    "country": "USA",
-    "rating": 1773.9865384105833,
-    "rd": 14.29355050700735,
-    "task_count": 110
-  },
-  {
-    "rank": 72,
     "pilot_id": "600e3f42-e8e2-4737-b0f1-3bfd334b76fb",
     "slug": "llado-neus",
     "display_name": "LLADO, NEUS",
     "country": "ESP",
-    "rating": 1773.6146443808937,
-    "rd": 14.743659259086515,
+    "rating": 1774.8277717123312,
+    "rd": 14.743659259093471,
     "task_count": 4
+  },
+  {
+    "rank": 72,
+    "pilot_id": "834b7265-bafe-4f28-b130-a7e67bb80022",
+    "slug": "schwemmer-kasey",
+    "display_name": "SCHWEMMER, Kasey",
+    "country": "USA",
+    "rating": 1773.986538410583,
+    "rd": 14.29355050700735,
+    "task_count": 110
   },
   {
     "rank": 73,
@@ -735,8 +735,8 @@
     "slug": "palmer-gerry",
     "display_name": "PALMER, Gerry",
     "country": "USA",
-    "rating": 1770.8358417835666,
-    "rd": 15.359722090370338,
+    "rating": 1770.8358417835664,
+    "rd": 15.359722090370337,
     "task_count": 58
   },
   {
@@ -761,6 +761,26 @@
   },
   {
     "rank": 77,
+    "pilot_id": "a288f556-298d-4ab2-b04e-f59493e9f85f",
+    "slug": "raya-shawn",
+    "display_name": "RAYA, Shawn",
+    "country": "USA",
+    "rating": 1767.6323139047743,
+    "rd": 24.25417416654596,
+    "task_count": 163
+  },
+  {
+    "rank": 78,
+    "pilot_id": "1f887ed9-2040-4fa8-8505-897698ac7422",
+    "slug": "glen-michael",
+    "display_name": "GLEN, Michael",
+    "country": "USA",
+    "rating": 1767.5265002518097,
+    "rd": 14.557982504949388,
+    "task_count": 12
+  },
+  {
+    "rank": 79,
     "pilot_id": "549324ba-82e7-4bcc-acf8-1e64d4b2d2f9",
     "slug": "passos-fabio",
     "display_name": "PASSOS, Fabio",
@@ -770,7 +790,7 @@
     "task_count": 256
   },
   {
-    "rank": 78,
+    "rank": 80,
     "pilot_id": "a8ec64b1-06dd-4433-9f53-aaaacc59c669",
     "slug": "strasmann-david",
     "display_name": "STRASMANN, David",
@@ -780,17 +800,17 @@
     "task_count": 113
   },
   {
-    "rank": 79,
-    "pilot_id": "1f887ed9-2040-4fa8-8505-897698ac7422",
-    "slug": "glen-michael",
-    "display_name": "GLEN, Michael",
+    "rank": 81,
+    "pilot_id": "1b5808f2-9443-41ac-bf56-13e22639b88b",
+    "slug": "mcdaniel-jett",
+    "display_name": "MCDANIEL, Jett",
     "country": "USA",
-    "rating": 1766.3437092111808,
-    "rd": 14.557981819028143,
-    "task_count": 12
+    "rating": 1766.6124438462034,
+    "rd": 16.02585331962881,
+    "task_count": 26
   },
   {
-    "rank": 80,
+    "rank": 82,
     "pilot_id": "3fadb491-1f08-4e0b-88db-75c59f889e39",
     "slug": "pilot-8",
     "display_name": "杨, 寺",
@@ -800,17 +820,17 @@
     "task_count": 34
   },
   {
-    "rank": 81,
-    "pilot_id": "1b5808f2-9443-41ac-bf56-13e22639b88b",
-    "slug": "mcdaniel-jett",
-    "display_name": "MCDANIEL, Jett",
+    "rank": 83,
+    "pilot_id": "d603366c-72fe-459d-afb6-fa78941cd556",
+    "slug": "casaceli-chris",
+    "display_name": "CASACELI, Chris",
     "country": "USA",
-    "rating": 1765.179126954083,
-    "rd": 16.02585308631901,
-    "task_count": 26
+    "rating": 1764.6744383747618,
+    "rd": 14.316590694813334,
+    "task_count": 30
   },
   {
-    "rank": 82,
+    "rank": 84,
     "pilot_id": "797af26d-4dd6-48f0-8bde-2cf82099767f",
     "slug": "isley-todd",
     "display_name": "ISLEY, Todd",
@@ -820,17 +840,7 @@
     "task_count": 108
   },
   {
-    "rank": 83,
-    "pilot_id": "a288f556-298d-4ab2-b04e-f59493e9f85f",
-    "slug": "raya-shawn",
-    "display_name": "RAYA, Shawn",
-    "country": "USA",
-    "rating": 1764.3462382484447,
-    "rd": 24.2543575558278,
-    "task_count": 163
-  },
-  {
-    "rank": 84,
+    "rank": 85,
     "pilot_id": "ff0cfdf6-7a52-439e-88bc-32589ddcc27a",
     "slug": "meyer-mark",
     "display_name": "MEYER, Mark",
@@ -840,7 +850,7 @@
     "task_count": 8
   },
   {
-    "rank": 85,
+    "rank": 86,
     "pilot_id": "0be0571b-dd93-4b59-b401-43b28172cf50",
     "slug": "gneiting-amy",
     "display_name": "GNEITING, Amy",
@@ -850,17 +860,17 @@
     "task_count": 65
   },
   {
-    "rank": 86,
-    "pilot_id": "d603366c-72fe-459d-afb6-fa78941cd556",
-    "slug": "casaceli-chris",
-    "display_name": "CASACELI, Chris",
+    "rank": 87,
+    "pilot_id": "cf5fb0dd-eef6-455c-a027-6e7696cbecb0",
+    "slug": "hoch-darcy",
+    "display_name": "HOCH, Darcy",
     "country": "USA",
-    "rating": 1763.530020810574,
-    "rd": 14.316575853163753,
-    "task_count": 30
+    "rating": 1759.5603831834533,
+    "rd": 14.003200337694551,
+    "task_count": 47
   },
   {
-    "rank": 87,
+    "rank": 88,
     "pilot_id": "0bbe443f-4ee6-4b0d-8581-14e568a477de",
     "slug": "kostiuskevicius-rokas",
     "display_name": "KOSTIUšKEVIčIUS, Rokas",
@@ -870,7 +880,7 @@
     "task_count": 149
   },
   {
-    "rank": 88,
+    "rank": 89,
     "pilot_id": "45250870-2b5f-490b-ab0b-618822584403",
     "slug": "almudim-cristiano",
     "display_name": "ALMUDIM, Cristiano",
@@ -878,16 +888,6 @@
     "rating": 1758.3283185992523,
     "rd": 16.88126612106907,
     "task_count": 44
-  },
-  {
-    "rank": 89,
-    "pilot_id": "cf5fb0dd-eef6-455c-a027-6e7696cbecb0",
-    "slug": "hoch-darcy",
-    "display_name": "HOCH, Darcy",
-    "country": "USA",
-    "rating": 1758.200998694273,
-    "rd": 13.99396426451111,
-    "task_count": 47
   },
   {
     "rank": 90,
@@ -915,12 +915,22 @@
     "slug": "wolters-layne",
     "display_name": "WOLTERS, Layne",
     "country": "USA",
-    "rating": 1750.4077339695552,
-    "rd": 14.74365925895931,
+    "rating": 1751.6208613009296,
+    "rd": 14.743659258965677,
     "task_count": 4
   },
   {
     "rank": 93,
+    "pilot_id": "476b97d0-c115-4770-b133-d70a3e4037b3",
+    "slug": "sabin-richard",
+    "display_name": "SABIN, Richard",
+    "country": "USA",
+    "rating": 1750.3149966891733,
+    "rd": 13.230800248743476,
+    "task_count": 79
+  },
+  {
+    "rank": 94,
     "pilot_id": "1d8acc65-1c96-41b3-a2b7-bb4ddf32e668",
     "slug": "scaife-matthew",
     "display_name": "SCAIFE, Matthew",
@@ -930,7 +940,7 @@
     "task_count": 130
   },
   {
-    "rank": 94,
+    "rank": 95,
     "pilot_id": "0f71f9b7-d882-4951-aead-2b3d60e0efc9",
     "slug": "gauthier-travis",
     "display_name": "GAUTHIER, Travis",
@@ -940,7 +950,7 @@
     "task_count": 43
   },
   {
-    "rank": 95,
+    "rank": 96,
     "pilot_id": "9b08156b-4b5e-42c1-aebc-b47c761ec23f",
     "slug": "gregory-daniel",
     "display_name": "GREGORY, Daniel",
@@ -948,16 +958,6 @@
     "rating": 1749.4513028538117,
     "rd": 8.52113129411533,
     "task_count": 161
-  },
-  {
-    "rank": 96,
-    "pilot_id": "476b97d0-c115-4770-b133-d70a3e4037b3",
-    "slug": "sabin-richard",
-    "display_name": "SABIN, Richard",
-    "country": "USA",
-    "rating": 1749.1946981981177,
-    "rd": 13.219323637060933,
-    "task_count": 79
   },
   {
     "rank": 97,
@@ -1011,6 +1011,46 @@
   },
   {
     "rank": 102,
+    "pilot_id": "8a776032-335f-4c71-8099-1674796f773b",
+    "slug": "griffith-justin",
+    "display_name": "GRIFFITH, Justin",
+    "country": "USA",
+    "rating": 1746.689957250247,
+    "rd": 15.14686440034106,
+    "task_count": 12
+  },
+  {
+    "rank": 103,
+    "pilot_id": "11238be5-2328-408a-b8cc-005376a24739",
+    "slug": "hebert-chad",
+    "display_name": "HEBERT, Chad",
+    "country": "USA",
+    "rating": 1746.3950602585055,
+    "rd": 15.192387796779952,
+    "task_count": 10
+  },
+  {
+    "rank": 104,
+    "pilot_id": "1a5326ab-bfa4-4ce6-8f9e-2ff8af00be43",
+    "slug": "thompson-luke",
+    "display_name": "THOMPSON, Luke",
+    "country": "USA",
+    "rating": 1746.1127686087834,
+    "rd": 13.69061114381293,
+    "task_count": 38
+  },
+  {
+    "rank": 105,
+    "pilot_id": "55e04f75-142c-4089-a437-825785aa38ab",
+    "slug": "wolters-jim",
+    "display_name": "WOLTERS, Jim",
+    "country": "USA",
+    "rating": 1746.0407122328697,
+    "rd": 15.401285456244816,
+    "task_count": 15
+  },
+  {
+    "rank": 106,
     "pilot_id": "c51d9b76-ac63-48d3-8283-08af5aa3707b",
     "slug": "coly-maxence",
     "display_name": "COLY, Maxence",
@@ -1020,53 +1060,13 @@
     "task_count": 49
   },
   {
-    "rank": 103,
-    "pilot_id": "8a776032-335f-4c71-8099-1674796f773b",
-    "slug": "griffith-justin",
-    "display_name": "GRIFFITH, Justin",
-    "country": "USA",
-    "rating": 1745.4095108700624,
-    "rd": 15.146863218345489,
-    "task_count": 12
-  },
-  {
-    "rank": 104,
-    "pilot_id": "11238be5-2328-408a-b8cc-005376a24739",
-    "slug": "hebert-chad",
-    "display_name": "HEBERT, Chad",
-    "country": "USA",
-    "rating": 1745.1046743739525,
-    "rd": 15.192345198193378,
-    "task_count": 10
-  },
-  {
-    "rank": 105,
-    "pilot_id": "55e04f75-142c-4089-a437-825785aa38ab",
-    "slug": "wolters-jim",
-    "display_name": "WOLTERS, Jim",
-    "country": "USA",
-    "rating": 1744.7169469858277,
-    "rd": 15.401285164287325,
-    "task_count": 15
-  },
-  {
-    "rank": 106,
-    "pilot_id": "1a5326ab-bfa4-4ce6-8f9e-2ff8af00be43",
-    "slug": "thompson-luke",
-    "display_name": "THOMPSON, Luke",
-    "country": "USA",
-    "rating": 1744.6746183652751,
-    "rd": 13.671821081351863,
-    "task_count": 38
-  },
-  {
     "rank": 107,
     "pilot_id": "5169b813-6970-4465-b905-8f06f65dab05",
     "slug": "healy-chris",
     "display_name": "HEALY, Chris",
     "country": "USA",
-    "rating": 1744.29181415072,
-    "rd": 14.799741923547533,
+    "rating": 1744.2918141507198,
+    "rd": 14.79974192354753,
     "task_count": 12
   },
   {
@@ -1131,16 +1131,6 @@
   },
   {
     "rank": 114,
-    "pilot_id": "90cd85de-3e33-49e2-adbd-f2c3c9db0c4f",
-    "slug": "gonzales-robert",
-    "display_name": "GONZALES, Robert",
-    "country": "USA",
-    "rating": 1735.2124200444775,
-    "rd": 14.683840220373945,
-    "task_count": 46
-  },
-  {
-    "rank": 115,
     "pilot_id": "c1eda9dd-38ab-40dd-a494-44dd9b65e900",
     "slug": "philippe-nicolas",
     "display_name": "PHILIPPE, Nicolas",
@@ -1150,7 +1140,7 @@
     "task_count": 102
   },
   {
-    "rank": 116,
+    "rank": 115,
     "pilot_id": "fa85b3df-ca2b-48d4-bf9b-fa1e2a40d7ae",
     "slug": "craig-brad",
     "display_name": "CRAIG, Brad",
@@ -1160,7 +1150,7 @@
     "task_count": 90
   },
   {
-    "rank": 117,
+    "rank": 116,
     "pilot_id": "6b3b4cf1-6a16-4a2c-a19a-c86a1562faed",
     "slug": "miceli-federico",
     "display_name": "MICELI, Federico",
@@ -1170,7 +1160,7 @@
     "task_count": 32
   },
   {
-    "rank": 118,
+    "rank": 117,
     "pilot_id": "d7ad4fa7-a7fe-49e1-a0d7-c1ba462fa589",
     "slug": "donner-nick",
     "display_name": "DONNER, Nick",
@@ -1180,7 +1170,7 @@
     "task_count": 160
   },
   {
-    "rank": 119,
+    "rank": 118,
     "pilot_id": "d23d1c47-be22-4c98-9a74-6b28d66bfaee",
     "slug": "bourbier-michel",
     "display_name": "BOURBIER, Michel",
@@ -1190,7 +1180,7 @@
     "task_count": 122
   },
   {
-    "rank": 120,
+    "rank": 119,
     "pilot_id": "632b870b-8486-42ce-bc00-fa5432bf887b",
     "slug": "filus-witold",
     "display_name": "FILUS, Witold",
@@ -1200,7 +1190,7 @@
     "task_count": 210
   },
   {
-    "rank": 121,
+    "rank": 120,
     "pilot_id": "f8972210-9a32-4358-a592-710c303f1382",
     "slug": "zeberli-lea",
     "display_name": "ZEBERLI, Lea",
@@ -1210,17 +1200,17 @@
     "task_count": 11
   },
   {
-    "rank": 122,
+    "rank": 121,
     "pilot_id": "07ae967b-6f81-4c7b-88b2-5e856f280d6e",
     "slug": "wood-bruce",
     "display_name": "WOOD, Bruce",
     "country": "USA",
-    "rating": 1730.755063200886,
+    "rating": 1730.7550632008858,
     "rd": 17.176753778164244,
     "task_count": 206
   },
   {
-    "rank": 123,
+    "rank": 122,
     "pilot_id": "3d7a5e0f-90b2-46af-8fec-40395263581d",
     "slug": "lobaza-krzysztof",
     "display_name": "ŁOBAZA, Krzysztof",
@@ -1230,7 +1220,7 @@
     "task_count": 15
   },
   {
-    "rank": 124,
+    "rank": 123,
     "pilot_id": "d7ff345f-858e-4a02-a871-2cbfb087e238",
     "slug": "wilkinson-justin",
     "display_name": "WILKINSON, Justin",
@@ -1240,7 +1230,7 @@
     "task_count": 17
   },
   {
-    "rank": 125,
+    "rank": 124,
     "pilot_id": "79050dd5-bd4f-4381-b122-2c690cdb879f",
     "slug": "kerdokas-vytas",
     "display_name": "KERDOKAS, Vytas",
@@ -1250,7 +1240,7 @@
     "task_count": 166
   },
   {
-    "rank": 126,
+    "rank": 125,
     "pilot_id": "f9f3b7c6-8c05-4225-8adc-0a4b6660e8c4",
     "slug": "moody-jayce",
     "display_name": "MOODY, Jayce",
@@ -1260,7 +1250,7 @@
     "task_count": 11
   },
   {
-    "rank": 127,
+    "rank": 126,
     "pilot_id": "ca3076e1-23e5-4e11-9ca0-0c62c712c900",
     "slug": "kimball-jayson",
     "display_name": "KIMBALL, Jayson",
@@ -1270,7 +1260,7 @@
     "task_count": 17
   },
   {
-    "rank": 128,
+    "rank": 127,
     "pilot_id": "c046a186-22bf-45c4-ad43-fd35bd4fb9bb",
     "slug": "kindermann-schoen-thomas",
     "display_name": "KINDERMANN-SCHOEN, Thomas",
@@ -1280,7 +1270,7 @@
     "task_count": 192
   },
   {
-    "rank": 129,
+    "rank": 128,
     "pilot_id": "bb2f620e-1b0e-4e59-be41-da774fd91d89",
     "slug": "nels-andrew",
     "display_name": "NELS, Andrew",
@@ -1290,7 +1280,7 @@
     "task_count": 120
   },
   {
-    "rank": 130,
+    "rank": 129,
     "pilot_id": "930baa5a-f6ff-4d88-860b-ad3389ca7c42",
     "slug": "kusternigg-daniel",
     "display_name": "KUSTERNIGG, Daniel",
@@ -1300,7 +1290,7 @@
     "task_count": 93
   },
   {
-    "rank": 131,
+    "rank": 130,
     "pilot_id": "d7dd393a-db51-4dde-954f-224f1b7e4025",
     "slug": "gibbs-paul",
     "display_name": "GIBBS, Paul",
@@ -1310,7 +1300,7 @@
     "task_count": 28
   },
   {
-    "rank": 132,
+    "rank": 131,
     "pilot_id": "acfbdd93-fa0c-4fbb-a4d8-d9f2fb31061f",
     "slug": "secrist-mckenna",
     "display_name": "SECRIST, McKenna",
@@ -1320,7 +1310,7 @@
     "task_count": 53
   },
   {
-    "rank": 133,
+    "rank": 132,
     "pilot_id": "be2264c9-82c3-407c-9dbd-91c61e61a66e",
     "slug": "pacaud-laurent",
     "display_name": "PACAUD, Laurent",
@@ -1330,7 +1320,7 @@
     "task_count": 5
   },
   {
-    "rank": 134,
+    "rank": 133,
     "pilot_id": "57a09e37-6e3f-4369-9c4d-04769f83ff71",
     "slug": "komza-laurynas",
     "display_name": "KOMžA, Laurynas",
@@ -1340,7 +1330,7 @@
     "task_count": 11
   },
   {
-    "rank": 135,
+    "rank": 134,
     "pilot_id": "81910cad-397a-4d34-b53a-249945cb8735",
     "slug": "simoner-andreas",
     "display_name": "SIMONER, Andreas",
@@ -1350,7 +1340,7 @@
     "task_count": 147
   },
   {
-    "rank": 136,
+    "rank": 135,
     "pilot_id": "1138f00f-08ba-4352-9cec-e44725cc64f5",
     "slug": "kazlauskas-ignas",
     "display_name": "KAZLAUSKAS, Ignas",
@@ -1360,7 +1350,7 @@
     "task_count": 205
   },
   {
-    "rank": 137,
+    "rank": 136,
     "pilot_id": "a935ddd9-ebda-44e7-b96c-b74561b19300",
     "slug": "sakaguchi-hirotsugu",
     "display_name": "SAKAGUCHI, Hirotsugu",
@@ -1370,7 +1360,7 @@
     "task_count": 5
   },
   {
-    "rank": 138,
+    "rank": 137,
     "pilot_id": "c202fa90-82b6-4011-bda9-61362b99ac9e",
     "slug": "rekas-mateusz",
     "display_name": "REKAS, Mateusz",
@@ -1380,7 +1370,7 @@
     "task_count": 61
   },
   {
-    "rank": 139,
+    "rank": 138,
     "pilot_id": "628f7ebb-7192-46c1-a781-3247484abc1d",
     "slug": "riley-matt",
     "display_name": "RILEY, Matt",
@@ -1390,7 +1380,7 @@
     "task_count": 39
   },
   {
-    "rank": 140,
+    "rank": 139,
     "pilot_id": "727ea120-910c-4889-a826-21f046c9f961",
     "slug": "iwanski-arkadiusz",
     "display_name": "IWANSKI, Arkadiusz",
@@ -1400,7 +1390,7 @@
     "task_count": 216
   },
   {
-    "rank": 141,
+    "rank": 140,
     "pilot_id": "91d77a78-bec2-47b5-9536-17ac7c6f1ce5",
     "slug": "pinho-lais",
     "display_name": "PINHO, Laís",
@@ -1410,7 +1400,7 @@
     "task_count": 99
   },
   {
-    "rank": 142,
+    "rank": 141,
     "pilot_id": "514c7ad0-0d6b-4bef-a811-496e885d52d3",
     "slug": "blaser-marc",
     "display_name": "BLASER, Marc",
@@ -1420,7 +1410,7 @@
     "task_count": 111
   },
   {
-    "rank": 143,
+    "rank": 142,
     "pilot_id": "8c21fba7-0f0c-43bb-b775-acb8cdbe2e20",
     "slug": "king-steve",
     "display_name": "KING, Steve",
@@ -1430,7 +1420,7 @@
     "task_count": 11
   },
   {
-    "rank": 144,
+    "rank": 143,
     "pilot_id": "b6169cd0-5d3c-4bc3-bfcd-7afd7113e10d",
     "slug": "sitko-steven",
     "display_name": "SITKO, Steven",
@@ -1440,7 +1430,7 @@
     "task_count": 73
   },
   {
-    "rank": 145,
+    "rank": 144,
     "pilot_id": "4321476c-ea82-42a4-912a-089637592fbb",
     "slug": "de-cock-philippe",
     "display_name": "DE COCK, Philippe",
@@ -1450,7 +1440,27 @@
     "task_count": 160
   },
   {
+    "rank": 145,
+    "pilot_id": "9eebc260-2e08-4e40-80f6-575595628fe7",
+    "slug": "wilson-john",
+    "display_name": "WILSON, John",
+    "country": "USA",
+    "rating": 1708.5428289860304,
+    "rd": 17.050505717835865,
+    "task_count": 91
+  },
+  {
     "rank": 146,
+    "pilot_id": "410c1427-52bf-413f-afb7-32c53a00b961",
+    "slug": "goll-joshua",
+    "display_name": "GOLL, Joshua",
+    "country": "USA",
+    "rating": 1708.2220791332436,
+    "rd": 12.845223446376544,
+    "task_count": 39
+  },
+  {
+    "rank": 147,
     "pilot_id": "ed323bf1-86f2-4821-98dd-e9d25e7df520",
     "slug": "crescencio-elves",
     "display_name": "CRESCENCIO, Elves",
@@ -1460,27 +1470,7 @@
     "task_count": 52
   },
   {
-    "rank": 147,
-    "pilot_id": "410c1427-52bf-413f-afb7-32c53a00b961",
-    "slug": "goll-joshua",
-    "display_name": "GOLL, Joshua",
-    "country": "USA",
-    "rating": 1707.2538268500225,
-    "rd": 12.840152018623108,
-    "task_count": 39
-  },
-  {
     "rank": 148,
-    "pilot_id": "9eebc260-2e08-4e40-80f6-575595628fe7",
-    "slug": "wilson-john",
-    "display_name": "WILSON, John",
-    "country": "USA",
-    "rating": 1706.9203789756648,
-    "rd": 17.050506369052997,
-    "task_count": 91
-  },
-  {
-    "rank": 149,
     "pilot_id": "d1a8a34d-bbf1-4b81-82b7-55fbae06b7f9",
     "slug": "bauta-roman",
     "display_name": "BAUTA, Roman",
@@ -1490,7 +1480,7 @@
     "task_count": 253
   },
   {
-    "rank": 150,
+    "rank": 149,
     "pilot_id": "9bd719ea-4f39-48fe-8701-6d01817df6d3",
     "slug": "hirokazu-yamamoto",
     "display_name": "HIROKAZU, Yamamoto",
@@ -1500,7 +1490,7 @@
     "task_count": 11
   },
   {
-    "rank": 151,
+    "rank": 150,
     "pilot_id": "08587fb5-5617-4821-bf76-b102ab91b502",
     "slug": "baird-andrew",
     "display_name": "BAIRD, Andrew",
@@ -1510,7 +1500,27 @@
     "task_count": 87
   },
   {
+    "rank": 151,
+    "pilot_id": "84b8125b-39a9-4c61-ae24-5103ec58ebaf",
+    "slug": "maxwell-zackery",
+    "display_name": "MAXWELL, Zackery",
+    "country": "USA",
+    "rating": 1704.7629145072215,
+    "rd": 14.691998407753328,
+    "task_count": 12
+  },
+  {
     "rank": 152,
+    "pilot_id": "37037bb2-183e-4a99-bb8f-25cec02fceab",
+    "slug": "appenzeller-al",
+    "display_name": "APPENZELLER, Al",
+    "country": "USA",
+    "rating": 1704.4832492257374,
+    "rd": 14.455479897520432,
+    "task_count": 46
+  },
+  {
+    "rank": 153,
     "pilot_id": "0b637f33-bf94-4a53-9b71-a43926beb897",
     "slug": "cloyd-patrick",
     "display_name": "CLOYD, Patrick",
@@ -1520,7 +1530,7 @@
     "task_count": 100
   },
   {
-    "rank": 153,
+    "rank": 154,
     "pilot_id": "f0d15123-0844-403a-8147-d51c72e4fbb0",
     "slug": "abel-michael",
     "display_name": "ABEL, Michael",
@@ -1530,7 +1540,7 @@
     "task_count": 171
   },
   {
-    "rank": 154,
+    "rank": 155,
     "pilot_id": "39fa1fb5-a9a8-42aa-82e5-9ec9fc49f25b",
     "slug": "kostrhun-ondrej",
     "display_name": "KOSTRHUN, Ondrej",
@@ -1540,27 +1550,7 @@
     "task_count": 12
   },
   {
-    "rank": 155,
-    "pilot_id": "84b8125b-39a9-4c61-ae24-5103ec58ebaf",
-    "slug": "maxwell-zackery",
-    "display_name": "MAXWELL, Zackery",
-    "country": "USA",
-    "rating": 1703.5582664419162,
-    "rd": 14.691998048430243,
-    "task_count": 12
-  },
-  {
     "rank": 156,
-    "pilot_id": "37037bb2-183e-4a99-bb8f-25cec02fceab",
-    "slug": "appenzeller-al",
-    "display_name": "APPENZELLER, Al",
-    "country": "USA",
-    "rating": 1703.158095368995,
-    "rd": 14.451500734922627,
-    "task_count": 46
-  },
-  {
-    "rank": 157,
     "pilot_id": "282521a1-9fa4-4c3f-a52d-f37fc53afd82",
     "slug": "vlegels-steven",
     "display_name": "VLEGELS, Steven",
@@ -1570,17 +1560,17 @@
     "task_count": 206
   },
   {
-    "rank": 158,
+    "rank": 157,
     "pilot_id": "bb19fb21-0e36-4bff-b58e-f05690afa5d3",
     "slug": "whitling-ian",
     "display_name": "WHITLING, Ian",
     "country": "USA",
-    "rating": 1702.0111089767431,
-    "rd": 14.767146940016113,
+    "rating": 1702.011108976743,
+    "rd": 14.76714694001611,
     "task_count": 59
   },
   {
-    "rank": 159,
+    "rank": 158,
     "pilot_id": "b16d3a4b-9c07-4dbf-a3e3-79fede6d5a9f",
     "slug": "berger-laurent",
     "display_name": "BERGER, Laurent",
@@ -1588,6 +1578,16 @@
     "rating": 1701.50339004516,
     "rd": 41.416923059380814,
     "task_count": 5
+  },
+  {
+    "rank": 159,
+    "pilot_id": "dbf0a444-fd62-4546-8753-23cc1f2bcde5",
+    "slug": "richardson-shane",
+    "display_name": "RICHARDSON, Shane",
+    "country": "USA",
+    "rating": 1700.8711568293334,
+    "rd": 14.713473590783327,
+    "task_count": 12
   },
   {
     "rank": 160,
@@ -1601,16 +1601,6 @@
   },
   {
     "rank": 161,
-    "pilot_id": "dbf0a444-fd62-4546-8753-23cc1f2bcde5",
-    "slug": "richardson-shane",
-    "display_name": "RICHARDSON, Shane",
-    "country": "USA",
-    "rating": 1699.6629853528061,
-    "rd": 14.713473250349148,
-    "task_count": 12
-  },
-  {
-    "rank": 162,
     "pilot_id": "56ecf39f-301c-45e6-b9f1-a33592f29d72",
     "slug": "silvestre-luis",
     "display_name": "SILVESTRE, Luis",
@@ -1620,7 +1610,7 @@
     "task_count": 78
   },
   {
-    "rank": 163,
+    "rank": 162,
     "pilot_id": "7f4bfcf5-9be4-4e5f-8c7d-6ed8732f5a9f",
     "slug": "pilot-22",
     "display_name": "孙, 成强",
@@ -1630,7 +1620,7 @@
     "task_count": 31
   },
   {
-    "rank": 164,
+    "rank": 163,
     "pilot_id": "b854b4c5-60f7-44aa-88f8-e3d2ccff263f",
     "slug": "silva-fernando",
     "display_name": "SILVA, Fernando",
@@ -1640,7 +1630,7 @@
     "task_count": 125
   },
   {
-    "rank": 165,
+    "rank": 164,
     "pilot_id": "d59e9d19-be11-4501-963f-f09a916255a6",
     "slug": "cliver-harold",
     "display_name": "CLIVER, Harold",
@@ -1650,17 +1640,17 @@
     "task_count": 20
   },
   {
-    "rank": 166,
+    "rank": 165,
     "pilot_id": "f7422740-1b05-4dd2-9c68-b27ba35d5912",
     "slug": "rubin-jeremy",
     "display_name": "RUBIN, Jeremy",
     "country": "USA",
-    "rating": 1698.5932166712223,
-    "rd": 15.272740897647811,
+    "rating": 1698.593216669991,
+    "rd": 15.27274089749424,
     "task_count": 145
   },
   {
-    "rank": 167,
+    "rank": 166,
     "pilot_id": "3be0223f-389c-430c-bc61-c25e27178379",
     "slug": "mitchell-steve",
     "display_name": "MITCHELL, Steve",
@@ -1670,17 +1660,17 @@
     "task_count": 99
   },
   {
-    "rank": 168,
+    "rank": 167,
     "pilot_id": "913c321b-6ad6-4c95-b116-57a53fbdf1f2",
     "slug": "irwin-pat",
     "display_name": "IRWIN, Pat",
     "country": "USA",
-    "rating": 1697.215503622094,
-    "rd": 14.788377748236659,
+    "rating": 1697.2155036220938,
+    "rd": 14.788377748236657,
     "task_count": 64
   },
   {
-    "rank": 169,
+    "rank": 168,
     "pilot_id": "fea6458d-9098-4a4b-8467-fd7967d4c44c",
     "slug": "jung-sergio-luis",
     "display_name": "JUNG, Sergio Luis",
@@ -1690,7 +1680,7 @@
     "task_count": 34
   },
   {
-    "rank": 170,
+    "rank": 169,
     "pilot_id": "11180c97-4b5e-4a94-96e9-c43a68824dbf",
     "slug": "cliver-christopher",
     "display_name": "CLIVER, Christopher",
@@ -1700,7 +1690,7 @@
     "task_count": 32
   },
   {
-    "rank": 171,
+    "rank": 170,
     "pilot_id": "afa19ce5-7d69-4cd4-ab32-30b6f009ae05",
     "slug": "bejat-gregory",
     "display_name": "BEJAT, Gregory",
@@ -1708,6 +1698,16 @@
     "rating": 1694.3535081514563,
     "rd": 8.70473060240652,
     "task_count": 49
+  },
+  {
+    "rank": 171,
+    "pilot_id": "291df754-f9b3-4b54-ba55-b85e886f413a",
+    "slug": "billson-peg",
+    "display_name": "BILLSON, Peg",
+    "country": "USA",
+    "rating": 1694.19810402266,
+    "rd": 14.357149481825447,
+    "task_count": 231
   },
   {
     "rank": 172,
@@ -1741,6 +1741,16 @@
   },
   {
     "rank": 175,
+    "pilot_id": "90cd85de-3e33-49e2-adbd-f2c3c9db0c4f",
+    "slug": "gonzales-robert",
+    "display_name": "GONZALES, Robert",
+    "country": "USA",
+    "rating": 1693.709374185094,
+    "rd": 14.683800831788504,
+    "task_count": 46
+  },
+  {
+    "rank": 176,
     "pilot_id": "a6e9ab08-daf4-4103-a220-7b2b29686dae",
     "slug": "okano-yoshinori",
     "display_name": "OKANO, YOSHINORI",
@@ -1750,7 +1760,7 @@
     "task_count": 5
   },
   {
-    "rank": 176,
+    "rank": 177,
     "pilot_id": "00f6e6dc-0ff8-4a01-a67d-f091b904a010",
     "slug": "ronaldo-morales",
     "display_name": "RONALDO, Morales",
@@ -1760,17 +1770,17 @@
     "task_count": 60
   },
   {
-    "rank": 177,
-    "pilot_id": "291df754-f9b3-4b54-ba55-b85e886f413a",
-    "slug": "billson-peg",
-    "display_name": "BILLSON, Peg",
+    "rank": 178,
+    "pilot_id": "56180943-026b-4ce0-8340-00f072874b88",
+    "slug": "bartra-alex",
+    "display_name": "BARTRA, Alex",
     "country": "USA",
-    "rating": 1693.001177823166,
-    "rd": 14.355084032476995,
-    "task_count": 231
+    "rating": 1692.9775129049563,
+    "rd": 14.950856133941716,
+    "task_count": 28
   },
   {
-    "rank": 178,
+    "rank": 179,
     "pilot_id": "77db388a-1071-49ee-a7e0-837862613f11",
     "slug": "betzen-nico",
     "display_name": "BETZEN, Nico",
@@ -1780,7 +1790,7 @@
     "task_count": 58
   },
   {
-    "rank": 179,
+    "rank": 180,
     "pilot_id": "a1607599-22a5-464f-8f10-52759a2979d7",
     "slug": "schwarz-bastian",
     "display_name": "SCHWARZ, Bastian",
@@ -1790,7 +1800,7 @@
     "task_count": 159
   },
   {
-    "rank": 180,
+    "rank": 181,
     "pilot_id": "b21ae6bb-e5e4-4518-ba67-d67d5ec8b377",
     "slug": "kalousdian-markus",
     "display_name": "KALOUSDIAN, Markus",
@@ -1798,16 +1808,6 @@
     "rating": 1691.782191030205,
     "rd": 8.6431784788347,
     "task_count": 114
-  },
-  {
-    "rank": 181,
-    "pilot_id": "56180943-026b-4ce0-8340-00f072874b88",
-    "slug": "bartra-alex",
-    "display_name": "BARTRA, Alex",
-    "country": "USA",
-    "rating": 1691.7298317871487,
-    "rd": 14.95085099832114,
-    "task_count": 28
   },
   {
     "rank": 182,
@@ -2435,7 +2435,7 @@
     "slug": "shipman-shane",
     "display_name": "SHIPMAN, Shane",
     "country": "USA",
-    "rating": 1650.52057439641,
+    "rating": 1650.5205743964098,
     "rd": 15.516205346352928,
     "task_count": 88
   },
@@ -3221,6 +3221,16 @@
   },
   {
     "rank": 323,
+    "pilot_id": "0e199a9a-e9fc-406b-bb90-7c912ee35a6e",
+    "slug": "robey-sam",
+    "display_name": "ROBEY, Sam",
+    "country": "USA",
+    "rating": 1612.061265303809,
+    "rd": 14.34485692091892,
+    "task_count": 37
+  },
+  {
+    "rank": 324,
     "pilot_id": "62521304-7ca0-402e-a27c-9945a21f6d51",
     "slug": "kodama-yoshimi",
     "display_name": "KODAMA, Yoshimi",
@@ -3230,7 +3240,7 @@
     "task_count": 15
   },
   {
-    "rank": 324,
+    "rank": 325,
     "pilot_id": "9d8c553f-deea-4141-a15d-79d2c86e5888",
     "slug": "robertson-andrew",
     "display_name": "ROBERTSON, Andrew",
@@ -3238,16 +3248,6 @@
     "rating": 1610.929052941899,
     "rd": 8.80670981684066,
     "task_count": 94
-  },
-  {
-    "rank": 325,
-    "pilot_id": "0e199a9a-e9fc-406b-bb90-7c912ee35a6e",
-    "slug": "robey-sam",
-    "display_name": "ROBEY, Sam",
-    "country": "USA",
-    "rating": 1610.9128112426906,
-    "rd": 14.344852493298662,
-    "task_count": 37
   },
   {
     "rank": 326,
@@ -3475,7 +3475,7 @@
     "slug": "vavra-william",
     "display_name": "VAVRA, William",
     "country": "USA",
-    "rating": 1599.2881905274444,
+    "rating": 1599.2881905274442,
     "rd": 15.787048679810614,
     "task_count": 79
   },
@@ -3485,7 +3485,7 @@
     "slug": "mancini-j-j",
     "display_name": "MANCINI, J.J.",
     "country": "USA",
-    "rating": 1598.6761941967661,
+    "rating": 1598.676194196766,
     "rd": 14.56930502479657,
     "task_count": 9
   },
@@ -3616,7 +3616,7 @@
     "display_name": "ABEL, Jeff",
     "country": "USA",
     "rating": 1593.7527511895873,
-    "rd": 14.585016742942816,
+    "rd": 14.585016742942814,
     "task_count": 12
   },
   {
@@ -3985,8 +3985,8 @@
     "slug": "mcclung-collin",
     "display_name": "MCCLUNG, Collin",
     "country": "USA",
-    "rating": 1581.304557556377,
-    "rd": 13.477899596247797,
+    "rating": 1581.3045575563767,
+    "rd": 13.477899596247795,
     "task_count": 133
   },
   {
@@ -4085,7 +4085,7 @@
     "slug": "dickey-frank",
     "display_name": "DICKEY, Frank",
     "country": "USA",
-    "rating": 1578.9831610085628,
+    "rating": 1578.9831610085625,
     "rd": 14.681118041070581,
     "task_count": 12
   },
@@ -4355,7 +4355,7 @@
     "slug": "eldridge-stacy",
     "display_name": "ELDRIDGE, Stacy",
     "country": "USA",
-    "rating": 1567.95776826217,
+    "rating": 1567.9577682621698,
     "rd": 14.597280964471315,
     "task_count": 71
   },
@@ -4426,7 +4426,7 @@
     "display_name": "SPINELLO, Michael",
     "country": "USA",
     "rating": 1566.321162921508,
-    "rd": 14.616730127408859,
+    "rd": 14.616730127408857,
     "task_count": 12
   },
   {
@@ -4531,6 +4531,16 @@
   },
   {
     "rank": 454,
+    "pilot_id": "7098016d-7eee-45a4-96a6-3d1c4b2f2d1a",
+    "slug": "jackson-neil",
+    "display_name": "JACKSON, Neil",
+    "country": "USA",
+    "rating": 1562.1067106038747,
+    "rd": 15.230803549303982,
+    "task_count": 12
+  },
+  {
+    "rank": 455,
     "pilot_id": "710559ce-02f5-418f-9f16-d048eab31aa8",
     "slug": "pilot-20",
     "display_name": "王, 升海",
@@ -4540,7 +4550,7 @@
     "task_count": 38
   },
   {
-    "rank": 455,
+    "rank": 456,
     "pilot_id": "8c75b334-b2af-4d07-bd30-c17c4c6ba10a",
     "slug": "padilha-guilherme",
     "display_name": "PADILHA, Guilherme",
@@ -4550,7 +4560,7 @@
     "task_count": 42
   },
   {
-    "rank": 456,
+    "rank": 457,
     "pilot_id": "213faea1-fd02-4218-97ae-b4bea4557098",
     "slug": "gancarek-jagoda",
     "display_name": "GANCAREK, Jagoda",
@@ -4560,17 +4570,17 @@
     "task_count": 36
   },
   {
-    "rank": 457,
-    "pilot_id": "7098016d-7eee-45a4-96a6-3d1c4b2f2d1a",
-    "slug": "jackson-neil",
-    "display_name": "JACKSON, Neil",
+    "rank": 458,
+    "pilot_id": "6d367aca-0a6c-46f1-97bc-df158ff01140",
+    "slug": "davis-john",
+    "display_name": "DAVIS, John",
     "country": "USA",
-    "rating": 1560.8120913755874,
-    "rd": 15.230803745552276,
-    "task_count": 12
+    "rating": 1560.1407937387453,
+    "rd": 14.743659258341296,
+    "task_count": 4
   },
   {
-    "rank": 458,
+    "rank": 459,
     "pilot_id": "7a4c6c47-327a-4d80-8361-ddec8f7f996e",
     "slug": "adams-jason",
     "display_name": "ADAMS, Jason",
@@ -4578,16 +4588,6 @@
     "rating": 1560.1252983406212,
     "rd": 8.725663541757184,
     "task_count": 92
-  },
-  {
-    "rank": 459,
-    "pilot_id": "6d367aca-0a6c-46f1-97bc-df158ff01140",
-    "slug": "davis-john",
-    "display_name": "DAVIS, John",
-    "country": "USA",
-    "rating": 1558.9276664076779,
-    "rd": 14.743659258339788,
-    "task_count": 4
   },
   {
     "rank": 460,
@@ -4986,7 +4986,7 @@
     "display_name": "GARCIA, Triston",
     "country": "USA",
     "rating": 1544.1393855299173,
-    "rd": 14.911122942038983,
+    "rd": 14.91112294203898,
     "task_count": 20
   },
   {
@@ -5035,8 +5035,8 @@
     "slug": "brimley-jennifer",
     "display_name": "BRIMLEY, Jennifer",
     "country": "USA",
-    "rating": 1542.015078340362,
-    "rd": 13.884821763173136,
+    "rating": 1542.0150783403617,
+    "rd": 13.88482176317311,
     "task_count": 94
   },
   {
@@ -5196,7 +5196,7 @@
     "display_name": "WADLEY, Mike",
     "country": "USA",
     "rating": 1533.7531436684392,
-    "rd": 14.743659258315382,
+    "rd": 14.74365925831538,
     "task_count": 4
   },
   {
@@ -5211,6 +5211,16 @@
   },
   {
     "rank": 522,
+    "pilot_id": "3d2230d5-7c4a-4116-b491-979dc714d006",
+    "slug": "barnes-alfred",
+    "display_name": "BARNES, Alfred",
+    "country": "USA",
+    "rating": 1533.4176632637593,
+    "rd": 14.743659258315148,
+    "task_count": 4
+  },
+  {
+    "rank": 523,
     "pilot_id": "b15872a1-7aa4-4084-8974-5e5adedb98c4",
     "slug": "pilot-31",
     "display_name": "钢, 王",
@@ -5220,33 +5230,23 @@
     "task_count": 22
   },
   {
-    "rank": 523,
+    "rank": 524,
     "pilot_id": "5e84dcbb-ea81-4dfd-b389-e410ea179bbf",
     "slug": "hahn-robert-allan",
     "display_name": "HAHN, Robert (Allan)",
     "country": "USA",
     "rating": 1533.1010205151379,
-    "rd": 14.699239319638298,
+    "rd": 14.699239319638295,
     "task_count": 12
   },
   {
-    "rank": 524,
+    "rank": 525,
     "pilot_id": "214ef7dd-b628-4120-92c3-bd65a9151c20",
     "slug": "briggs-ross",
     "display_name": "BRIGGS, Ross",
     "country": "USA",
     "rating": 1532.4847148369954,
-    "rd": 14.743659258314505,
-    "task_count": 4
-  },
-  {
-    "rank": 525,
-    "pilot_id": "3d2230d5-7c4a-4116-b491-979dc714d006",
-    "slug": "barnes-alfred",
-    "display_name": "BARNES, Alfred",
-    "country": "USA",
-    "rating": 1532.2045359327044,
-    "rd": 14.743659258314317,
+    "rd": 14.743659258314503,
     "task_count": 4
   },
   {
@@ -5286,7 +5286,7 @@
     "display_name": "NEPUTE, Joe",
     "country": "USA",
     "rating": 1531.5941829195096,
-    "rd": 14.707240628394175,
+    "rd": 14.707240628394171,
     "task_count": 12
   },
   {
@@ -5325,8 +5325,8 @@
     "slug": "kerber-rick",
     "display_name": "KERBER, Rick",
     "country": "USA",
-    "rating": 1530.1737900064218,
-    "rd": 15.952886389636967,
+    "rating": 1530.1737900064215,
+    "rd": 15.952886389636966,
     "task_count": 77
   },
   {
@@ -5706,7 +5706,7 @@
     "display_name": "OSBORNE, Dwayne",
     "country": "USA",
     "rating": 1518.133374560824,
-    "rd": 14.74365925830691,
+    "rd": 14.743659258306906,
     "task_count": 4
   },
   {
@@ -5745,7 +5745,7 @@
     "slug": "robison-matt",
     "display_name": "ROBISON, Matt",
     "country": "USA",
-    "rating": 1516.4708397587008,
+    "rating": 1516.4708397587005,
     "rd": 14.743659258306305,
     "task_count": 4
   },
@@ -5795,7 +5795,7 @@
     "slug": "speicher-shawn",
     "display_name": "SPEICHER, Shawn",
     "country": "USA",
-    "rating": 1514.0956495116227,
+    "rating": 1514.0956495116225,
     "rd": 16.02576191289554,
     "task_count": 113
   },
@@ -5921,6 +5921,16 @@
   },
   {
     "rank": 593,
+    "pilot_id": "e1420f4e-a3d3-4097-a6de-fffc656d7150",
+    "slug": "rucker-john",
+    "display_name": "RUCKER, John",
+    "country": "USA",
+    "rating": 1506.8256331390978,
+    "rd": 14.743659258303953,
+    "task_count": 4
+  },
+  {
+    "rank": 594,
     "pilot_id": "3fe6a832-3846-4ba9-9479-583432e948be",
     "slug": "gillespie-daniel",
     "display_name": "GILLESPIE, Daniel",
@@ -5930,7 +5940,7 @@
     "task_count": 5
   },
   {
-    "rank": 594,
+    "rank": 595,
     "pilot_id": "3d2f7ff1-6720-448b-8d42-78d90c7d1836",
     "slug": "sasser-daniel",
     "display_name": "SASSER, Daniel",
@@ -5940,7 +5950,7 @@
     "task_count": 9
   },
   {
-    "rank": 595,
+    "rank": 596,
     "pilot_id": "247f4f32-dda6-4275-a726-96cf408326a0",
     "slug": "jamey-edouard",
     "display_name": "JAMEY, Edouard",
@@ -5950,7 +5960,7 @@
     "task_count": 29
   },
   {
-    "rank": 596,
+    "rank": 597,
     "pilot_id": "a8646f8c-777b-4ef5-83df-ffcdaf8a16a7",
     "slug": "matuda-yuuichi",
     "display_name": "MATUDA, yuuichi",
@@ -5958,16 +5968,6 @@
     "rating": 1505.6357141106002,
     "rd": 57.29746616708499,
     "task_count": 2
-  },
-  {
-    "rank": 597,
-    "pilot_id": "e1420f4e-a3d3-4097-a6de-fffc656d7150",
-    "slug": "rucker-john",
-    "display_name": "RUCKER, John",
-    "country": "USA",
-    "rating": 1505.6125058080484,
-    "rd": 14.7436592583038,
-    "task_count": 4
   },
   {
     "rank": 598,
@@ -6106,7 +6106,7 @@
     "display_name": "SEE, Glenn",
     "country": "USA",
     "rating": 1500.572397526119,
-    "rd": 14.555322266751034,
+    "rd": 14.555322266751032,
     "task_count": 12
   },
   {
@@ -6126,7 +6126,7 @@
     "display_name": "CROUCH, Clayton",
     "country": "USA",
     "rating": 1499.8255693430897,
-    "rd": 14.712117006673042,
+    "rd": 14.71211700667304,
     "task_count": 12
   },
   {
@@ -6135,7 +6135,7 @@
     "slug": "wilson-petra",
     "display_name": "WILSON, Petra",
     "country": "USA",
-    "rating": 1499.8202291430944,
+    "rating": 1499.8202291430941,
     "rd": 18.536063338260615,
     "task_count": 27
   },
@@ -6221,6 +6221,16 @@
   },
   {
     "rank": 623,
+    "pilot_id": "89c20cb1-03a8-4a6a-be1d-8e1b46f820fd",
+    "slug": "waner-andy",
+    "display_name": "WANER, Andy",
+    "country": "USA",
+    "rating": 1496.8164269555,
+    "rd": 15.146717298230255,
+    "task_count": 12
+  },
+  {
+    "rank": 624,
     "pilot_id": "fb629be6-90d7-4ad9-b57d-2137576fbe19",
     "slug": "miller-stephen",
     "display_name": "MILLER, Stephen",
@@ -6230,7 +6240,7 @@
     "task_count": 5
   },
   {
-    "rank": 624,
+    "rank": 625,
     "pilot_id": "6c70c19e-5a49-47b8-991f-b3021312ddf8",
     "slug": "jaques-tyler",
     "display_name": "JAQUES, Tyler",
@@ -6238,16 +6248,6 @@
     "rating": 1495.8676775393837,
     "rd": 31.798682726176445,
     "task_count": 27
-  },
-  {
-    "rank": 625,
-    "pilot_id": "89c20cb1-03a8-4a6a-be1d-8e1b46f820fd",
-    "slug": "waner-andy",
-    "display_name": "WANER, Andy",
-    "country": "USA",
-    "rating": 1495.5360584771115,
-    "rd": 15.1467169343207,
-    "task_count": 12
   },
   {
     "rank": 626,
@@ -6496,7 +6496,7 @@
     "display_name": "MILLER, Howard",
     "country": "USA",
     "rating": 1489.2595060280312,
-    "rd": 14.887512603782659,
+    "rd": 14.887512603782657,
     "task_count": 12
   },
   {
@@ -6685,8 +6685,8 @@
     "slug": "vereb-marissa",
     "display_name": "VEREB, Marissa",
     "country": "USA",
-    "rating": 1482.4665084000726,
-    "rd": 14.743659258306687,
+    "rating": 1482.4665084000724,
+    "rd": 14.743659258306684,
     "task_count": 4
   },
   {
@@ -6751,6 +6751,16 @@
   },
   {
     "rank": 676,
+    "pilot_id": "29033696-b6b4-45ab-8f4c-21cf3d69a393",
+    "slug": "hodge-jonathan",
+    "display_name": "HODGE, Jonathan",
+    "country": "USA",
+    "rating": 1480.644092086182,
+    "rd": 14.669374629306288,
+    "task_count": 25
+  },
+  {
+    "rank": 677,
     "pilot_id": "c2099e16-c253-4426-99c6-81c829eb48ba",
     "slug": "stanley-rupert",
     "display_name": "STANLEY, Rupert",
@@ -6758,16 +6768,6 @@
     "rating": 1480.0347352290473,
     "rd": 12.773498210212194,
     "task_count": 63
-  },
-  {
-    "rank": 677,
-    "pilot_id": "29033696-b6b4-45ab-8f4c-21cf3d69a393",
-    "slug": "hodge-jonathan",
-    "display_name": "HODGE, Jonathan",
-    "country": "USA",
-    "rating": 1479.443158427581,
-    "rd": 14.66937462697931,
-    "task_count": 25
   },
   {
     "rank": 678,
@@ -6865,7 +6865,7 @@
     "slug": "lawson-james",
     "display_name": "LAWSON, James",
     "country": "USA",
-    "rating": 1475.309466747682,
+    "rating": 1475.3094667476819,
     "rd": 16.030730889980354,
     "task_count": 12
   },
@@ -7235,8 +7235,8 @@
     "slug": "christian-bret",
     "display_name": "CHRISTIAN, Bret",
     "country": "USA",
-    "rating": 1460.5573773489104,
-    "rd": 16.258883435753024,
+    "rating": 1460.557377350347,
+    "rd": 16.25888343571103,
     "task_count": 98
   },
   {
@@ -7261,6 +7261,16 @@
   },
   {
     "rank": 727,
+    "pilot_id": "02d82ac5-c131-45da-add9-07a03ef22b44",
+    "slug": "jay-kenny",
+    "display_name": "JAY, Kenny",
+    "country": "USA",
+    "rating": 1459.7514110068225,
+    "rd": 16.064262323109485,
+    "task_count": 40
+  },
+  {
+    "rank": 728,
     "pilot_id": "9f6bf5ea-f610-4ac1-8410-ab201933e49d",
     "slug": "crabtree-chad",
     "display_name": "CRABTREE, Chad",
@@ -7270,7 +7280,7 @@
     "task_count": 120
   },
   {
-    "rank": 728,
+    "rank": 729,
     "pilot_id": "fb52e0aa-133e-4f10-9464-99d96ea8b50d",
     "slug": "pilot-49",
     "display_name": "黄, 窍荣",
@@ -7280,7 +7290,7 @@
     "task_count": 7
   },
   {
-    "rank": 729,
+    "rank": 730,
     "pilot_id": "0177bd4f-f729-4645-b315-efad33cda737",
     "slug": "goncalves-da-rosa-kelwin",
     "display_name": "GONçALVES DA ROSA, Kelwin",
@@ -7290,7 +7300,7 @@
     "task_count": 9
   },
   {
-    "rank": 730,
+    "rank": 731,
     "pilot_id": "85494188-8f0b-4560-a4fb-1f7ef06729ab",
     "slug": "muir-lindsay",
     "display_name": "MUIR, Lindsay",
@@ -7300,7 +7310,7 @@
     "task_count": 48
   },
   {
-    "rank": 731,
+    "rank": 732,
     "pilot_id": "2dc29bdc-5118-44f5-b652-ebca6d18c86f",
     "slug": "gliatti-michael",
     "display_name": "GLIATTI, Michael",
@@ -7308,16 +7318,6 @@
     "rating": 1458.3329307402296,
     "rd": 30.37450707084113,
     "task_count": 22
-  },
-  {
-    "rank": 732,
-    "pilot_id": "02d82ac5-c131-45da-add9-07a03ef22b44",
-    "slug": "jay-kenny",
-    "display_name": "JAY, Kenny",
-    "country": "USA",
-    "rating": 1458.3108418769766,
-    "rd": 16.06427547963934,
-    "task_count": 40
   },
   {
     "rank": 733,
@@ -7335,8 +7335,8 @@
     "slug": "heavin-gary",
     "display_name": "HEAVIN, Gary",
     "country": "USA",
-    "rating": 1458.0076547565548,
-    "rd": 17.63688561844009,
+    "rating": 1458.0076547565493,
+    "rd": 17.636885618440953,
     "task_count": 107
   },
   {
@@ -7655,7 +7655,7 @@
     "slug": "keller-kelli",
     "display_name": "KELLER, Kelli",
     "country": "USA",
-    "rating": 1442.4197925249139,
+    "rating": 1442.4197925249136,
     "rd": 14.708118058680727,
     "task_count": 61
   },
@@ -7675,7 +7675,7 @@
     "slug": "lombardi-steve",
     "display_name": "LOMBARDI, Steve",
     "country": "USA",
-    "rating": 1441.869777943628,
+    "rating": 1441.8697779436277,
     "rd": 17.81469219080465,
     "task_count": 10
   },
@@ -7765,7 +7765,7 @@
     "slug": "gerbus-jr-dan",
     "display_name": "GERBUS JR., Dan",
     "country": null,
-    "rating": 1438.9345188417283,
+    "rating": 1438.9345188417285,
     "rd": 33.220566715792316,
     "task_count": 22
   },
@@ -8045,7 +8045,7 @@
     "slug": "pulaski-bob",
     "display_name": "PULASKI, Bob",
     "country": "USA",
-    "rating": 1429.7896042702018,
+    "rating": 1429.7896042702016,
     "rd": 14.454567230333293,
     "task_count": 29
   },
@@ -8225,8 +8225,8 @@
     "slug": "kingsley-kiman",
     "display_name": "KINGSLEY, Kiman",
     "country": "USA",
-    "rating": 1424.0045870472293,
-    "rd": 14.58024104245277,
+    "rating": 1424.004587047229,
+    "rd": 14.580241042452766,
     "task_count": 12
   },
   {
@@ -8655,7 +8655,7 @@
     "slug": "akin-jb",
     "display_name": "AKIN, JB",
     "country": "USA",
-    "rating": 1407.3328464478677,
+    "rating": 1407.3328464478675,
     "rd": 15.353118982939336,
     "task_count": 76
   },
@@ -8996,7 +8996,7 @@
     "display_name": "CARTER, Jonathan",
     "country": "USA",
     "rating": 1392.1399942025541,
-    "rd": 42.44937165033128,
+    "rd": 42.44937165033127,
     "task_count": 3
   },
   {
@@ -9006,7 +9006,7 @@
     "display_name": "CLARK, Roger",
     "country": "USA",
     "rating": 1392.1399942025541,
-    "rd": 42.44937165033128,
+    "rd": 42.44937165033127,
     "task_count": 3
   },
   {
@@ -9016,7 +9016,7 @@
     "display_name": "COLBURN, Anthony",
     "country": "USA",
     "rating": 1392.1399942025541,
-    "rd": 42.44937165033128,
+    "rd": 42.44937165033127,
     "task_count": 3
   },
   {
@@ -9036,7 +9036,7 @@
     "display_name": "FORTNEY, Wayne",
     "country": "USA",
     "rating": 1392.1399942025541,
-    "rd": 42.44937165033128,
+    "rd": 42.44937165033127,
     "task_count": 3
   },
   {
@@ -9056,7 +9056,7 @@
     "display_name": "GROGAN, Patrick",
     "country": "USA",
     "rating": 1392.1399942025541,
-    "rd": 42.44937165033128,
+    "rd": 42.44937165033127,
     "task_count": 3
   },
   {
@@ -9066,7 +9066,7 @@
     "display_name": "HARBOLD, Clarke",
     "country": "USA",
     "rating": 1392.1399942025541,
-    "rd": 42.44937165033128,
+    "rd": 42.44937165033127,
     "task_count": 3
   },
   {
@@ -9226,7 +9226,7 @@
     "display_name": "RAINWATER, Tabatha",
     "country": "USA",
     "rating": 1390.4969917928336,
-    "rd": 15.225726784847515,
+    "rd": 15.22572678484751,
     "task_count": 52
   },
   {
@@ -9536,7 +9536,7 @@
     "display_name": "MCCLENAHAN, Andromeda (Andi)",
     "country": "USA",
     "rating": 1378.2039380373808,
-    "rd": 14.743659258458614,
+    "rd": 14.743659258458612,
     "task_count": 4
   },
   {
@@ -9726,7 +9726,7 @@
     "display_name": "HAYNES, Eugene (Anthony)",
     "country": "USA",
     "rating": 1372.4533588823804,
-    "rd": 14.743659258473615,
+    "rd": 14.743659258473611,
     "task_count": 4
   },
   {
@@ -10325,7 +10325,7 @@
     "slug": "sullivan-patrick",
     "display_name": "SULLIVAN, Patrick",
     "country": "USA",
-    "rating": 1346.1195771569019,
+    "rating": 1346.1195771569016,
     "rd": 12.569924861374012,
     "task_count": 29
   },
@@ -10446,7 +10446,7 @@
     "display_name": "SMITH, Cody",
     "country": "USA",
     "rating": 1338.6979931263318,
-    "rd": 12.506950277782535,
+    "rd": 12.506950277782531,
     "task_count": 16
   },
   {
@@ -10586,7 +10586,7 @@
     "display_name": "BARNHILL, Jayson",
     "country": "USA",
     "rating": 1325.3066589685081,
-    "rd": 14.328398349094513,
+    "rd": 14.328398349094511,
     "task_count": 21
   },
   {
@@ -10756,7 +10756,7 @@
     "display_name": "OUELLETTE FREVE, Johann Francois",
     "country": "CAN",
     "rating": 1319.4217547574692,
-    "rd": 14.444291993581507,
+    "rd": 14.444291993581503,
     "task_count": 44
   },
   {
@@ -10775,7 +10775,7 @@
     "slug": "adams-steven",
     "display_name": "ADAMS, Steven",
     "country": "USA",
-    "rating": 1319.0584863619185,
+    "rating": 1319.0584863619183,
     "rd": 14.62100610283759,
     "task_count": 12
   },
@@ -10786,7 +10786,7 @@
     "display_name": "MYERS, Marissa",
     "country": "USA",
     "rating": 1318.6616294556816,
-    "rd": 14.580594943001122,
+    "rd": 14.58059494300112,
     "task_count": 12
   },
   {
@@ -10835,8 +10835,8 @@
     "slug": "leonard-ian",
     "display_name": "LEONARD, Ian",
     "country": "USA",
-    "rating": 1316.4865560833773,
-    "rd": 14.66277717927947,
+    "rating": 1316.4865560833775,
+    "rd": 14.662777179279466,
     "task_count": 15
   },
   {
@@ -10845,7 +10845,7 @@
     "slug": "raper-robert",
     "display_name": "RAPER, Robert",
     "country": "USA",
-    "rating": 1316.4199501952753,
+    "rating": 1316.419950195275,
     "rd": 14.666629781368385,
     "task_count": 26
   },
@@ -10856,177 +10856,177 @@
     "display_name": "KEYSER, Ralph",
     "country": "USA",
     "rating": 1315.3849957910763,
-    "rd": 14.760034774922401,
+    "rd": 14.7600347749224,
     "task_count": 12
   },
   {
     "rank": 1087,
-    "pilot_id": "a5156c36-712c-42a2-b762-4fa3bacd8089",
-    "slug": "blackburn-jonathan",
-    "display_name": "BLACKBURN, Jonathan",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1088,
-    "pilot_id": "f371e645-a45e-4584-aedb-e64ac0058320",
-    "slug": "cochran-anthony-tony",
-    "display_name": "COCHRAN, Anthony (Tony)",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1089,
-    "pilot_id": "469556ce-0eb0-429c-a107-38064c7d43fa",
-    "slug": "enloe-stuart",
-    "display_name": "ENLOE, Stuart",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1090,
-    "pilot_id": "ab31d7d2-1452-456a-85ca-2f0462b08085",
-    "slug": "fleury-mike",
-    "display_name": "FLEURY, Mike",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1091,
-    "pilot_id": "0127830b-dfb6-496c-a35a-097029b11ac5",
-    "slug": "freeman-chris",
-    "display_name": "FREEMAN, Chris",
-    "country": "GBR",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1092,
-    "pilot_id": "84931a53-01b2-448e-b2e4-f44feafdbdb1",
-    "slug": "jones-joel",
-    "display_name": "JONES, Joel",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1093,
-    "pilot_id": "9e8c8e45-3b35-4624-96b1-2b3be56d5c93",
-    "slug": "lowenstein-albert-al",
-    "display_name": "LOWENSTEIN, Albert (Al)",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1094,
-    "pilot_id": "ea33c591-cfa8-4d7b-95c3-35f821f16017",
-    "slug": "myklebust-randy",
-    "display_name": "MYKLEBUST, Randy",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1095,
-    "pilot_id": "6b969999-3fae-4ccd-9c8b-2058f326b0c3",
-    "slug": "pye-houston",
-    "display_name": "PYE, Houston",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1096,
-    "pilot_id": "72fa69fc-0d94-4ee9-b196-c8050fe31556",
-    "slug": "smart-rex",
-    "display_name": "SMART, Rex",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1097,
-    "pilot_id": "5123c4d1-105e-4ad7-9685-cfb390446833",
-    "slug": "wehner-chuck",
-    "display_name": "WEHNER, Chuck",
-    "country": "USA",
-    "rating": 1315.3383943275878,
-    "rd": 14.743659258660118,
-    "task_count": 4
-  },
-  {
-    "rank": 1098,
     "pilot_id": "dcbcc18f-5c07-4e34-b09c-e62425b57e61",
     "slug": "bair-ray",
     "display_name": "BAIR, Ray",
     "country": "USA",
     "rating": 1315.3383943275876,
-    "rd": 14.74365925866012,
+    "rd": 14.743659258660118,
     "task_count": 4
   },
   {
-    "rank": 1099,
+    "rank": 1088,
+    "pilot_id": "a5156c36-712c-42a2-b762-4fa3bacd8089",
+    "slug": "blackburn-jonathan",
+    "display_name": "BLACKBURN, Jonathan",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1089,
+    "pilot_id": "f371e645-a45e-4584-aedb-e64ac0058320",
+    "slug": "cochran-anthony-tony",
+    "display_name": "COCHRAN, Anthony (Tony)",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1090,
+    "pilot_id": "469556ce-0eb0-429c-a107-38064c7d43fa",
+    "slug": "enloe-stuart",
+    "display_name": "ENLOE, Stuart",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1091,
+    "pilot_id": "ab31d7d2-1452-456a-85ca-2f0462b08085",
+    "slug": "fleury-mike",
+    "display_name": "FLEURY, Mike",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1092,
+    "pilot_id": "0127830b-dfb6-496c-a35a-097029b11ac5",
+    "slug": "freeman-chris",
+    "display_name": "FREEMAN, Chris",
+    "country": "GBR",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1093,
+    "pilot_id": "84931a53-01b2-448e-b2e4-f44feafdbdb1",
+    "slug": "jones-joel",
+    "display_name": "JONES, Joel",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1094,
     "pilot_id": "9e71e431-e0da-48c7-a79f-a7f63b37fb19",
     "slug": "kosinski-james-jim",
     "display_name": "KOSINSKI, James (Jim)",
     "country": "USA",
     "rating": 1315.3383943275876,
-    "rd": 14.74365925866012,
+    "rd": 14.743659258660118,
     "task_count": 4
   },
   {
-    "rank": 1100,
+    "rank": 1095,
+    "pilot_id": "9e8c8e45-3b35-4624-96b1-2b3be56d5c93",
+    "slug": "lowenstein-albert-al",
+    "display_name": "LOWENSTEIN, Albert (Al)",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1096,
     "pilot_id": "89f88a90-cc1e-407b-a31a-cfb343d4786f",
     "slug": "macnutt-william-phillip",
     "display_name": "MACNUTT, William (Phillip)",
     "country": "USA",
     "rating": 1315.3383943275876,
-    "rd": 14.74365925866012,
+    "rd": 14.743659258660118,
     "task_count": 4
   },
   {
-    "rank": 1101,
+    "rank": 1097,
     "pilot_id": "bcc506c1-2355-486e-99d2-0f05582f1211",
     "slug": "marsh-james",
     "display_name": "MARSH, James",
     "country": "USA",
     "rating": 1315.3383943275876,
-    "rd": 14.74365925866012,
+    "rd": 14.743659258660118,
     "task_count": 4
   },
   {
-    "rank": 1102,
+    "rank": 1098,
+    "pilot_id": "ea33c591-cfa8-4d7b-95c3-35f821f16017",
+    "slug": "myklebust-randy",
+    "display_name": "MYKLEBUST, Randy",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1099,
     "pilot_id": "c31f0d34-5f00-4c4d-853a-79eb2e5f8ac6",
     "slug": "orchard-timothy-tim",
     "display_name": "ORCHARD, Timothy (Tim)",
     "country": "USA",
     "rating": 1315.3383943275876,
-    "rd": 14.74365925866012,
+    "rd": 14.743659258660118,
     "task_count": 4
   },
   {
-    "rank": 1103,
+    "rank": 1100,
+    "pilot_id": "6b969999-3fae-4ccd-9c8b-2058f326b0c3",
+    "slug": "pye-houston",
+    "display_name": "PYE, Houston",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1101,
     "pilot_id": "873d9387-e415-43e5-bc12-75aad10ba5ff",
     "slug": "sampson-matthew",
     "display_name": "SAMPSON, Matthew",
     "country": "GBR",
     "rating": 1315.3383943275876,
-    "rd": 14.74365925866012,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1102,
+    "pilot_id": "72fa69fc-0d94-4ee9-b196-c8050fe31556",
+    "slug": "smart-rex",
+    "display_name": "SMART, Rex",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
+    "task_count": 4
+  },
+  {
+    "rank": 1103,
+    "pilot_id": "5123c4d1-105e-4ad7-9685-cfb390446833",
+    "slug": "wehner-chuck",
+    "display_name": "WEHNER, Chuck",
+    "country": "USA",
+    "rating": 1315.3383943275876,
+    "rd": 14.743659258660118,
     "task_count": 4
   },
   {
@@ -11076,7 +11076,7 @@
     "display_name": "HYDE, Daniel",
     "country": "USA",
     "rating": 1314.7858471513123,
-    "rd": 14.74689079685023,
+    "rd": 14.746890796850225,
     "task_count": 12
   },
   {
@@ -11186,7 +11186,7 @@
     "display_name": "DOLL, Penny",
     "country": "USA",
     "rating": 1311.9146733674127,
-    "rd": 14.927431152660402,
+    "rd": 14.927431152660398,
     "task_count": 20
   },
   {
@@ -11396,7 +11396,7 @@
     "display_name": "REED, David",
     "country": "USA",
     "rating": 1309.206576983068,
-    "rd": 15.151714027354961,
+    "rd": 15.15171402735496,
     "task_count": 17
   },
   {
@@ -11416,7 +11416,7 @@
     "display_name": "ANDERSON, Dennis",
     "country": "USA",
     "rating": 1308.9661684145876,
-    "rd": 15.176073288438335,
+    "rd": 15.176073288438333,
     "task_count": 24
   },
   {
@@ -11526,7 +11526,7 @@
     "display_name": "KAUFMAN, Blair",
     "country": "USA",
     "rating": 1305.0434645212054,
-    "rd": 15.937733459903434,
+    "rd": 15.937733459903432,
     "task_count": 76
   },
   {
