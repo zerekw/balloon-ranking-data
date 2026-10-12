@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "5cf702bf-c846-4820-a2bd-738dee7711b8",
+      "task_id": "76b73826-4baa-4dc2-ab43-492fe0ef15c8",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -109,7 +109,7 @@
       ]
     },
     {
-      "task_id": "8d96c943-8279-4bc6-88b4-a51a6df87845",
+      "task_id": "a7a5552f-5de9-4713-ba6b-cacbe5ab3c04",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "task_id": "4414adfd-5e5d-4a58-98f5-8b4cc7bc6012",
+      "task_id": "56a66b67-3f0d-4935-9c70-9f36b6841ae9",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "task_id": "79d169f3-ca56-452b-abfd-d8019d681566",
+      "task_id": "75ae3100-18e1-4ef5-bfcc-ef2b533e179a",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -314,13 +314,13 @@
           "raw_points": 1000.0
         },
         {
-          "pilot_id": "b14bf064-1d4e-4616-b959-3f1825f89901",
+          "pilot_id": "75552947-3ad9-463e-b3bc-ca2fcc5c136d",
           "position": 2,
           "no_result": false,
           "raw_points": 904.0
         },
         {
-          "pilot_id": "75552947-3ad9-463e-b3bc-ca2fcc5c136d",
+          "pilot_id": "b14bf064-1d4e-4616-b959-3f1825f89901",
           "position": 2,
           "no_result": false,
           "raw_points": 904.0
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "task_id": "26210a8e-cb78-43ab-b7df-8923a64e090f",
+      "task_id": "98a4322e-7a6a-4ac4-b32c-d648130c8d81",
       "task_number": 5,
       "task_type": "Fly On",
       "results": [
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "task_id": "322fb879-cdcf-4f49-9790-0dcc3916d910",
+      "task_id": "22628bd2-3304-477a-b4cf-9b965e56f1e9",
       "task_number": 6,
       "task_type": "Hare and Hounds",
       "results": [
@@ -594,7 +594,7 @@
       ]
     },
     {
-      "task_id": "39bae9e8-6f1a-440b-acd4-93d31ab4f246",
+      "task_id": "69b30131-3fd9-4433-b1da-c3627e29e7ec",
       "task_number": 7,
       "task_type": "Hare and Hounds",
       "results": [
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "task_id": "05b255d2-7076-426b-9891-76f95f481183",
+      "task_id": "491aa074-7806-4f7b-bb0b-15411f67540a",
       "task_number": 8,
       "task_type": "Hare and Hounds",
       "results": [
