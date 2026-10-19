@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "c963094a-6b1c-4028-91c3-f6f4d30433fb",
+      "task_id": "afc85b08-8a8f-4f52-9f29-e03764d38fd9",
       "task_number": 1,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -247,7 +247,7 @@
       ]
     },
     {
-      "task_id": "21886fe4-f4c2-4c27-8dd2-a0ebe66bd595",
+      "task_id": "1843beb6-f52e-4bdd-8436-5204801b9f9e",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -482,7 +482,7 @@
       ]
     },
     {
-      "task_id": "7fad28c8-a5f9-4f76-894c-098c8dba8b04",
+      "task_id": "693f56af-69b0-4804-87e9-988fc05d0ee0",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -717,7 +717,7 @@
       ]
     },
     {
-      "task_id": "bb01edc5-0180-41f0-8736-72ce6e367f2e",
+      "task_id": "2a4331de-e688-4b69-b063-5cd6b1da875b",
       "task_number": 4,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -952,7 +952,7 @@
       ]
     },
     {
-      "task_id": "18c2dece-3dbc-4a90-9a4f-0f1c64430939",
+      "task_id": "3560c2f0-2262-4985-99e9-cc4dd1d7a6be",
       "task_number": 5,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -1041,12 +1041,6 @@
           "raw_points": 594.0
         },
         {
-          "pilot_id": "ff9e1b3d-91ca-4971-aeb1-23e3c37b5e21",
-          "position": 38,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
           "pilot_id": "07aeaeed-8f17-4438-a800-968261ddc2b5",
           "position": 38,
           "no_result": false,
@@ -1059,16 +1053,10 @@
           "raw_points": null
         },
         {
-          "pilot_id": "fd0406df-2492-4d8b-9f5f-3b9f740646fc",
-          "position": null,
-          "no_result": true,
-          "raw_points": 394.0
-        },
-        {
-          "pilot_id": "923ad58f-70bb-42da-bf4c-7e94674f9062",
-          "position": null,
-          "no_result": true,
-          "raw_points": 394.0
+          "pilot_id": "ff9e1b3d-91ca-4971-aeb1-23e3c37b5e21",
+          "position": 38,
+          "no_result": false,
+          "raw_points": null
         },
         {
           "pilot_id": "a56d693b-0ea7-4ebd-a318-076e71e91a34",
@@ -1180,6 +1168,18 @@
         },
         {
           "pilot_id": "5def0b87-1818-49a0-a64f-92d81e4c9791",
+          "position": null,
+          "no_result": true,
+          "raw_points": 394.0
+        },
+        {
+          "pilot_id": "fd0406df-2492-4d8b-9f5f-3b9f740646fc",
+          "position": null,
+          "no_result": true,
+          "raw_points": 394.0
+        },
+        {
+          "pilot_id": "923ad58f-70bb-42da-bf4c-7e94674f9062",
           "position": null,
           "no_result": true,
           "raw_points": 394.0
