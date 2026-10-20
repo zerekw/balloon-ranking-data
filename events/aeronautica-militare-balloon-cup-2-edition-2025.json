@@ -12,18 +12,18 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "4195d987-8b74-48d5-82e9-53c19ce0f0e3",
+      "task_id": "81fd36e3-8052-4d71-9e1f-0ba5d7ad0402",
       "task_number": 1,
       "task_type": "Pilot Declared Goal",
       "results": [
         {
-          "pilot_id": "75552947-3ad9-463e-b3bc-ca2fcc5c136d",
+          "pilot_id": "b14bf064-1d4e-4616-b959-3f1825f89901",
           "position": 1,
           "no_result": false,
           "raw_points": 1000.0
         },
         {
-          "pilot_id": "b14bf064-1d4e-4616-b959-3f1825f89901",
+          "pilot_id": "75552947-3ad9-463e-b3bc-ca2fcc5c136d",
           "position": 1,
           "no_result": false,
           "raw_points": 1000.0
@@ -83,6 +83,12 @@
           "raw_points": 200.0
         },
         {
+          "pilot_id": "4ffaddd5-3daf-4235-9a0c-0f811b3e04a4",
+          "position": null,
+          "no_result": true,
+          "raw_points": 200.0
+        },
+        {
           "pilot_id": "0d7c0521-4e73-4473-851a-547117258da3",
           "position": null,
           "no_result": true,
@@ -99,17 +105,11 @@
           "position": null,
           "no_result": true,
           "raw_points": 200.0
-        },
-        {
-          "pilot_id": "4ffaddd5-3daf-4235-9a0c-0f811b3e04a4",
-          "position": null,
-          "no_result": true,
-          "raw_points": 200.0
         }
       ]
     },
     {
-      "task_id": "c092aefe-277c-4018-80a4-af4ff704ac98",
+      "task_id": "4412ead6-9de3-447e-88a1-79434e96913b",
       "task_number": 2,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -206,7 +206,7 @@
       ]
     },
     {
-      "task_id": "59fc887f-a60a-48dd-be6b-579f1a855087",
+      "task_id": "753a73b5-be5a-46e4-9406-25902e08314c",
       "task_number": 3,
       "task_type": "Judge Declared Goal",
       "results": [
@@ -303,7 +303,7 @@
       ]
     },
     {
-      "task_id": "bb7ae5e8-3784-47f7-b005-9be9d918e18b",
+      "task_id": "39762f0a-cb8a-491c-a028-e3b7f75f8b6a",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -400,7 +400,7 @@
       ]
     },
     {
-      "task_id": "c0476ddd-b679-4440-93e3-53382e3fbaaa",
+      "task_id": "6394f5c7-c345-40bb-9776-2371abe6ff7e",
       "task_number": 5,
       "task_type": "Fly On",
       "results": [
@@ -497,7 +497,7 @@
       ]
     },
     {
-      "task_id": "c3d37e9f-56d8-4b02-a256-10e6c27f04e1",
+      "task_id": "811feee2-98fd-4eee-b8e9-0259189d6341",
       "task_number": 6,
       "task_type": "Hare and Hounds",
       "results": [
@@ -594,7 +594,7 @@
       ]
     },
     {
-      "task_id": "61179f61-7c77-4d43-9530-812e00654885",
+      "task_id": "cdd783b2-0c08-4045-a6d5-18ae053292af",
       "task_number": 7,
       "task_type": "Hare and Hounds",
       "results": [
@@ -691,7 +691,7 @@
       ]
     },
     {
-      "task_id": "0dede9c9-9a04-4544-a049-9e311694969e",
+      "task_id": "0262e6d2-53f4-4db9-911d-f443811d7056",
       "task_number": 8,
       "task_type": "Hare and Hounds",
       "results": [
