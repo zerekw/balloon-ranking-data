@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "f0a105aa-8a91-4aaf-a11a-756a57877449",
+      "task_id": "e0b58423-73b4-43ff-92d1-ce6f9774ccd6",
       "task_number": 1,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1081,7 +1081,7 @@
       ]
     },
     {
-      "task_id": "8015886d-e35b-4dfd-9e76-a6e30176912f",
+      "task_id": "2a0733a0-928a-4cac-9d27-5be7c9ac282c",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2150,7 +2150,7 @@
       ]
     },
     {
-      "task_id": "b4a39b3a-1f6f-4f78-ad9c-9d5a23f326ca",
+      "task_id": "a9a5e3e7-4fb9-47b9-9a96-822cdcc5454d",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -3219,7 +3219,7 @@
       ]
     },
     {
-      "task_id": "8f1494ef-28ea-4b5d-bb81-6a2eba54e505",
+      "task_id": "af2ab4b3-acbe-4e61-a643-da82b8da7315",
       "task_number": 4,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -4288,7 +4288,7 @@
       ]
     },
     {
-      "task_id": "0428a0a1-7283-498f-93e2-8b7828c6cade",
+      "task_id": "88b98d85-ff3b-48eb-8ab9-4bb9f276c67b",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -4437,6 +4437,12 @@
           "raw_points": 867.0
         },
         {
+          "pilot_id": "49704fa1-1b86-40a3-9467-4caf92a03330",
+          "position": 177,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
           "pilot_id": "5be65f98-d3fb-4ff0-84c3-fcbfef537716",
           "position": 177,
           "no_result": false,
@@ -4450,12 +4456,6 @@
         },
         {
           "pilot_id": "2c1a946c-e53b-47fb-b328-d1ce7536e8ee",
-          "position": 177,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "49704fa1-1b86-40a3-9467-4caf92a03330",
           "position": 177,
           "no_result": false,
           "raw_points": null
@@ -5073,7 +5073,7 @@
           "raw_points": 667.0
         },
         {
-          "pilot_id": "23fa16ef-b10b-4793-ba12-28a4d691c176",
+          "pilot_id": "c350ddd5-51c0-46ba-ab8c-f80eb2f6d29f",
           "position": null,
           "no_result": true,
           "raw_points": 667.0
@@ -5187,7 +5187,7 @@
           "raw_points": 667.0
         },
         {
-          "pilot_id": "c350ddd5-51c0-46ba-ab8c-f80eb2f6d29f",
+          "pilot_id": "23fa16ef-b10b-4793-ba12-28a4d691c176",
           "position": null,
           "no_result": true,
           "raw_points": 667.0
@@ -5357,7 +5357,7 @@
       ]
     },
     {
-      "task_id": "3ffe8d2e-bd52-4184-b32b-773b20cc1bf7",
+      "task_id": "4cda3059-c7db-4052-a6c4-070b2f917504",
       "task_number": 6,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -6426,7 +6426,7 @@
       ]
     },
     {
-      "task_id": "71aae378-a239-4bc4-a10a-602e5e3c049b",
+      "task_id": "48e73969-cfc9-4e4f-9f83-fb3d892447cb",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -7495,7 +7495,7 @@
       ]
     },
     {
-      "task_id": "84079742-bdba-458a-87cd-b7bc38222c42",
+      "task_id": "a942660a-3324-4d6a-bf5a-aa477ab30ee1",
       "task_number": 8,
       "task_type": "Maximum Distance",
       "results": [
