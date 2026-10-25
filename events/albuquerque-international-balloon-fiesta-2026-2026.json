@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "3fa1f4bc-d642-4e3e-89d4-f2c3ecc263a5",
+      "task_id": "976e5c75-6ecf-4504-af29-52b087a886eb",
       "task_number": 1,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -29,13 +29,13 @@
           "raw_points": 999.0
         },
         {
-          "pilot_id": "0fd76147-5ced-43a5-aaee-79390d8121f2",
+          "pilot_id": "0f71f9b7-d882-4951-aead-2b3d60e0efc9",
           "position": 3,
           "no_result": false,
           "raw_points": 998.0
         },
         {
-          "pilot_id": "0f71f9b7-d882-4951-aead-2b3d60e0efc9",
+          "pilot_id": "0fd76147-5ced-43a5-aaee-79390d8121f2",
           "position": 3,
           "no_result": false,
           "raw_points": 998.0
@@ -83,13 +83,13 @@
           "raw_points": 871.0
         },
         {
-          "pilot_id": "ce4d2f74-cf97-438e-8881-f9a27b241a96",
+          "pilot_id": "07aeaeed-8f17-4438-a800-968261ddc2b5",
           "position": 11,
           "no_result": false,
           "raw_points": 871.0
         },
         {
-          "pilot_id": "07aeaeed-8f17-4438-a800-968261ddc2b5",
+          "pilot_id": "ce4d2f74-cf97-438e-8881-f9a27b241a96",
           "position": 11,
           "no_result": false,
           "raw_points": 871.0
@@ -119,7 +119,7 @@
           "raw_points": 868.0
         },
         {
-          "pilot_id": "fafc9c9e-aed9-4a4a-9d25-21412fc93b72",
+          "pilot_id": "1f887ed9-2040-4fa8-8505-897698ac7422",
           "position": 18,
           "no_result": false,
           "raw_points": 867.0
@@ -131,7 +131,7 @@
           "raw_points": 867.0
         },
         {
-          "pilot_id": "1f887ed9-2040-4fa8-8505-897698ac7422",
+          "pilot_id": "fafc9c9e-aed9-4a4a-9d25-21412fc93b72",
           "position": 18,
           "no_result": false,
           "raw_points": 867.0
@@ -269,13 +269,13 @@
           "raw_points": 741.0
         },
         {
-          "pilot_id": "79f95d0e-1ad9-4e8f-8257-7f7d94ea3237",
+          "pilot_id": "8a776032-335f-4c71-8099-1674796f773b",
           "position": 43,
           "no_result": false,
           "raw_points": 740.0
         },
         {
-          "pilot_id": "8a776032-335f-4c71-8099-1674796f773b",
+          "pilot_id": "79f95d0e-1ad9-4e8f-8257-7f7d94ea3237",
           "position": 43,
           "no_result": false,
           "raw_points": 740.0
@@ -293,13 +293,13 @@
           "raw_points": 738.0
         },
         {
-          "pilot_id": "ab2d5950-29c6-4815-bf18-75588345fb74",
+          "pilot_id": "b8e68541-97a0-4bd2-9462-480c1caf78f6",
           "position": 47,
           "no_result": false,
           "raw_points": 737.0
         },
         {
-          "pilot_id": "b8e68541-97a0-4bd2-9462-480c1caf78f6",
+          "pilot_id": "ab2d5950-29c6-4815-bf18-75588345fb74",
           "position": 47,
           "no_result": false,
           "raw_points": 737.0
@@ -311,7 +311,7 @@
           "raw_points": 736.0
         },
         {
-          "pilot_id": "d36b6913-7b21-4b41-882b-9e448706ee24",
+          "pilot_id": "9dc4665c-7ac1-4682-a834-29ddc4416631",
           "position": 50,
           "no_result": false,
           "raw_points": 735.0
@@ -323,7 +323,7 @@
           "raw_points": 735.0
         },
         {
-          "pilot_id": "9dc4665c-7ac1-4682-a834-29ddc4416631",
+          "pilot_id": "d36b6913-7b21-4b41-882b-9e448706ee24",
           "position": 50,
           "no_result": false,
           "raw_points": 735.0
@@ -407,13 +407,13 @@
           "raw_points": 623.0
         },
         {
-          "pilot_id": "11238be5-2328-408a-b8cc-005376a24739",
+          "pilot_id": "fe6ebca6-6aa0-49fa-a716-19cf85efca96",
           "position": 66,
           "no_result": false,
           "raw_points": 621.0
         },
         {
-          "pilot_id": "fe6ebca6-6aa0-49fa-a716-19cf85efca96",
+          "pilot_id": "11238be5-2328-408a-b8cc-005376a24739",
           "position": 66,
           "no_result": false,
           "raw_points": 621.0
@@ -581,7 +581,7 @@
           "raw_points": 316.0
         },
         {
-          "pilot_id": "ca80dd9e-dc0d-4738-bd40-7c06bd80a14d",
+          "pilot_id": "762c1d38-aecc-496a-8fe4-e5f187791eb9",
           "position": null,
           "no_result": true,
           "raw_points": 316.0
@@ -1013,6 +1013,12 @@
           "raw_points": 316.0
         },
         {
+          "pilot_id": "ca80dd9e-dc0d-4738-bd40-7c06bd80a14d",
+          "position": null,
+          "no_result": true,
+          "raw_points": 316.0
+        },
+        {
           "pilot_id": "7e7fa112-c9a4-4f92-886f-85ecd10f9056",
           "position": null,
           "no_result": true,
@@ -1115,12 +1121,6 @@
           "raw_points": 316.0
         },
         {
-          "pilot_id": "762c1d38-aecc-496a-8fe4-e5f187791eb9",
-          "position": null,
-          "no_result": true,
-          "raw_points": 316.0
-        },
-        {
           "pilot_id": "d5c2f566-2274-4439-aabc-f2dc859a6b96",
           "position": null,
           "no_result": true,
@@ -1129,7 +1129,7 @@
       ]
     },
     {
-      "task_id": "36c64606-bec4-4d98-8564-67ab781331d2",
+      "task_id": "150cff97-09e1-4357-8a59-409882671c69",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2246,7 +2246,7 @@
       ]
     },
     {
-      "task_id": "4bb3a9ff-50be-43bf-a656-66d09f3287de",
+      "task_id": "0f348a57-5b27-4ec4-8072-9e8fbf483911",
       "task_number": 3,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -3363,7 +3363,7 @@
       ]
     },
     {
-      "task_id": "5b10d521-c89b-4144-9813-966bff407282",
+      "task_id": "7dc9b7af-f618-4066-a208-d6f1a58bc2ff",
       "task_number": 4,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -4480,7 +4480,7 @@
       ]
     },
     {
-      "task_id": "2d377f37-d1ff-4d23-b991-3d157aefb0ea",
+      "task_id": "83fa4c81-6b91-4791-82b4-a29644cc7ded",
       "task_number": 5,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -5597,7 +5597,7 @@
       ]
     },
     {
-      "task_id": "a0d8cc2b-f87d-4347-87a3-7ad5ceb299b6",
+      "task_id": "b8b521a1-947c-4b51-bf05-bb13d4568572",
       "task_number": 6,
       "task_type": "Hesitation Waltz",
       "results": [
