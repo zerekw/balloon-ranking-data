@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "d56c68f0-0ec8-4fc4-a649-ed6b8ae43e3e",
+      "task_id": "28da548f-d0ea-4740-98c1-1814d7da387c",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -77,13 +77,13 @@
           "raw_points": 840.0
         },
         {
-          "pilot_id": "bd3dd6e6-a311-42de-a546-28cb5c8ab4b2",
+          "pilot_id": "85929ee9-ec51-4621-86b4-e922d23ef300",
           "position": 11,
           "no_result": false,
           "raw_points": 837.0
         },
         {
-          "pilot_id": "85929ee9-ec51-4621-86b4-e922d23ef300",
+          "pilot_id": "bd3dd6e6-a311-42de-a546-28cb5c8ab4b2",
           "position": 11,
           "no_result": false,
           "raw_points": 837.0
@@ -319,7 +319,7 @@
       ]
     },
     {
-      "task_id": "6bd8f3f6-c081-4358-a44e-26c568ff992f",
+      "task_id": "c068267f-97e4-4de5-8844-755e51872334",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -626,7 +626,7 @@
       ]
     },
     {
-      "task_id": "1ef8087f-0802-4c2e-b059-0532244e8834",
+      "task_id": "735d62dc-d850-4762-8630-b1bf22a632cd",
       "task_number": 3,
       "task_type": "Pilot Declared Goal",
       "results": [
@@ -933,7 +933,7 @@
       ]
     },
     {
-      "task_id": "8259d3f8-a36d-4fdf-83dc-0360a2af9501",
+      "task_id": "d189709b-6f72-4745-8f6d-9f8d23f0469a",
       "task_number": 4,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1240,7 +1240,7 @@
       ]
     },
     {
-      "task_id": "dac952d0-e696-4315-ade9-b7d9cfd89b2d",
+      "task_id": "2d7f527e-4f7c-4a2f-8f97-6e3911881654",
       "task_number": 6,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1547,7 +1547,7 @@
       ]
     },
     {
-      "task_id": "ae0a3447-fd77-4e77-9829-1b4375af0d5c",
+      "task_id": "ae1b048c-f7fe-46c5-9c01-663c5fc9150e",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -1854,7 +1854,7 @@
       ]
     },
     {
-      "task_id": "f6b767bf-992a-4347-ad24-248da514918a",
+      "task_id": "fd87e783-b863-4c2e-b0db-32ecd3883b63",
       "task_number": 8,
       "task_type": "Fly On",
       "results": [
