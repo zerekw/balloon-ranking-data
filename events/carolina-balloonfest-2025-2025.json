@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "d1774403-ed35-4b65-bfd7-47a7c69ff943",
+      "task_id": "2d1f6076-4d1f-472c-b119-b52f56016fa8",
       "task_number": 1,
       "task_type": "Fly In",
       "results": [
@@ -301,7 +301,7 @@
       ]
     },
     {
-      "task_id": "39fc0606-843b-4dba-ada3-00e82df55dd0",
+      "task_id": "b61c047e-eb49-4797-8ae8-4fd2abd1fc8f",
       "task_number": 2,
       "task_type": "Maximum Distance",
       "results": [
@@ -312,49 +312,19 @@
           "raw_points": 1000.0
         },
         {
-          "pilot_id": "35bbc0ab-8cfd-4253-9f0f-a1645e8b3375",
-          "position": 47,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "1d1d63ba-340a-417f-90f8-87b7632ef50d",
-          "position": 47,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "2aca14eb-76bd-433b-adb7-b930665780c4",
-          "position": 47,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "a4f6379a-9fa2-4682-9e11-2afdf1634e5e",
-          "position": 47,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "cf3df1e0-a829-493d-83ec-f9c8aa0e9016",
-          "position": 47,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "ff0cfdf6-7a52-439e-88bc-32589ddcc27a",
-          "position": 47,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
-          "pilot_id": "ff4bf495-c03a-4518-8551-62c0378bd5c7",
+          "pilot_id": "a7fa1cf1-0fd9-49c2-a031-54f81dca25e1",
           "position": 47,
           "no_result": false,
           "raw_points": null
         },
         {
           "pilot_id": "37c4f745-af2a-4353-ac56-5180b0fedcdf",
+          "position": 47,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "ff4bf495-c03a-4518-8551-62c0378bd5c7",
           "position": 47,
           "no_result": false,
           "raw_points": null
@@ -390,7 +360,37 @@
           "raw_points": null
         },
         {
-          "pilot_id": "a7fa1cf1-0fd9-49c2-a031-54f81dca25e1",
+          "pilot_id": "35bbc0ab-8cfd-4253-9f0f-a1645e8b3375",
+          "position": 47,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "1d1d63ba-340a-417f-90f8-87b7632ef50d",
+          "position": 47,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "2aca14eb-76bd-433b-adb7-b930665780c4",
+          "position": 47,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "a4f6379a-9fa2-4682-9e11-2afdf1634e5e",
+          "position": 47,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "cf3df1e0-a829-493d-83ec-f9c8aa0e9016",
+          "position": 47,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "ff0cfdf6-7a52-439e-88bc-32589ddcc27a",
           "position": 47,
           "no_result": false,
           "raw_points": null
@@ -590,7 +590,7 @@
       ]
     },
     {
-      "task_id": "a4079ecd-2787-460b-a223-e14acc8ce132",
+      "task_id": "9571ce6a-eac4-49b4-bfe2-266aff0bfd13",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
