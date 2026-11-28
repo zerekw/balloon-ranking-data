@@ -12,7 +12,7 @@
   "included": true,
   "tasks": [
     {
-      "task_id": "b50dc0de-47a5-4381-90c6-88af63fa3e37",
+      "task_id": "c3cacecf-bf30-4640-9344-2549727fee3b",
       "task_number": 1,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -1081,7 +1081,7 @@
       ]
     },
     {
-      "task_id": "be1b10f7-4fbf-4e38-95e8-2d8d1743cb71",
+      "task_id": "cf706658-e6fd-406f-a937-396ebf8c1bd1",
       "task_number": 2,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -2150,7 +2150,7 @@
       ]
     },
     {
-      "task_id": "d5621a7a-e1ef-4ca9-908a-05838be0f09a",
+      "task_id": "ff8d4b73-d09d-4547-b6b0-eab94c5e1abe",
       "task_number": 3,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -3219,7 +3219,7 @@
       ]
     },
     {
-      "task_id": "79ab3bd6-d7ae-4f67-90d8-ec0fdb9532dd",
+      "task_id": "d0999e2a-3ca5-47e9-8110-24ac0933fb8a",
       "task_number": 4,
       "task_type": "Maximum Distance Double Drop",
       "results": [
@@ -4288,7 +4288,7 @@
       ]
     },
     {
-      "task_id": "4634ae63-8eae-47ec-b824-9c0d16fbe6c7",
+      "task_id": "f6d99513-f333-4022-9c6f-a82f57e69b9c",
       "task_number": 5,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -5357,7 +5357,7 @@
       ]
     },
     {
-      "task_id": "87132120-b2d9-41c0-9f99-77613f0fe4a2",
+      "task_id": "af06d868-49db-4dd5-97dc-4dd4b55c8c2b",
       "task_number": 6,
       "task_type": "Gordon Bennett Memorial",
       "results": [
@@ -6426,7 +6426,7 @@
       ]
     },
     {
-      "task_id": "63ee9c42-a7bb-4ce9-8491-6cf4b3ada9ca",
+      "task_id": "74d09795-de06-453f-8759-a0b1332a9c1d",
       "task_number": 7,
       "task_type": "Hesitation Waltz",
       "results": [
@@ -7495,7 +7495,7 @@
       ]
     },
     {
-      "task_id": "088a4eab-d317-4c0c-a5c3-9c629f046f90",
+      "task_id": "3ee2f06c-9b62-4ce0-b1b6-58e0fd489b79",
       "task_number": 8,
       "task_type": "Maximum Distance",
       "results": [
@@ -7752,19 +7752,19 @@
           "raw_points": 767.0
         },
         {
-          "pilot_id": "49704fa1-1b86-40a3-9467-4caf92a03330",
-          "position": 177,
-          "no_result": false,
-          "raw_points": null
-        },
-        {
           "pilot_id": "7cdc15b8-2f22-4639-a783-e3a86589db5c",
           "position": 177,
           "no_result": false,
           "raw_points": null
         },
         {
-          "pilot_id": "5be65f98-d3fb-4ff0-84c3-fcbfef537716",
+          "pilot_id": "49704fa1-1b86-40a3-9467-4caf92a03330",
+          "position": 177,
+          "no_result": false,
+          "raw_points": null
+        },
+        {
+          "pilot_id": "2c1a946c-e53b-47fb-b328-d1ce7536e8ee",
           "position": 177,
           "no_result": false,
           "raw_points": null
@@ -7776,7 +7776,7 @@
           "raw_points": null
         },
         {
-          "pilot_id": "2c1a946c-e53b-47fb-b328-d1ce7536e8ee",
+          "pilot_id": "5be65f98-d3fb-4ff0-84c3-fcbfef537716",
           "position": 177,
           "no_result": false,
           "raw_points": null
@@ -8154,12 +8154,6 @@
           "raw_points": 562.0
         },
         {
-          "pilot_id": "5f5865d1-f5a3-429a-8267-7358549d6b10",
-          "position": null,
-          "no_result": true,
-          "raw_points": 562.0
-        },
-        {
           "pilot_id": "ca80dd9e-dc0d-4738-bd40-7c06bd80a14d",
           "position": null,
           "no_result": true,
@@ -8173,6 +8167,12 @@
         },
         {
           "pilot_id": "1101c6ca-7ef5-449f-8031-c713c8c62270",
+          "position": null,
+          "no_result": true,
+          "raw_points": 562.0
+        },
+        {
+          "pilot_id": "661c6276-f2a7-4eea-aead-1f70c071826a",
           "position": null,
           "no_result": true,
           "raw_points": 562.0
@@ -8280,7 +8280,7 @@
           "raw_points": 562.0
         },
         {
-          "pilot_id": "661c6276-f2a7-4eea-aead-1f70c071826a",
+          "pilot_id": "5f5865d1-f5a3-429a-8267-7358549d6b10",
           "position": null,
           "no_result": true,
           "raw_points": 562.0
